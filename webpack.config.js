@@ -13,7 +13,7 @@ module.exports = {
   plugins,
   entry: path.resolve(__dirname, 'src', 'index.jsx'),
   output: {
-      path: path.resolve(__dirname, 'output'),
+      path: path.resolve(__dirname, 'dist'),
       filename: 'bundle.js'
   },
   resolve: {
