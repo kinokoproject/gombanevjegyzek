@@ -4,7 +4,7 @@ import { useFlexSearch } from './react-use-flexsearch'
 import { Formik, Form, Field } from 'formik'
 import FlexSearch from 'flexsearch'
 import names from './db'
-import './styles/app.scss';
+import './style/app.scss';
 
 const index = new FlexSearch({
   encode: "advanced",
@@ -28,29 +28,52 @@ export default function SearchBar() {
 
   return (
     <div>
-      <div class='form row'>
-        <form >
-          <label>Keresés:</label>
-          <input name="query" type="text" onChange={(event) => setQuery(event.target.value) } />
-          <span>{results.length} találat</span>
-        </form>
-      </div>
-      <div class='species-list row'>
-        <ul class='header'>
-          <li>Latin név</li>
-          <li>Latin szinonímák</li>
-          <li>Magyar név</li>
-          <li>Magyar szinonímák</li>
-        </ul>
-        {results.map(sp => (
-          <ul>
-            <li class='latin'>{sp.latin}</li>
-            <li class='latin-syn'>{sp.latin_syn ? sp.latin_syn.join(", ") : ''}</li>
-            <li class='hun'>{sp.hun}</li>
-            <li class='hun-syn'>{sp.hun_syn ? sp.hun_syn.join(", ") : ''}</li>
-          </ul>
-        ))}
-      </div>
+      <section class="hero is-light">
+        <div class="hero-body">
+          <div class="container is-max-desktop">
+            <div class="field is-horizontal">
+              <div class="field-body">
+                <div class="field">
+                  <p class="control">
+                    <input placeholder="Keresés" class="input" name="query" type="text" onChange={(event) => setQuery(event.target.value) } />
+                  </p>
+                </div>
+              </div>
+              <div class="field-label is-normal">
+                <span class="label">{results.length} találat</span>
+              </div>
+            </div>      
+          </div>
+        </div>
+      </section>
+      <section class="section">
+        <div class="container">
+          <div class="b-table">
+            <div class="table-wrapper has-mobile-cards">
+              <table class="table is-fullwidth is-striped is-hoverable">
+                  <thead>
+                  <tr>
+                    <th>Latin név</th>
+                    <th>Latin szinonímák</th>
+                    <th>Magyar név</th>
+                    <th>Magyar szinonímák</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  {results.map(sp => (
+                    <tr>
+                      <td data-label="latin" class='latin'>{sp.latin}</td>
+                      <td data-label="latin szin." class='latin-syn'>{sp.latin_syn ? sp.latin_syn.join(", ") : ''}</td>
+                      <td data-label="magyar" class='hun'>{sp.hun}</td>
+                      <td data-label="magyar szin." class='hun-syn'>{sp.hun_syn ? sp.hun_syn.join(", ") : ''}</td>
+                    </tr>
+                  ))}
+                 </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
   )
 }

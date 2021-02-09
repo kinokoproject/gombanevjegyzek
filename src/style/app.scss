@@ -1,0 +1,20 @@
+@charset "utf-8";
+@import "node_modules/bulma/bulma";
+@import "node_modules/bulma-responsive-tables/bulma-responsive-tables";
+
+label {
+  margin-right: 1em;
+}
+
+td.latin {
+  font-style: italic;
+  font-weight: bold; 
+}
+
+td.latin-syn {
+  font-style: italic;
+}
+
+td.hun {
+  font-weight: bold;
+}

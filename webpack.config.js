@@ -1,16 +1,9 @@
 const path = require('path');
-const MiniCssExtractPlugin = require("mini-css-extract-plugin");
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 const devMode = process.env.NODE_ENV !== 'production';
 
-const plugins = [];
-if (!devMode) {
-  // enable in production only
-  plugins.push(new MiniCssExtractPlugin());
-}
-
 module.exports = {
-  plugins,
   entry: path.resolve(__dirname, 'src', 'index.jsx'),
   output: {
       path: path.resolve(__dirname, 'dist'),
@@ -36,14 +29,24 @@ module.exports = {
          {
             test: /\.(sa|sc|c)ss$/,
             use: [
-              devMode ? 'style-loader' : MiniCssExtractPlugin.loader,
-              'css-loader',
-              'postcss-loader',
-              'sass-loader']
+                MiniCssExtractPlugin.loader,
+                {
+                  loader: 'css-loader'
+                },
+                {
+                  loader: 'sass-loader',
+                  options: {
+                    sourceMap: true,
+                    // options...
+                  }
+                }
+              ]
          }
       ]
   },
+  plugins: [new MiniCssExtractPlugin()],
   devServer: {
-      contentBase: path.resolve(__dirname),
+      contentBase: path.join(__dirname, 'dist'),
+      compress: true,
   }
 };

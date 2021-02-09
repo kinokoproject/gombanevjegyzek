@@ -20,6 +20,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
+    "bulma-responsive-tables": "^1.2.3",
     "flexsearch": "^0.6.32",
     "formik": "^2.2.6",
     "react": "^17.0.1",
