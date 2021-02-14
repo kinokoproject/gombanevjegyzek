@@ -1,22 +1,48 @@
 const path = require('path');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const CopyWebpackPlugin = require("copy-webpack-plugin");
+const JsonMinimizerPlugin = require("json-minimizer-webpack-plugin");
 
-const devMode = process.env.NODE_ENV !== 'production';
+const PATHS = {
+  src: path.join(__dirname, 'src'),
+  dist: path.join(__dirname, 'dist')
+}
 
 module.exports = {
-  entry: path.resolve(__dirname, 'src', 'index.jsx'),
+  mode: 'production',
+  entry: [
+    path.join(PATHS.src, 'index.jsx'),
+  ],
   output: {
-      path: path.resolve(__dirname, 'dist'),
-      filename: 'bundle.js'
+      path: PATHS.dist,
+      filename: '[name].bundle.js',
+  },
+  optimization: {
+    minimize: true,
+    minimizer: [
+      `...`,
+      new JsonMinimizerPlugin(),
+    ],
+    runtimeChunk: 'single',
+    splitChunks: {
+      cacheGroups: {
+        vendor: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'vendors',
+          chunks: 'all'
+        }
+      }
+    }
   },
   resolve: {
       extensions: ['.js', '.jsx']
   },
   module: {
       rules: [
-         {
-             test: /\.jsx/,
-             use: {
+          {
+              test: /\.jsx/,
+              use: {
                 loader: 'babel-loader',
                 options: {
                   presets: [
@@ -25,8 +51,8 @@ module.exports = {
                   ]
                 }
              }
-         },
-         {
+          },
+          {
             test: /\.(sa|sc|c)ss$/,
             use: [
                 MiniCssExtractPlugin.loader,
@@ -35,18 +61,34 @@ module.exports = {
                 },
                 {
                   loader: 'sass-loader',
-                  options: {
-                    sourceMap: true,
-                    // options...
-                  }
                 }
               ]
-         }
-      ]
+          },
+          {
+            test: /\.json/i,
+            type: "javascript/auto",
+            use: [
+              {
+                loader: "json-loader",
+                options: {
+                  name: "[name].[ext]",
+                },
+              },
+            ],
+          },
+      ],
   },
-  plugins: [new MiniCssExtractPlugin()],
+  plugins: [
+    new MiniCssExtractPlugin(),
+    new CleanWebpackPlugin(),
+    new CopyWebpackPlugin({
+      patterns: [
+        { from: path.join(PATHS.src, 'index.html'), to: PATHS.dist },
+      ],
+    }),
+  ],
   devServer: {
-      contentBase: path.join(__dirname, 'dist'),
+      contentBase: PATHS.dist,
       compress: true,
   }
 };

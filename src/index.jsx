@@ -1,9 +1,8 @@
 import React, { useState } from 'react'
 import ReactDOM from 'react-dom'
 import { useFlexSearch } from './react-use-flexsearch'
-import { Formik, Form, Field } from 'formik'
 import FlexSearch from 'flexsearch'
-import names from './db'
+import names from './db.json'
 import './style/app.scss';
 
 const index = new FlexSearch({
@@ -62,10 +61,10 @@ export default function SearchBar() {
                   <tbody>
                   {results.map(sp => (
                     <tr>
-                      <td data-label="latin" class='latin'>{sp.latin}</td>
-                      <td data-label="latin szin." class='latin-syn'>{sp.latin_syn ? sp.latin_syn.join(", ") : ''}</td>
-                      <td data-label="magyar" class='hun'>{sp.hun}</td>
-                      <td data-label="magyar szin." class='hun-syn'>{sp.hun_syn ? sp.hun_syn.join(", ") : ''}</td>
+                      <td data-label="latin">{sp.latin}</td>
+                      <td data-label="latin szin.">{sp.latin_syn ? sp.latin_syn.join(", ") : ''}</td>
+                      <td data-label="magyar">{sp.hun}</td>
+                      <td data-label="magyar szin.">{sp.hun_syn ? sp.hun_syn.join(", ") : ''}</td>
                     </tr>
                   ))}
                  </tbody>

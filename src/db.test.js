@@ -1,10 +1,10 @@
-import names from './db'
+import names from './db.json'
 import test from 'ava';
 
 test('required fields', t => {
   let ids = [];
   let latins = [];
-  let huns = [];
+  let huns = [];  
   names.forEach(name => {
 
     t.not(ids.includes(name.id), name.id + ' found twice');
