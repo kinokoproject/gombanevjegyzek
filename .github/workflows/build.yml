@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - parcel
 
 jobs:
   build-and-deploy:
