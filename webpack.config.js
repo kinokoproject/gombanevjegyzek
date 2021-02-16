@@ -3,6 +3,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const JsonMinimizerPlugin = require("json-minimizer-webpack-plugin");
+const WorkboxPlugin = require('workbox-webpack-plugin');
 
 const PATHS = {
   src: path.join(__dirname, 'src'),
@@ -86,6 +87,10 @@ module.exports = {
         { from: path.join(PATHS.src, 'index.html'), to: PATHS.dist },
       ],
     }),
+    new WorkboxPlugin.GenerateSW({
+       clientsClaim: true,
+       skipWaiting: true,
+     }),
   ],
   devServer: {
       contentBase: PATHS.dist,
