@@ -27,29 +27,29 @@ export default function SearchBar() {
 
   return (
     <div>
-      <section class="hero is-light">
-        <div class="hero-body">
-          <div class="container is-max-desktop">
-            <div class="field is-horizontal">
-              <div class="field-body">
-                <div class="field">
-                  <p class="control">
-                    <input placeholder="Keresés" class="input" name="query" type="text" onChange={(event) => setQuery(event.target.value) } />
+      <section className="hero is-light">
+        <div className="hero-body">
+          <div className="container is-max-desktop">
+            <div className="field is-horizontal">
+              <div className="field-body">
+                <div className="field">
+                  <p className="control">
+                    <input placeholder="Keresés" className="input" name="query" type="text" onChange={(event) => setQuery(event.target.value) } />
                   </p>
                 </div>
               </div>
-              <div class="field-label is-normal">
-                <span class="label">{results.length} találat</span>
+              <div className="field-label is-normal">
+                <span className="label">{results.length} találat</span>
               </div>
             </div>      
           </div>
         </div>
       </section>
-      <section class="section">
-        <div class="container">
-          <div class="b-table">
-            <div class="table-wrapper has-mobile-cards">
-              <table class="table is-fullwidth is-striped is-hoverable">
+      <section className="section">
+        <div className="container">
+          <div className="b-table">
+            <div className="table-wrapper has-mobile-cards">
+              <table className="table is-fullwidth is-striped is-hoverable">
                   <thead>
                   <tr>
                     <th>Latin név</th>
