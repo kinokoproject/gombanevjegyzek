@@ -22,7 +22,7 @@ jobs:
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
         with:
-          source-dir: ./build/
+          source-dir: dist
           preview-branch: gh-pages
           umbrella-dir: pr-preview
           action: auto
