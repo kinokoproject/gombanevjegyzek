@@ -56,6 +56,7 @@ export default function SearchBar() {
                     <th>Latin szinonímák</th>
                     <th>Magyar név</th>
                     <th>Magyar szinonímák</th>
+                    <th>Angol név</th>
                   </tr>
                   </thead>
                   <tbody>
@@ -65,6 +66,7 @@ export default function SearchBar() {
                       <td data-label="latin szin.">{sp.latin_syn ? sp.latin_syn.join(", ") : ''}</td>
                       <td data-label="magyar">{sp.hun}</td>
                       <td data-label="magyar szin.">{sp.hun_syn ? sp.hun_syn.join(", ") : ''}</td>
+                      <td data-label="angol">{sp.eng}</td>
                     </tr>
                   ))}
                  </tbody>
