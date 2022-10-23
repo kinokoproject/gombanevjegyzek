@@ -6,22 +6,6 @@
     "hun": "rőt likacsosgomba"
   },
   {
-    "latin": "Acanthobasidium delicatum",
-    "eng": "delicate crust"
-  },
-  {
-    "latin": "Acanthobasidium norvegicum",
-    "eng": "scandi crust"
-  },
-  {
-    "latin": "Acanthophysium apricans",
-    "eng": "apricot crust"
-  },
-  {
-    "latin": "Agaricus altipes",
-    "eng": "leggy mushroom"
-  },
-  {
     "latin": "Agaricus arvensis",
     "eng": "horse mushroom",
     "id": 4,
@@ -113,10 +97,6 @@
     ]
   },
   {
-    "latin": "Agaricus cappellianus",
-    "eng": "clustered mushroom"
-  },
-  {
     "latin": "Agaricus comtulus",
     "eng": "mini mushroom",
     "id": 16,
@@ -132,14 +112,6 @@
     ]
   },
   {
-    "latin": "Agaricus depauperatus",
-    "eng": "depauperate mushroom"
-  },
-  {
-    "latin": "Agaricus devoniensis",
-    "eng": "sandy mushroom"
-  },
-  {
     "latin": "Agaricus dulcidulus",
     "eng": "rosy wood mushroom",
     "id": 19,
@@ -151,10 +123,6 @@
       "édeskés csiperke",
       "törpe csiperke"
     ]
-  },
-  {
-    "latin": "Agaricus fuscofibrillosus",
-    "eng": "dusky mushroom"
   },
   {
     "latin": "Agaricus gennadii",
@@ -203,10 +171,6 @@
     ]
   },
   {
-    "latin": "Agaricus luteomaculatus",
-    "eng": "yellowspotting mushroom"
-  },
-  {
     "latin": "Agaricus macrocarpus",
     "eng": "mammoth mushroom",
     "id": 28,
@@ -232,10 +196,6 @@
     "hun": "pelyhestönkű csiperke"
   },
   {
-    "latin": "Agaricus osecanus",
-    "eng": "snowy mushroom"
-  },
-  {
     "latin": "Agaricus pampeanus",
     "eng": "pored field mushroom",
     "id": 31,
@@ -246,18 +206,6 @@
     "eng": "dusky scaled mushroom",
     "id": 33,
     "hun": "barnapikkelyű csiperke"
-  },
-  {
-    "latin": "Agaricus porphyrizon",
-    "eng": "lilac mushroom"
-  },
-  {
-    "latin": "Agaricus silvaticus",
-    "eng": "blushing wood mushroom"
-  },
-  {
-    "latin": "Agaricus silvicola",
-    "eng": "wood mushroom"
   },
   {
     "latin": "Agaricus subfloccosus",
@@ -278,10 +226,6 @@
     ]
   },
   {
-    "latin": "Agaricus urinascens",
-    "eng": "macro mushroom"
-  },
-  {
     "latin": "Agaricus xanthodermus",
     "eng": "yellow stainer",
     "id": 40,
@@ -299,22 +243,6 @@
     "eng": "digitate fieldcap",
     "id": 41,
     "hun": "gumós rétgomba"
-  },
-  {
-    "latin": "Agrocybe cylindracea",
-    "eng": "poplar fieldcap"
-  },
-  {
-    "latin": "Agrocybe elatella",
-    "eng": "marsh fieldcap"
-  },
-  {
-    "latin": "Agrocybe erebia",
-    "eng": "dark fieldcap"
-  },
-  {
-    "latin": "Agrocybe molesta",
-    "eng": "bearded fieldcap"
   },
   {
     "latin": "Agrocybe pediades",
@@ -343,28 +271,16 @@
     ]
   },
   {
-    "latin": "Agrocybe pusiola",
-    "eng": "mealy fieldcap"
-  },
-  {
     "latin": "Agrocybe putaminum",
     "eng": "mulch fieldcap",
     "id": 46,
     "hun": "fakó rétgomba"
   },
   {
-    "latin": "Agrocybe rivulosa",
-    "eng": "wrinkled fieldcap"
-  },
-  {
     "latin": "Agrocybe vervacti",
     "eng": "fallow fieldcap",
     "id": 47,
     "hun": "üregestönkű rétgomba"
-  },
-  {
-    "latin": "Akanthomyces tuberculatus",
-    "eng": "dwarf caterpillarclub"
   },
   {
     "latin": "Aleuria aurantia",
@@ -379,26 +295,10 @@
     ]
   },
   {
-    "latin": "Aleurobotrys botryosus",
-    "eng": "briar crust"
-  },
-  {
-    "latin": "Aleurodiscus amorphus",
-    "eng": "orange disco"
-  },
-  {
     "latin": "Aleurodiscus aurantius",
     "eng": "briar disco",
     "id": 52,
     "hun": "vörös koronggombácska"
-  },
-  {
-    "latin": "Aleurodiscus wakefieldiae",
-    "eng": "pink disco"
-  },
-  {
-    "latin": "Allopsalliota geesterani",
-    "eng": "mole mushroom"
   },
   {
     "latin": "Amanita argentea",
@@ -422,10 +322,6 @@
     ]
   },
   {
-    "latin": "Amanita betulae",
-    "eng": "birch amanita"
-  },
-  {
     "latin": "Amanita ceciliae",
     "eng": "snakeskin grisette",
     "id": 60,
@@ -441,10 +337,6 @@
     "hun": "citromgalóca"
   },
   {
-    "latin": "Amanita coryli",
-    "eng": "hazel amanita"
-  },
-  {
     "latin": "Amanita crocea",
     "eng": "orange grisette",
     "id": 62,
@@ -453,10 +345,6 @@
       "narancssárga selyemgomba",
       "narancsselymes galóca"
     ]
-  },
-  {
-    "latin": "Amanita dryophila",
-    "eng": "forest amanita"
   },
   {
     "latin": "Amanita echinocephala",
@@ -483,10 +371,6 @@
     "hun": "szürke galóca"
   },
   {
-    "latin": "Amanita flavescens",
-    "eng": "yellowing amanita"
-  },
-  {
     "latin": "Amanita franchetii",
     "eng": "gilded amanita",
     "id": 66,
@@ -508,14 +392,6 @@
     "hun": "rőt selyemgomba"
   },
   {
-    "latin": "Amanita inopinata",
-    "eng": "unexpected amanita"
-  },
-  {
-    "latin": "Amanita junquillea",
-    "eng": "jewelled amanita"
-  },
-  {
     "latin": "Amanita lividopallescens",
     "eng": "pale grisette",
     "id": 72,
@@ -529,14 +405,6 @@
     "eng": "fly agaric",
     "id": 75,
     "hun": "légyölő galóca"
-  },
-  {
-    "latin": "Amanita nivalis",
-    "eng": "mountain grisette"
-  },
-  {
-    "latin": "Amanita olivaceogrisea",
-    "eng": "olivegrey amanta"
   },
   {
     "latin": "Amanita ovoidea",
@@ -579,18 +447,6 @@
     "hun": "piruló galóca"
   },
   {
-    "latin": "Amanita simulans",
-    "eng": "hammered amanita"
-  },
-  {
-    "latin": "Amanita singeri",
-    "eng": "warty amanita"
-  },
-  {
-    "latin": "Amanita spadicea",
-    "eng": "date amanita"
-  },
-  {
     "latin": "Amanita strobiliformis",
     "eng": "warted amanita",
     "id": 83,
@@ -604,10 +460,6 @@
     "hun_syn": [
       "pettyes selyemgomba"
     ]
-  },
-  {
-    "latin": "Amanita subnudipes",
-    "eng": "smoothlegged amanita"
   },
   {
     "latin": "Amanita vaginata",
@@ -632,26 +484,6 @@
     "hun": "őzlábgalóca"
   },
   {
-    "latin": "Amaurodon atrocyaneus",
-    "eng": "blue crust"
-  },
-  {
-    "latin": "Amaurodon cyaneus",
-    "eng": "upper crust"
-  },
-  {
-    "latin": "Amaurodon mustialaensis",
-    "eng": "bluespored crust"
-  },
-  {
-    "latin": "Amaurodon viridis",
-    "eng": "green toothcrust"
-  },
-  {
-    "latin": "Amphinema angustispora",
-    "eng": "narrow spored crust"
-  },
-  {
     "latin": "Amphinema byssoides",
     "eng": "cratered duster",
     "id": 89,
@@ -670,42 +502,6 @@
     "hun": "duzzadttönkű tölcsérgomba"
   },
   {
-    "latin": "Amylostereum areolatum",
-    "eng": "patchy duster"
-  },
-  {
-    "latin": "Amylostereum chailletii",
-    "eng": "powdered duster"
-  },
-  {
-    "latin": "Amylostereum laevigatum",
-    "eng": "yew duster"
-  },
-  {
-    "latin": "Amyloxenasma allantosporum",
-    "eng": "curved crust"
-  },
-  {
-    "latin": "Amyloxenasma grisellum",
-    "eng": "grey crust"
-  },
-  {
-    "latin": "Anomaloma myceliosa",
-    "eng": "irregular porecrust"
-  },
-  {
-    "latin": "Anthracobia macrocystis",
-    "eng": "charcoal goldeneye"
-  },
-  {
-    "latin": "Anthracobia melaloma",
-    "eng": "charcoal eyelash"
-  },
-  {
-    "latin": "Anthracoidea capillaris",
-    "eng": "hair sedge smut"
-  },
-  {
     "latin": "Antrodia albida",
     "eng": "whitish porecrust",
     "id": 95,
@@ -713,18 +509,6 @@
     "hun_syn": [
       "fehéres lemezestapló"
     ]
-  },
-  {
-    "latin": "Antrodia carbonica",
-    "eng": "cottony porecrust"
-  },
-  {
-    "latin": "Antrodia pseudosinuosa",
-    "eng": "capped porecrust"
-  },
-  {
-    "latin": "Antrodia ramentacea",
-    "eng": "honeycomb crust"
   },
   {
     "latin": "Antrodia serialis",
@@ -745,50 +529,10 @@
     "hun": "házi kéreggomba"
   },
   {
-    "latin": "Antrodia xantha",
-    "eng": "yellow porecrust"
-  },
-  {
-    "latin": "Antrodiella genistae",
-    "eng": "broom porecrust"
-  },
-  {
-    "latin": "Antrodiella onychoides",
-    "eng": "marble porecrust"
-  },
-  {
-    "latin": "Antrodiella romellii",
-    "eng": "straw porecrust"
-  },
-  {
-    "latin": "Antrodiella semisupina",
-    "eng": "laidback porecrust"
-  },
-  {
-    "latin": "Aphanobasidium paludicola",
-    "eng": "marsh crust"
-  },
-  {
-    "latin": "Apioperdon pyriforme",
-    "eng": "stump puffball"
-  },
-  {
-    "latin": "Armillaria borealis",
-    "eng": "northern honey fungus"
-  },
-  {
     "latin": "Armillaria cepistipes",
     "eng": "mullet honey fungus",
     "id": 107,
     "hun": "hagymatönkű tuskógomba"
-  },
-  {
-    "latin": "Armillaria ectypa",
-    "eng": "marsh honey fungus"
-  },
-  {
-    "latin": "Armillaria gallica",
-    "eng": "bulbous honey fungus"
   },
   {
     "latin": "Armillaria mellea",
@@ -810,10 +554,6 @@
     "hun": "sötétpikkelyes tuskógomba"
   },
   {
-    "latin": "Armillaria tabescens",
-    "eng": "ringless honey fungus"
-  },
-  {
     "latin": "Arrhenia acerosa",
     "eng": "moss oysterling",
     "id": 111,
@@ -824,14 +564,6 @@
     "hun_syn": [
       "fenyves laskagomba"
     ]
-  },
-  {
-    "latin": "Arrhenia baeospora",
-    "eng": "mealy navel"
-  },
-  {
-    "latin": "Arrhenia chlorocyanea",
-    "eng": "verdigris navel"
   },
   {
     "latin": "Arrhenia epichysium",
@@ -853,40 +585,16 @@
     "hun": "szürke mohagomba"
   },
   {
-    "latin": "Arrhenia latispora",
-    "eng": "broadspored oysterling"
-  },
-  {
     "latin": "Arrhenia lobata",
     "eng": "lobed oysterling",
     "id": 114,
     "hun": "barna mohagomba"
   },
   {
-    "latin": "Arrhenia obatra",
-    "eng": "montane navel"
-  },
-  {
     "latin": "Arrhenia obscurata",
     "eng": "dark navel",
     "id": 115,
     "hun": "sötét mohagomba"
-  },
-  {
-    "latin": "Arrhenia onisca",
-    "eng": "slater navel"
-  },
-  {
-    "latin": "Arrhenia parvivelutina",
-    "eng": "velvet navel"
-  },
-  {
-    "latin": "Arrhenia peltigerina",
-    "eng": "lichen navel"
-  },
-  {
-    "latin": "Arrhenia philonotis",
-    "eng": "mire navel"
   },
   {
     "latin": "Arrhenia retiruga",
@@ -925,26 +633,6 @@
     ]
   },
   {
-    "latin": "Arrhenia sphagnicola",
-    "eng": "sphagnum navel"
-  },
-  {
-    "latin": "Arrhenia umbratilis",
-    "eng": "bog shadow"
-  },
-  {
-    "latin": "Arrhenia velutipes",
-    "eng": "alpine navel"
-  },
-  {
-    "latin": "Artomyces pyxidata",
-    "eng": "candelabra coral"
-  },
-  {
-    "latin": "Ascocoryne cyclichnium",
-    "eng": "budding jellydisc"
-  },
-  {
     "latin": "Ascocoryne sarcoides",
     "eng": "purple jellydisc",
     "id": 122,
@@ -952,10 +640,6 @@
     "hun_syn": [
       "lila kocsonyagomba"
     ]
-  },
-  {
-    "latin": "Ascocoryne turficola",
-    "eng": "bog jellydisc"
   },
   {
     "latin": "Ascotremella faginea",
@@ -985,82 +669,10 @@
     "hun": "fátyolos élősdigomba"
   },
   {
-    "latin": "Asterostroma cervicolor",
-    "eng": "brown starweb"
-  },
-  {
-    "latin": "Asterostroma laxum",
-    "eng": "loose starweb"
-  },
-  {
     "latin": "Astraeus hygrometricus",
     "eng": "barometer earthstar",
     "id": 128,
     "hun": "repedéses csillaggomba"
-  },
-  {
-    "latin": "Athelia alnicola",
-    "eng": "alder crust"
-  },
-  {
-    "latin": "Athelia arachnoidea",
-    "eng": "cobweb duster"
-  },
-  {
-    "latin": "Athelia bombacina",
-    "eng": "silky crust"
-  },
-  {
-    "latin": "Athelia decipiens",
-    "eng": "deceiving crust"
-  },
-  {
-    "latin": "Athelia epiphylla",
-    "eng": "candleabra duster"
-  },
-  {
-    "latin": "Athelia fibulata",
-    "eng": "clamped crust"
-  },
-  {
-    "latin": "Athelia neuhoffii",
-    "eng": "subglobose crust"
-  },
-  {
-    "latin": "Athelia nivea",
-    "eng": "snowy crust"
-  },
-  {
-    "latin": "Athelia rolfsii",
-    "eng": "bulb crust"
-  },
-  {
-    "latin": "Athelia salicum",
-    "eng": "willow crust"
-  },
-  {
-    "latin": "Athelia tenuispora",
-    "eng": "thin spored crust"
-  },
-  {
-    "latin": "Athelia teutoburgensis",
-    "eng": "germanic crust"
-  },
-  {
-    "latin": "Athelopsis galzinii",
-    "eng": "pegged crust"
-  },
-  {
-    "latin": "Athelopsis glaucina",
-    "eng": "greenish crust"
-  },
-  {
-    "latin": "Athelopsis lembospora",
-    "eng": "ferny crust"
-  },
-  {
-    "latin": "Atopospora betulina",
-    "eng": "birch tarspot"
   },
   {
     "latin": "Atractosporocybe inornata",
@@ -1149,42 +761,6 @@
     "hun": "lilás gereben"
   },
   {
-    "latin": "Bartheletia paradoxa",
-    "eng": "ginkgo dotty"
-  },
-  {
-    "latin": "Basidiodendron caesiocinerea",
-    "eng": "pearly jellycrust"
-  },
-  {
-    "latin": "Basidiodendron cinerum",
-    "eng": "ashgrey jellycrust"
-  },
-  {
-    "latin": "Basidiodendron cremum",
-    "eng": "coating jellycrust"
-  },
-  {
-    "latin": "Basidiodendron eyrei",
-    "eng": "thin jellycrust"
-  },
-  {
-    "latin": "Basidiodendron pini",
-    "eng": "pine jellycrust"
-  },
-  {
-    "latin": "Basidiodendron radians",
-    "eng": "knobbly jellycrust"
-  },
-  {
-    "latin": "Basidiodendron rimosum",
-    "eng": "cracked jellycrust"
-  },
-  {
-    "latin": "Basidiodendron spinosum",
-    "eng": "spiny jellycrust"
-  },
-  {
     "latin": "Basidioradulum radula",
     "eng": "toothed crust",
     "id": 146,
@@ -1200,30 +776,6 @@
     "hun": "álszömörcsög"
   },
   {
-    "latin": "Baudoinia caledoniensis",
-    "eng": "angel's share fungus"
-  },
-  {
-    "latin": "Bauhinus marginalis",
-    "eng": "bistort silver rust"
-  },
-  {
-    "latin": "Bauhinus pustulatus",
-    "eng": "bistort blister"
-  },
-  {
-    "latin": "Belonidium sulphureum",
-    "eng": "yellow mascara disco"
-  },
-  {
-    "latin": "Bertia moriformis",
-    "eng": "wood mulberry"
-  },
-  {
-    "latin": "Biatoropsis hafellneri",
-    "eng": "beardlichen galler"
-  },
-  {
     "latin": "Biscogniauxia nummularia",
     "eng": "beech tarcrust",
     "id": 149,
@@ -1237,10 +789,6 @@
     "eng": "lemon disco",
     "id": 150,
     "hun": "citromsárga csészegombácska"
-  },
-  {
-    "latin": "Bisporella sulfurina",
-    "eng": "sulphur disco"
   },
   {
     "latin": "Bjerkandera adusta",
@@ -1265,22 +813,6 @@
     ]
   },
   {
-    "latin": "Blasiphalia pseudogrisella",
-    "eng": "blasia mosscap"
-  },
-  {
-    "latin": "Boidinia furfuracea",
-    "eng": "scurfy crust"
-  },
-  {
-    "latin": "Boidinia permixta",
-    "eng": "confused crust"
-  },
-  {
-    "latin": "Boidinia peroxydata",
-    "eng": "spiny spored crust "
-  },
-  {
     "latin": "Bolbitius coprophilus",
     "eng": "dung fieldcap",
     "id": 155,
@@ -1294,10 +826,6 @@
     "eng": "creamy fieldcap",
     "id": 156,
     "hun": "fehér kérészgomba"
-  },
-  {
-    "latin": "Bolbitius pluteoides",
-    "eng": "penthouse fieldcap"
   },
   {
     "latin": "Bolbitius reticulatus",
@@ -1321,14 +849,6 @@
     "hun": "sárga kérészgomba"
   },
   {
-    "latin": "Boletopsis grisea",
-    "eng": "grey falsebolete"
-  },
-  {
-    "latin": "Boletopsis watlingii",
-    "eng": "black falsebolete"
-  },
-  {
     "latin": "Boletus aereus",
     "eng": "bronze bolete",
     "id": 161,
@@ -1336,42 +856,6 @@
     "hun_syn": [
       "bronzos tinóru"
     ]
-  },
-  {
-    "latin": "Boletus appendiculatus",
-    "eng": "oak bolete"
-  },
-  {
-    "latin": "Boletus armeniacus",
-    "eng": "apricot bolete"
-  },
-  {
-    "latin": "Boletus badius",
-    "eng": "bay bolete"
-  },
-  {
-    "latin": "Boletus bubalinus",
-    "eng": "ascot hat"
-  },
-  {
-    "latin": "Boletus calopus",
-    "eng": "bitter beech bolete"
-  },
-  {
-    "latin": "Boletus chrysenteron",
-    "eng": "red cracking bolete"
-  },
-  {
-    "latin": "Boletus cisalpinus",
-    "eng": "bluefoot bolete"
-  },
-  {
-    "latin": "Boletus declivatum",
-    "eng": "orangefoot bolete"
-  },
-  {
-    "latin": "Boletus depilatus",
-    "eng": "bald bolete"
   },
   {
     "latin": "Boletus edulis",
@@ -1385,78 +869,10 @@
     ]
   },
   {
-    "latin": "Boletus fechtneri",
-    "eng": "pale bolete"
-  },
-  {
-    "latin": "Boletus ferrugineus",
-    "eng": "rusty bolete"
-  },
-  {
-    "latin": "Boletus fragrans",
-    "eng": "fragrant bolete"
-  },
-  {
-    "latin": "Boletus immutatus",
-    "eng": "constant bolete"
-  },
-  {
-    "latin": "Boletus impolitus",
-    "eng": "iodine bolete"
-  },
-  {
-    "latin": "Boletus legaliae",
-    "eng": "bilious bolete"
-  },
-  {
-    "latin": "Boletus luridiformis",
-    "eng": "var. luridiformis  scarletina bolete"
-  },
-  {
-    "latin": "Boletus luridus",
-    "eng": "lurid bolete"
-  },
-  {
-    "latin": "Boletus mendax",
-    "eng": "mimic bolete"
-  },
-  {
-    "latin": "Boletus moravicus",
-    "eng": "tawny bolete"
-  },
-  {
     "latin": "Boletus pinophilus",
     "eng": "pine bolete",
     "id": 163,
     "hun": "vörösbarna vargánya"
-  },
-  {
-    "latin": "Boletus porosporus",
-    "eng": "sepia bolete"
-  },
-  {
-    "latin": "Boletus pruinatus",
-    "eng": "matt bolete"
-  },
-  {
-    "latin": "Boletus pseudoregius",
-    "eng": "the pretender"
-  },
-  {
-    "latin": "Boletus pseudosulphureus",
-    "eng": "yellow bolete"
-  },
-  {
-    "latin": "Boletus pulverulentus",
-    "eng": "inkstain bolete"
-  },
-  {
-    "latin": "Boletus queletii",
-    "eng": "deceiving bolete"
-  },
-  {
-    "latin": "Boletus radicans",
-    "eng": "rooting bolete"
   },
   {
     "latin": "Boletus reticulatus",
@@ -1471,78 +887,6 @@
     ]
   },
   {
-    "latin": "Boletus rhodopurpureus",
-    "eng": "oldrose bolete"
-  },
-  {
-    "latin": "Boletus rhodoxanthus",
-    "eng": "ruddy bolete"
-  },
-  {
-    "latin": "Boletus ripariellus",
-    "eng": "riverine bolete"
-  },
-  {
-    "latin": "Boletus rubellus",
-    "eng": "ruby bolete"
-  },
-  {
-    "latin": "Boletus satanas",
-    "eng": "devil's bolete"
-  },
-  {
-    "latin": "Boletus subappendiculatus",
-    "eng": "unchanging bolete"
-  },
-  {
-    "latin": "Boletus subtomentosus",
-    "eng": "suede bolete"
-  },
-  {
-    "latin": "Botryobasidium asperulum",
-    "eng": "warty spored crust"
-  },
-  {
-    "latin": "Botryobasidium aureum",
-    "eng": "golden crust"
-  },
-  {
-    "latin": "Botryobasidium candicans",
-    "eng": "stardust crust"
-  },
-  {
-    "latin": "Botryobasidium conspersum",
-    "eng": "sprinkled crust"
-  },
-  {
-    "latin": "Botryobasidium danicum",
-    "eng": "danish crust "
-  },
-  {
-    "latin": "Botryobasidium ellipsosporum",
-    "eng": "dusted crust"
-  },
-  {
-    "latin": "Botryobasidium intertextum",
-    "eng": "interwoven crust"
-  },
-  {
-    "latin": "Botryobasidium isabellinum",
-    "eng": "seamine crust"
-  },
-  {
-    "latin": "Botryobasidium laeve",
-    "eng": "confluent crust"
-  },
-  {
-    "latin": "Botryobasidium obtusisporum",
-    "eng": "obtuse spored crust"
-  },
-  {
-    "latin": "Botryobasidium pruinatum",
-    "eng": "hoary crust"
-  },
-  {
     "latin": "Botryobasidium subcoronatum",
     "eng": "coronet crust",
     "id": 167,
@@ -1550,10 +894,6 @@
       "Corticium subcoronatum"
     ],
     "hun": "krémszínű vargomba"
-  },
-  {
-    "latin": "Botryobasidium vagum",
-    "eng": "rambling crust"
   },
   {
     "latin": "Bovista aestivalis",
@@ -1584,10 +924,6 @@
     ]
   },
   {
-    "latin": "Bovista paludosa",
-    "eng": "fen puffball"
-  },
-  {
     "latin": "Bovista plumbea",
     "eng": "grey puffball",
     "id": 174,
@@ -1606,22 +942,6 @@
     ]
   },
   {
-    "latin": "Brevicellicium exile",
-    "eng": "thin crust"
-  },
-  {
-    "latin": "Brevicellicium olivascens",
-    "eng": "granulated crust"
-  },
-  {
-    "latin": "Buchwaldoboletus lignicola",
-    "eng": "wood bolete"
-  },
-  {
-    "latin": "Buchwaldoboletus sphaerocephalus",
-    "eng": "golden bolete"
-  },
-  {
     "latin": "Buglossoporus quercinus",
     "eng": "oak polypore",
     "id": 178,
@@ -1629,30 +949,6 @@
       "Buglossoporus pulvinus, Piptoporus quercinus"
     ],
     "hun": "tölgyfa-kérgestapló"
-  },
-  {
-    "latin": "Bulbillomyces farinosus",
-    "eng": "couscous crust"
-  },
-  {
-    "latin": "Bulgaria inquinans",
-    "eng": "black bulgar / batchelor's buttons"
-  },
-  {
-    "latin": "Bulgariella pulla",
-    "eng": "dusky disco"
-  },
-  {
-    "latin": "Byssocorticium atrovirens",
-    "eng": "green webcrust"
-  },
-  {
-    "latin": "Byssocorticium efibulatum",
-    "eng": "loose webcrust"
-  },
-  {
-    "latin": "Byssocorticium pulchrum",
-    "eng": "beautiful webcrust"
   },
   {
     "latin": "Byssomerulius corium",
@@ -1665,34 +961,10 @@
     "hun": "bőrszerű redősgomba"
   },
   {
-    "latin": "Byssonectria terrestris",
-    "eng": "butterycups"
-  },
-  {
-    "latin": "Byssoporia terrestris",
-    "eng": "grounded porecrust"
-  },
-  {
-    "latin": "Cainiella johansonii",
-    "eng": "mountain avens microdot"
-  },
-  {
-    "latin": "Calathella eruciformis",
-    "eng": "caterpillar cuplet"
-  },
-  {
     "latin": "Callistosporium luteo-olivaceum",
     "eng": "olive starcap",
     "id": 186,
     "hun": "sárgalemezű fülőke"
-  },
-  {
-    "latin": "Callistosporium pinicola",
-    "eng": "pine starcap"
-  },
-  {
-    "latin": "Calloria neglecta",
-    "eng": "nettle pox"
   },
   {
     "latin": "Calocera cornea",
@@ -1707,14 +979,6 @@
     "hun": "villás enyveskorallgomba"
   },
   {
-    "latin": "Calocera glossoides",
-    "eng": "tongue stagshorn"
-  },
-  {
-    "latin": "Calocera pallidospathulata",
-    "eng": "pale stagshorn"
-  },
-  {
     "latin": "Calocera viscosa",
     "eng": "yellow stagshorn",
     "id": 196,
@@ -1722,10 +986,6 @@
     "hun_syn": [
       "narancsszínű álkorallgomba"
     ]
-  },
-  {
-    "latin": "Calocybe favrei",
-    "eng": "gilded domecap "
   },
   {
     "latin": "Calocybe gambosa",
@@ -1754,38 +1014,6 @@
     "eng": "golden cup",
     "id": 205,
     "hun": "narancsszínű foltoscsészegomba"
-  },
-  {
-    "latin": "Calvatia gigantea",
-    "eng": "giant puffball"
-  },
-  {
-    "latin": "Calyptella campanula",
-    "eng": "bell hoodie"
-  },
-  {
-    "latin": "Calyptella capula",
-    "eng": "bowl hoodie"
-  },
-  {
-    "latin": "Camarophyllopsis schulzeri",
-    "eng": "matt fanvault"
-  },
-  {
-    "latin": "Camarops polysperma",
-    "eng": "thick tarcrust"
-  },
-  {
-    "latin": "Campanella caesia",
-    "eng": "marram oysterling"
-  },
-  {
-    "latin": "Candelabrochaete septocystidia",
-    "eng": "crosswalled crust"
-  },
-  {
-    "latin": "Cantharellopsis prescotii",
-    "eng": "forked navel"
   },
   {
     "latin": "Cantharellula umbonata",
@@ -1837,14 +1065,6 @@
     "hun": "halvány rókagomba"
   },
   {
-    "latin": "Cantharellus romagnesianus",
-    "eng": "lemon chanterelle"
-  },
-  {
-    "latin": "Cantharellus tubaeformis",
-    "eng": "trumpet chanterelle"
-  },
-  {
     "latin": "Catinella olivacea",
     "eng": "olive salver",
     "id": 216,
@@ -1856,98 +1076,6 @@
       "olajbarna csészegomba",
       "olajzöld csészegomba"
     ]
-  },
-  {
-    "latin": "Cellypha goldbachii",
-    "eng": "hairy cuplet"
-  },
-  {
-    "latin": "Cephaloscypha mairei",
-    "eng": "fern cuplet"
-  },
-  {
-    "latin": "Ceraceomyces borealis",
-    "eng": "northern crust"
-  },
-  {
-    "latin": "Ceraceomyces crispatus",
-    "eng": "serpentine crust"
-  },
-  {
-    "latin": "Ceraceomyces eludens",
-    "eng": "elusive crust"
-  },
-  {
-    "latin": "Ceraceomyces microsporus",
-    "eng": "small spored crust"
-  },
-  {
-    "latin": "Ceraceomyces tessulatus",
-    "eng": "checkered crust"
-  },
-  {
-    "latin": "Ceratellopsis aculeata",
-    "eng": "spine club"
-  },
-  {
-    "latin": "Ceratellopsis acuminata",
-    "eng": "needle club"
-  },
-  {
-    "latin": "Ceratellopsis sagittiformis",
-    "eng": "arrow club"
-  },
-  {
-    "latin": "Ceratobasidium anceps",
-    "eng": "bracken horncrust"
-  },
-  {
-    "latin": "Ceratobasidium bulbilifaciens",
-    "eng": "lichen horncrust"
-  },
-  {
-    "latin": "Ceratobasidium calosporum",
-    "eng": "sinuous horncrust"
-  },
-  {
-    "latin": "Ceratobasidium cornigerum",
-    "eng": "pronged horncrust"
-  },
-  {
-    "latin": "Ceratobasidium pseudocornigerum",
-    "eng": "short horncrust"
-  },
-  {
-    "latin": "Ceratosebacina calospora",
-    "eng": "snakyspored crust"
-  },
-  {
-    "latin": "Ceratosebacina longispora",
-    "eng": "longspored crust"
-  },
-  {
-    "latin": "Cerinomyces crustulinus",
-    "eng": "bispored crust"
-  },
-  {
-    "latin": "Ceriporia aurantiocarnescens",
-    "eng": "salmon porecrust"
-  },
-  {
-    "latin": "Ceriporia excelsa",
-    "eng": "pinkish porecrust"
-  },
-  {
-    "latin": "Ceriporia herinkii",
-    "eng": "honeycomb porecrust"
-  },
-  {
-    "latin": "Ceriporia mellita",
-    "eng": "honey porecrust"
-  },
-  {
-    "latin": "Ceriporia metamorphosa",
-    "eng": "oak porecrust"
   },
   {
     "latin": "Ceriporia purpurea",
@@ -1962,18 +1090,10 @@
     "hun": "recés kéreggomba"
   },
   {
-    "latin": "Ceriporia spissa",
-    "eng": "thick porecrust"
-  },
-  {
     "latin": "Ceriporia viridans",
     "eng": "greening porecrust",
     "id": 221,
     "hun": "zöldes kéreggomba"
-  },
-  {
-    "latin": "Ceriporiopsis aneirina",
-    "eng": "ochre porecrust"
   },
   {
     "latin": "Ceriporiopsis gilvescens",
@@ -1985,10 +1105,6 @@
     "hun": "vörösödő kéreggomba"
   },
   {
-    "latin": "Ceriporiopsis pannocincta",
-    "eng": "green porecrust"
-  },
-  {
     "latin": "Cerrena unicolor",
     "eng": "labyrinth turkeytail",
     "id": 225,
@@ -1996,18 +1112,6 @@
     "hun_syn": [
       "egyszínű egyrétűtapló"
     ]
-  },
-  {
-    "latin": "Chaetocalathus craterellus",
-    "eng": "hairy oysterling"
-  },
-  {
-    "latin": "Chaetodermella luna",
-    "eng": "crescent crust"
-  },
-  {
-    "latin": "Chaetotyphula actiniceps",
-    "eng": "rayed club"
   },
   {
     "latin": "Chalciporus piperatus",
@@ -2031,18 +1135,6 @@
     ]
   },
   {
-    "latin": "Cheilymenia granulata",
-    "eng": "cowpat gem"
-  },
-  {
-    "latin": "Cheimonophyllum candidissimum",
-    "eng": "snowy oysterling"
-  },
-  {
-    "latin": "Chlorencoelia versiformis",
-    "eng": "flea's ear"
-  },
-  {
     "latin": "Chlorociboria aeruginascens",
     "eng": "green elfcup",
     "id": 230,
@@ -2050,14 +1142,6 @@
     "hun_syn": [
       "zöld facsészegomba"
     ]
-  },
-  {
-    "latin": "Chlorociboria aeruginosa",
-    "eng": "turquoise elfcup"
-  },
-  {
-    "latin": "Chlorociboria glauca",
-    "eng": "green hazelcup"
   },
   {
     "latin": "Chlorophyllum brunneum",
@@ -2076,22 +1160,6 @@
     ]
   },
   {
-    "latin": "Chlorophyllum molybdites",
-    "eng": "false parasol"
-  },
-  {
-    "latin": "Chlorophyllum olivieri",
-    "eng": "conifer parasol"
-  },
-  {
-    "latin": "Chlorophyllum rhacodes",
-    "eng": "shaggy parasol"
-  },
-  {
-    "latin": "Chondrogaster pachysporus",
-    "eng": "eucalyptus false truffle"
-  },
-  {
     "latin": "Chondrostereum purpureum",
     "eng": "silverleaf fungus",
     "id": 235,
@@ -2099,10 +1167,6 @@
     "hun_syn": [
       "lilás rétegtapló"
     ]
-  },
-  {
-    "latin": "Chromocyphella lamellata",
-    "eng": "gilled moss ear"
   },
   {
     "latin": "Chromocyphella muscicola",
@@ -2141,26 +1205,6 @@
     ]
   },
   {
-    "latin": "Chrysomphalina grossula",
-    "eng": "green navel"
-  },
-  {
-    "latin": "Chrysomyxa empetri",
-    "eng": "crowberry rust"
-  },
-  {
-    "latin": "Chrysomyxa pirolata",
-    "eng": "wintergreen rust"
-  },
-  {
-    "latin": "Ciboria caucus",
-    "eng": "alder goblet"
-  },
-  {
-    "latin": "Cinereomyces linbladdii",
-    "eng": "patchy porecrust"
-  },
-  {
     "latin": "Clathrus archeri",
     "eng": "devil's fingers",
     "id": 244,
@@ -2182,14 +1226,6 @@
     ]
   },
   {
-    "latin": "Clavaria acuta",
-    "eng": "pointed club"
-  },
-  {
-    "latin": "Clavaria amoenoides",
-    "eng": "beautiful club"
-  },
-  {
     "latin": "Clavaria argillacea",
     "eng": "moor club",
     "id": 246,
@@ -2201,26 +1237,6 @@
       "sárganyelű bunkógomba",
       "sárganyelű palánkagomba"
     ]
-  },
-  {
-    "latin": "Clavaria asperulispora",
-    "eng": "prickly spored club "
-  },
-  {
-    "latin": "Clavaria atroumbrina",
-    "eng": "sooty club"
-  },
-  {
-    "latin": "Clavaria crosslandii",
-    "eng": "pallid club"
-  },
-  {
-    "latin": "Clavaria flavipes",
-    "eng": "straw club"
-  },
-  {
-    "latin": "Clavaria flavostellifera",
-    "eng": "starry club"
   },
   {
     "latin": "Clavaria fragilis",
@@ -2241,26 +1257,10 @@
     ]
   },
   {
-    "latin": "Clavaria greletii",
-    "eng": "dark club"
-  },
-  {
-    "latin": "Clavaria incarnata",
-    "eng": "skinny club"
-  },
-  {
     "latin": "Clavaria rosea",
     "eng": "rose spindles",
     "id": 252,
     "hun": "rózsaszín bunkógomba"
-  },
-  {
-    "latin": "Clavaria tenuipes",
-    "eng": "skinnyfoot club"
-  },
-  {
-    "latin": "Clavaria zollingeri",
-    "eng": "violet coral"
   },
   {
     "latin": "Clavariadelphus ligula",
@@ -2287,10 +1287,6 @@
     "hun": "anyarozs"
   },
   {
-    "latin": "Clavicorona taxophila",
-    "eng": "yew club"
-  },
-  {
     "latin": "Clavulina cinerea",
     "eng": "grey coral",
     "id": 260,
@@ -2311,10 +1307,6 @@
     "hun-syn": [
       "fésűs fakó-korallgomba"
     ]
-  },
-  {
-    "latin": "Clavulina reae",
-    "eng": "graceful coral"
   },
   {
     "latin": "Clavulina rugosa",
@@ -2363,14 +1355,6 @@
     "hun": "narancsszínű bunkógomba"
   },
   {
-    "latin": "Clavulinopsis luteoalba",
-    "eng": "apricot club"
-  },
-  {
-    "latin": "Clavulinopsis rufipes",
-    "eng": "rufus footed coral"
-  },
-  {
     "latin": "Clavulinopsis subtilis",
     "eng": "slender coral",
     "id": 267,
@@ -2380,18 +1364,10 @@
     "hun": "késői korallgomba"
   },
   {
-    "latin": "Clavulinopsis umbrinella",
-    "eng": "beige coral"
-  },
-  {
     "latin": "Clitocybe agrestis",
     "eng": "field funnel",
     "id": 273,
     "hun": "réti tölcsérgomba"
-  },
-  {
-    "latin": "Clitocybe albofragrans",
-    "eng": "frosted fragrant funnel"
   },
   {
     "latin": "Clitocybe alexandri",
@@ -2403,36 +1379,16 @@
     ]
   },
   {
-    "latin": "Clitocybe americana",
-    "eng": "wood funnel"
-  },
-  {
-    "latin": "Clitocybe augeana",
-    "eng": "floury funnel"
-  },
-  {
     "latin": "Clitocybe barbularum",
     "eng": "dune funnel",
     "id": 276,
     "hun": "buckaközi tölcsérgomba"
   },
   {
-    "latin": "Clitocybe brumalis",
-    "eng": "winter funnel"
-  },
-  {
-    "latin": "Clitocybe collina",
-    "eng": "sunseeker funnel"
-  },
-  {
     "latin": "Clitocybe diatreta",
     "eng": "pierced funnel",
     "id": 279,
     "hun": "hússzínű tölcsérgomba"
-  },
-  {
-    "latin": "Clitocybe diosma",
-    "eng": "whitelaced funnel"
   },
   {
     "latin": "Clitocybe ditopa",
@@ -2450,10 +1406,6 @@
     "hun": "csarabos tölcsérgomba"
   },
   {
-    "latin": "Clitocybe foetens",
-    "eng": "foetid funnel"
-  },
-  {
     "latin": "Clitocybe fragrans",
     "eng": "fragrant funnel",
     "id": 282,
@@ -2466,30 +1418,10 @@
     ]
   },
   {
-    "latin": "Clitocybe frysica",
-    "eng": "silky funnel"
-  },
-  {
-    "latin": "Clitocybe fuscosquamula",
-    "eng": "dark scaled funnel"
-  },
-  {
-    "latin": "Clitocybe houghtonii",
-    "eng": "pink gilled funnel"
-  },
-  {
-    "latin": "Clitocybe leucodiatreta",
-    "eng": "milky funnel"
-  },
-  {
     "latin": "Clitocybe metachroa",
     "eng": "twotone funnel",
     "id": 283,
     "hun": "kétszínű tölcsérgomba"
-  },
-  {
-    "latin": "Clitocybe metachroides",
-    "eng": "bicoloured funnel"
   },
   {
     "latin": "Clitocybe nebularis",
@@ -2504,10 +1436,6 @@
     ]
   },
   {
-    "latin": "Clitocybe obsoleta",
-    "eng": "faded funnel"
-  },
-  {
     "latin": "Clitocybe odora",
     "eng": "aniseed funnel",
     "id": 287,
@@ -2516,10 +1444,6 @@
       "ánizsszagú tölcsérgomba",
       ""
     ]
-  },
-  {
-    "latin": "Clitocybe ornamentalis",
-    "eng": "ornamental funnel"
   },
   {
     "latin": "Clitocybe phyllophila",
@@ -2548,22 +1472,10 @@
     ]
   },
   {
-    "latin": "Clitocybe sinopica",
-    "eng": "spring funnel"
-  },
-  {
-    "latin": "Clitocybe squamulosa",
-    "eng": "scaly funnel"
-  },
-  {
     "latin": "Clitocybe subcordispora",
     "eng": "hearty funnel",
     "id": 290,
     "hun": "kifakuló tölcsérgomba"
-  },
-  {
-    "latin": "Clitocybe subdryadicola",
-    "eng": "montane funnel"
   },
   {
     "latin": "Clitocybe subspadicea",
@@ -2597,30 +1509,6 @@
     ]
   },
   {
-    "latin": "Clitocybula lacerata",
-    "eng": "torn toughshank"
-  },
-  {
-    "latin": "Clitopilus cystidiatus",
-    "eng": "grey miller"
-  },
-  {
-    "latin": "Clitopilus daamsii",
-    "eng": "pinkgilled oysterling"
-  },
-  {
-    "latin": "Clitopilus hobsonii",
-    "eng": "miller's oysterling"
-  },
-  {
-    "latin": "Clitopilus passeckerianus",
-    "eng": "straw oysterling"
-  },
-  {
-    "latin": "Clitopilus pinsitus",
-    "eng": "broadleaf oysterling"
-  },
-  {
     "latin": "Clitopilus prunulus",
     "eng": "the miller",
     "id": 297,
@@ -2629,18 +1517,6 @@
       "fehér cölöpgomba",
       "réti cölöpgomba"
     ]
-  },
-  {
-    "latin": "Clitopilus scyphoides",
-    "eng": "cupped oysterling"
-  },
-  {
-    "latin": "Coleosporium tussilaginis",
-    "eng": "coltsfoot rust"
-  },
-  {
-    "latin": "Collybia cirrhata",
-    "eng": "piggyback shanklet"
   },
   {
     "latin": "Collybia cookei",
@@ -2667,22 +1543,10 @@
     ]
   },
   {
-    "latin": "Coltricia cinnamomea",
-    "eng": "cinnamon tiger's eye"
-  },
-  {
-    "latin": "Coltricia confluens",
-    "eng": "confluent tiger's eye"
-  },
-  {
     "latin": "Coltricia perennis",
     "eng": "tiger's eye",
     "id": 299,
     "hun": "szalagos likacsosgomba"
-  },
-  {
-    "latin": "Conferticium insidiosum",
-    "eng": "cunning crust"
   },
   {
     "latin": "Coniophora arida",
@@ -2712,10 +1576,6 @@
     "hun": "sugaras foltgomba"
   },
   {
-    "latin": "Coniophora prasinoides",
-    "eng": "greentint duster"
-  },
-  {
     "latin": "Coniophora puteana",
     "eng": "wet rot",
     "id": 307,
@@ -2726,34 +1586,6 @@
     "hun_syn": [
       "vastagbőrű foltgomba"
     ]
-  },
-  {
-    "latin": "Conocybe aeruginosa",
-    "eng": "verdigris conecap"
-  },
-  {
-    "latin": "Conocybe alboradicans",
-    "eng": "whiteroot conecap"
-  },
-  {
-    "latin": "Conocybe ambigua",
-    "eng": "changeable conecap"
-  },
-  {
-    "latin": "Conocybe anthracophila",
-    "eng": "bonfire conecap"
-  },
-  {
-    "latin": "Conocybe antipus",
-    "eng": "whitelaced conecap"
-  },
-  {
-    "latin": "Conocybe apala",
-    "eng": "milky conecap"
-  },
-  {
-    "latin": "Conocybe aporus",
-    "eng": "nonpored conecap"
   },
   {
     "latin": "Conocybe arrhenii",
@@ -2768,82 +1600,6 @@
     ]
   },
   {
-    "latin": "Conocybe aurea",
-    "eng": "golden conecap"
-  },
-  {
-    "latin": "Conocybe blattaria",
-    "eng": "cockroach conecap"
-  },
-  {
-    "latin": "Conocybe brachypodii",
-    "eng": "small bulbed conecap"
-  },
-  {
-    "latin": "Conocybe brunnea",
-    "eng": "brown conecap"
-  },
-  {
-    "latin": "Conocybe brunneola",
-    "eng": "brownish conecap"
-  },
-  {
-    "latin": "Conocybe candida",
-    "eng": "white conecap"
-  },
-  {
-    "latin": "Conocybe coprophila",
-    "eng": "dung conecap"
-  },
-  {
-    "latin": "Conocybe cyanopus",
-    "eng": "bluefoot conecap"
-  },
-  {
-    "latin": "Conocybe dentatomarginata",
-    "eng": "toothed conecap"
-  },
-  {
-    "latin": "Conocybe dumetorum",
-    "eng": "copse conecap"
-  },
-  {
-    "latin": "Conocybe dunensis",
-    "eng": "dune conecap"
-  },
-  {
-    "latin": "Conocybe echinata",
-    "eng": "grubby conecap"
-  },
-  {
-    "latin": "Conocybe exannulata",
-    "eng": "naked conecap"
-  },
-  {
-    "latin": "Conocybe excedens",
-    "eng": "var. pseudomesospora  false ginger conecap"
-  },
-  {
-    "latin": "Conocybe farinacea",
-    "eng": "mealy conecap"
-  },
-  {
-    "latin": "Conocybe filaris",
-    "eng": "fool's conecap"
-  },
-  {
-    "latin": "Conocybe fimetaria",
-    "eng": "horseapple conecap+B194"
-  },
-  {
-    "latin": "Conocybe fuscimarginata",
-    "eng": "composting conecap"
-  },
-  {
-    "latin": "Conocybe hadrocystis",
-    "eng": "stoutcyst conecap"
-  },
-  {
     "latin": "Conocybe hexagonospora",
     "eng": "angled conecap",
     "id": 313,
@@ -2853,126 +1609,10 @@
     ]
   },
   {
-    "latin": "Conocybe hornana",
-    "eng": "bulbous conecap"
-  },
-  {
-    "latin": "Conocybe incarnata",
-    "eng": "pinky conecap"
-  },
-  {
-    "latin": "Conocybe inocybeoides",
-    "eng": "onionfoot conecap"
-  },
-  {
-    "latin": "Conocybe intrusa",
-    "eng": "hothouse conecap"
-  },
-  {
-    "latin": "Conocybe juniana",
-    "eng": "stoppered conecap"
-  },
-  {
-    "latin": "Conocybe lenticulospora",
-    "eng": "hairy conecap"
-  },
-  {
-    "latin": "Conocybe leucopus",
-    "eng": "white footed conecap"
-  },
-  {
-    "latin": "Conocybe macrocephala",
-    "eng": "bigheaded conecap"
-  },
-  {
-    "latin": "Conocybe macrospora",
-    "eng": "big spored conecap"
-  },
-  {
-    "latin": "Conocybe magnispora",
-    "eng": "large spored conecap"
-  },
-  {
-    "latin": "Conocybe mairei",
-    "eng": "bare conecap"
-  },
-  {
-    "latin": "Conocybe merdaria",
-    "eng": "mucky conecap"
-  },
-  {
-    "latin": "Conocybe mesospora",
-    "eng": "ginger conecap"
-  },
-  {
-    "latin": "Conocybe murinacea",
-    "eng": "mousy conecap"
-  },
-  {
-    "latin": "Conocybe ochrostriata",
-    "eng": "palelined conecap"
-  },
-  {
-    "latin": "Conocybe pallidospora",
-    "eng": "palespored conecap"
-  },
-  {
-    "latin": "Conocybe percincta",
-    "eng": "girdled conecap"
-  },
-  {
-    "latin": "Conocybe pilosella",
-    "eng": "callused conecap"
-  },
-  {
-    "latin": "Conocybe pinetorum",
-    "eng": "pine conecap"
-  },
-  {
-    "latin": "Conocybe plicatella",
-    "eng": "fluted conecap"
-  },
-  {
-    "latin": "Conocybe pubescens",
-    "eng": "downy conecap"
-  },
-  {
-    "latin": "Conocybe pulchella",
-    "eng": "beautiful conecap"
-  },
-  {
-    "latin": "Conocybe pygmaeoaffinis",
-    "eng": "hoary conecap"
-  },
-  {
-    "latin": "Conocybe rickeniana",
-    "eng": "rusty conecap"
-  },
-  {
-    "latin": "Conocybe rickenii",
-    "eng": "olive conecap"
-  },
-  {
-    "latin": "Conocybe rostellata",
-    "eng": "stardew conecap"
-  },
-  {
-    "latin": "Conocybe rugosa",
-    "eng": "wrinkled conecap"
-  },
-  {
-    "latin": "Conocybe sabulicola",
-    "eng": "sandy conecap"
-  },
-  {
     "latin": "Conocybe semiglobata",
     "eng": "roundhead conecap",
     "id": 314,
     "hun": "domború haranggomba"
-  },
-  {
-    "latin": "Conocybe siennophylla",
-    "eng": "browngilled conecap"
   },
   {
     "latin": "Conocybe siliginea",
@@ -2988,48 +1628,16 @@
     ]
   },
   {
-    "latin": "Conocybe singeriana",
-    "eng": "bigfoot conecap"
-  },
-  {
-    "latin": "Conocybe striaepes",
-    "eng": "linedleg conecap"
-  },
-  {
     "latin": "Conocybe subovalis",
     "eng": "ellipsoid conecap",
     "id": 317,
     "hun": "rozsdabarna haranggomba"
   },
   {
-    "latin": "Conocybe subpubescens",
-    "eng": "velveteen conecap"
-  },
-  {
-    "latin": "Conocybe sulcatipes",
-    "eng": "furrowedfoot conecap"
-  },
-  {
     "latin": "Conocybe tenera",
     "eng": "common conecap",
     "id": 319,
     "hun": "karcsú haranggomba"
-  },
-  {
-    "latin": "Conocybe umbonata",
-    "eng": "umbonate conecap"
-  },
-  {
-    "latin": "Conocybe utriformis",
-    "eng": "uterine conecap"
-  },
-  {
-    "latin": "Conocybe velata",
-    "eng": "veiled conecap"
-  },
-  {
-    "latin": "Conocybe velutipes",
-    "eng": "fleecyfoot conecap"
   },
   {
     "latin": "Conocybe vestita",
@@ -3041,26 +1649,6 @@
     "hun": "rojtosszegélyű haranggomba "
   },
   {
-    "latin": "Conocybe vexans",
-    "eng": "vexed conecap"
-  },
-  {
-    "latin": "Conocybe watlingii",
-    "eng": "rooting conecap"
-  },
-  {
-    "latin": "Conohypha albocremea",
-    "eng": "conecelled crust"
-  },
-  {
-    "latin": "Contumyces rosellus",
-    "eng": "rosy navel"
-  },
-  {
-    "latin": "Coprinellus amphithallus",
-    "eng": "umbrella inkcap"
-  },
-  {
     "latin": "Coprinellus angulatus",
     "eng": "bishop's inkcap",
     "id": 321,
@@ -3068,30 +1656,6 @@
       "Coprinus angulatus"
     ],
     "hun": "szenes tintagomba"
-  },
-  {
-    "latin": "Coprinellus bisporiger",
-    "eng": "twin spored inkcap"
-  },
-  {
-    "latin": "Coprinellus bisporus",
-    "eng": "two spored inkcap"
-  },
-  {
-    "latin": "Coprinellus cinnamomeotinctus",
-    "eng": "cinnamon inkcap"
-  },
-  {
-    "latin": "Coprinellus congregatus",
-    "eng": "clustered inkcap"
-  },
-  {
-    "latin": "Coprinellus curtus",
-    "eng": "short inkcap"
-  },
-  {
-    "latin": "Coprinellus dilectus",
-    "eng": "beloved inkcap"
   },
   {
     "latin": "Coprinellus disseminatus",
@@ -3125,18 +1689,6 @@
       "Coprinus flocculosus"
     ],
     "hun": "pelyhes tintagomba"
-  },
-  {
-    "latin": "Coprinellus heptemerus",
-    "eng": "dewdrop inkcap"
-  },
-  {
-    "latin": "Coprinellus heterosetulosus",
-    "eng": "variedcell inkcap"
-  },
-  {
-    "latin": "Coprinellus heterothrix",
-    "eng": "hairy inkcap"
   },
   {
     "latin": "Coprinellus hiascens",
@@ -3173,26 +1725,6 @@
     "hun": "kerti tintagomba"
   },
   {
-    "latin": "Coprinellus pellucidus",
-    "eng": "transparent inkcap"
-  },
-  {
-    "latin": "Coprinellus plagioporus",
-    "eng": "slantpored inkcap"
-  },
-  {
-    "latin": "Coprinellus pyrrhanthes",
-    "eng": "whirling inkcap"
-  },
-  {
-    "latin": "Coprinellus saccharinus",
-    "eng": "sweet inkcap"
-  },
-  {
-    "latin": "Coprinellus sclerocystidiosus",
-    "eng": "thickcelled inkcap"
-  },
-  {
     "latin": "Coprinellus silvaticus",
     "eng": "woodland inkcap",
     "id": 332,
@@ -3201,18 +1733,6 @@
       "Coprinus tardus"
     ],
     "hun": "erdei tintagomba"
-  },
-  {
-    "latin": "Coprinellus subdisseminatus",
-    "eng": "sprite inkcap"
-  },
-  {
-    "latin": "Coprinellus subimpatiens",
-    "eng": "frustrating inkcap"
-  },
-  {
-    "latin": "Coprinellus subpurpureus",
-    "eng": "mauve inkcap"
   },
   {
     "latin": "Coprinellus truncorum",
@@ -3225,14 +1745,6 @@
     "hun_syn": [
       "fűzfa tintagomba"
     ]
-  },
-  {
-    "latin": "Coprinellus velatopruinatus",
-    "eng": "hoary inkcap"
-  },
-  {
-    "latin": "Coprinellus verrucispermus",
-    "eng": "roughspored inkcap"
   },
   {
     "latin": "Coprinellus xanthothrix",
@@ -3256,14 +1768,6 @@
     ]
   },
   {
-    "latin": "Coprinopsis ammophilae",
-    "eng": "dune inkcap"
-  },
-  {
-    "latin": "Coprinopsis argentea",
-    "eng": "silver inkcap"
-  },
-  {
     "latin": "Coprinopsis atramentaria",
     "eng": "common inkcap",
     "id": 336,
@@ -3271,22 +1775,6 @@
       "Coprinus atramentarius"
     ],
     "hun": "ráncos tintagomba"
-  },
-  {
-    "latin": "Coprinopsis bellula",
-    "eng": "exquisite inkcap"
-  },
-  {
-    "latin": "Coprinopsis bicornis",
-    "eng": "cowhorn inkcap"
-  },
-  {
-    "latin": "Coprinopsis candidata",
-    "eng": "white inkcap"
-  },
-  {
-    "latin": "Coprinopsis candidolanata",
-    "eng": "wooly white inkcap"
   },
   {
     "latin": "Coprinopsis cinerea",
@@ -3297,22 +1785,6 @@
       "Coprinus fimetarius"
     ],
     "hun": "trágyatintagomba"
-  },
-  {
-    "latin": "Coprinopsis cinereofloccosa",
-    "eng": "ashen inkcap"
-  },
-  {
-    "latin": "Coprinopsis coniophora",
-    "eng": "duster inkcap"
-  },
-  {
-    "latin": "Coprinopsis cordispora",
-    "eng": "ticker inkcap"
-  },
-  {
-    "latin": "Coprinopsis cortinata",
-    "eng": "veiled inkcap"
   },
   {
     "latin": "Coprinopsis cothurnata",
@@ -3343,42 +1815,6 @@
     "hun": "galléros tintagomba"
   },
   {
-    "latin": "Coprinopsis episcopalis",
-    "eng": "mitre inkcap"
-  },
-  {
-    "latin": "Coprinopsis erythrocephala",
-    "eng": "redheaded inkcap"
-  },
-  {
-    "latin": "Coprinopsis filamentifer",
-    "eng": "threaded inkcap"
-  },
-  {
-    "latin": "Coprinopsis friesii",
-    "eng": "rhomboid inkcap"
-  },
-  {
-    "latin": "Coprinopsis gonophylla",
-    "eng": "subglobose inkcap"
-  },
-  {
-    "latin": "Coprinopsis jonesii",
-    "eng": "bonfire inkcap"
-  },
-  {
-    "latin": "Coprinopsis krieglsteineri",
-    "eng": "cobwebby inkcap"
-  },
-  {
-    "latin": "Coprinopsis kubickae",
-    "eng": "bulbous inkcap"
-  },
-  {
-    "latin": "Coprinopsis laanii",
-    "eng": "dotty inkcap"
-  },
-  {
     "latin": "Coprinopsis lagopus",
     "eng": "hare'sfoot inkcap",
     "id": 342,
@@ -3389,14 +1825,6 @@
     "hun_syn": [
       "nyúlszőrmés tintagomba"
     ]
-  },
-  {
-    "latin": "Coprinopsis luteocephala",
-    "eng": "yellow inkcap"
-  },
-  {
-    "latin": "Coprinopsis macrocephala",
-    "eng": "bighead inkcap"
   },
   {
     "latin": "Coprinopsis marcescibilis",
@@ -3412,14 +1840,6 @@
     ]
   },
   {
-    "latin": "Coprinopsis martinii",
-    "eng": "rushy inkcap "
-  },
-  {
-    "latin": "Coprinopsis narcotica",
-    "eng": "stinking inkcap"
-  },
-  {
     "latin": "Coprinopsis nivea",
     "eng": "snowy inkcap",
     "id": 345,
@@ -3430,26 +1850,6 @@
     "hun_syn": [
       "hófehér tintagomba"
     ]
-  },
-  {
-    "latin": "Coprinopsis ochraceolanata",
-    "eng": "ochreveiled inkcap"
-  },
-  {
-    "latin": "Coprinopsis pachyderma",
-    "eng": "thickskinned inkcap"
-  },
-  {
-    "latin": "Coprinopsis pachysperma",
-    "eng": "thickspored inkcap"
-  },
-  {
-    "latin": "Coprinopsis panmucidioides",
-    "eng": "ragged inkcap"
-  },
-  {
-    "latin": "Coprinopsis patouillardii",
-    "eng": "composting inkcap"
   },
   {
     "latin": "Coprinopsis phaeospora",
@@ -3464,10 +1864,6 @@
     ]
   },
   {
-    "latin": "Coprinopsis phlyctidospora",
-    "eng": "wartyspored inkcap"
-  },
-  {
     "latin": "Coprinopsis picacea",
     "eng": "magpie inkcap",
     "id": 347,
@@ -3475,14 +1871,6 @@
       "Coprinus picaceus"
     ],
     "hun": "harkálytintagomba"
-  },
-  {
-    "latin": "Coprinopsis poliomallus",
-    "eng": "greyhaired inkcap"
-  },
-  {
-    "latin": "Coprinopsis pseudofriesii",
-    "eng": "thorny inkcap"
   },
   {
     "latin": "Coprinopsis pseudonivea",
@@ -3497,10 +1885,6 @@
     ]
   },
   {
-    "latin": "Coprinopsis pseudoradiata",
-    "eng": "false rayed inkcap"
-  },
-  {
     "latin": "Coprinopsis radiata",
     "eng": "rayed inkcap",
     "id": 349,
@@ -3508,78 +1892,6 @@
       "Coprinus radiatus"
     ],
     "hun": "csillagtintagomba"
-  },
-  {
-    "latin": "Coprinopsis radicans",
-    "eng": "rooting inkcap"
-  },
-  {
-    "latin": "Coprinopsis romagnesianus",
-    "eng": "orangy inkcap"
-  },
-  {
-    "latin": "Coprinopsis rubigosobispora",
-    "eng": "rusty inkcap"
-  },
-  {
-    "latin": "Coprinopsis saccharomyces",
-    "eng": "yeasty inkcap"
-  },
-  {
-    "latin": "Coprinopsis sclerotiger",
-    "eng": "corming inkcap"
-  },
-  {
-    "latin": "Coprinopsis scobicola",
-    "eng": "sawdust inkcap"
-  },
-  {
-    "latin": "Coprinopsis semitalis",
-    "eng": "winged inkcap"
-  },
-  {
-    "latin": "Coprinopsis spelaiophila",
-    "eng": "fleeting inkcap"
-  },
-  {
-    "latin": "Coprinopsis stangliana",
-    "eng": "pied inkcap"
-  },
-  {
-    "latin": "Coprinopsis stercorea",
-    "eng": "dung inkcap"
-  },
-  {
-    "latin": "Coprinopsis strossmayeri",
-    "eng": "trooping inkcap"
-  },
-  {
-    "latin": "Coprinopsis tigrinella",
-    "eng": "speckled inkcap"
-  },
-  {
-    "latin": "Coprinopsis trispora",
-    "eng": "threespored inkcap"
-  },
-  {
-    "latin": "Coprinopsis tuberosa",
-    "eng": "tuberous inkcap"
-  },
-  {
-    "latin": "Coprinopsis urticicola",
-    "eng": "swamp inkcap"
-  },
-  {
-    "latin": "Coprinopsis utrifer",
-    "eng": "dusty inkcap"
-  },
-  {
-    "latin": "Coprinopsis vermiculifer",
-    "eng": "wormy inkcap"
-  },
-  {
-    "latin": "Coprinus alopecius",
-    "eng": "distinguished inkcap"
   },
   {
     "latin": "Coprinus comatus",
@@ -3594,26 +1906,10 @@
     "hun": "bocskoros tintagomba"
   },
   {
-    "latin": "Coprinus vosoustii",
-    "eng": "starry inkcap"
-  },
-  {
     "latin": "Cordyceps militaris",
     "eng": "scarlet caterpillarclub",
     "id": 353,
     "hun": "vörös rovarrontógomba"
-  },
-  {
-    "latin": "Coronicium alboglaucum",
-    "eng": "jewelless crust"
-  },
-  {
-    "latin": "Coronicium gemmiferum",
-    "eng": "jewelled crust"
-  },
-  {
-    "latin": "Corticium erikssonii",
-    "eng": "bulbiferous crust"
   },
   {
     "latin": "Corticium roseum",
@@ -3631,18 +1927,10 @@
     "hun": "orsós pókhálósgomba"
   },
   {
-    "latin": "Cortinarius acutospissipes",
-    "eng": "tapering webcap"
-  },
-  {
     "latin": "Cortinarius acutus",
     "eng": "peaked webcap",
     "id": 358,
     "hun": "hegyeskalapú pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius albocyaneus",
-    "eng": "glossy webcap"
   },
   {
     "latin": "Cortinarius alboviolaceus",
@@ -3658,18 +1946,6 @@
     "eng": "alder webcap",
     "id": 361,
     "hun": "égeres pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius alpinus",
-    "eng": "mountain webcap"
-  },
-  {
-    "latin": "Cortinarius ammophilus",
-    "eng": "dune webcap"
-  },
-  {
-    "latin": "Cortinarius amoenolens",
-    "eng": "blueleg webcap"
   },
   {
     "latin": "Cortinarius angelesianus",
@@ -3690,14 +1966,6 @@
     ]
   },
   {
-    "latin": "Cortinarius anthracinus",
-    "eng": "smouldering webcap"
-  },
-  {
-    "latin": "Cortinarius aprinus",
-    "eng": "boar webcap"
-  },
-  {
     "latin": "Cortinarius arcuatorum",
     "eng": "arched webcap ",
     "id": 367,
@@ -3707,48 +1975,16 @@
     "hun": "lilásperemű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius argenteopileatus",
-    "eng": "silvertop webcap"
-  },
-  {
     "latin": "Cortinarius armillatus",
     "eng": "red banded webcap",
     "id": 369,
     "hun": "vörösövű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius arquatus",
-    "eng": "yellowish webcap"
-  },
-  {
-    "latin": "Cortinarius atropusillus",
-    "eng": "darkling webcap"
-  },
-  {
     "latin": "Cortinarius atrovirens",
     "eng": "olive webcap",
     "id": 371,
     "hun": "feketészöld pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius aurantiobasilis",
-    "eng": "goldenfoot webcap"
-  },
-  {
-    "latin": "Cortinarius aureomarginatus",
-    "eng": "gilded webcap"
-  },
-  {
-    "latin": "Cortinarius aureopulverulentus",
-    "eng": "golddust webcap"
-  },
-  {
-    "latin": "Cortinarius azureovelatus",
-    "eng": "yellow capped webcap"
-  },
-  {
-    "latin": "Cortinarius balaustinus",
-    "eng": "granulated webcap"
   },
   {
     "latin": "Cortinarius balteatoalbus",
@@ -3769,22 +2005,6 @@
     "hun": "gyökerező pókhálósgomba"
   },
   {
-    "latin": "Cortinarius basililaceus",
-    "eng": "lilacfooted webcap"
-  },
-  {
-    "latin": "Cortinarius basiroseus",
-    "eng": "rosefooted webcap"
-  },
-  {
-    "latin": "Cortinarius bataillei",
-    "eng": "firefoot webcap"
-  },
-  {
-    "latin": "Cortinarius bergeronii",
-    "eng": "chalky webcap"
-  },
-  {
     "latin": "Cortinarius betulinus",
     "eng": "birchwood webcap",
     "id": 375,
@@ -3792,10 +2012,6 @@
     "hun_syn": [
       "karcsúnyír pókhálósgomba"
     ]
-  },
-  {
-    "latin": "Cortinarius bibulus",
-    "eng": "swampling webcap"
   },
   {
     "latin": "Cortinarius biformis",
@@ -3816,18 +2032,10 @@
     "hun": "vöröspikkelyes pókhálósgomba"
   },
   {
-    "latin": "Cortinarius boreicyanites",
-    "eng": "northern blue webcap"
-  },
-  {
     "latin": "Cortinarius bovinus",
     "eng": "bovine webcap",
     "id": 379,
     "hun": "vastaglábú pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius brunneiaurantius",
-    "eng": "goldenbrown webcap"
   },
   {
     "latin": "Cortinarius brunneus",
@@ -3837,10 +2045,6 @@
     "hun_syn": [
       "sötétbarna pókhálósgomba"
     ]
-  },
-  {
-    "latin": "Cortinarius bulbosus",
-    "eng": "bulbous webcap"
   },
   {
     "latin": "Cortinarius bulliardii",
@@ -3855,18 +2059,6 @@
     "hun": "kék pókhálósgomba"
   },
   {
-    "latin": "Cortinarius caesiocanescens",
-    "eng": "grey webcap"
-  },
-  {
-    "latin": "Cortinarius caesiocinctus",
-    "eng": "bluegirdled webcap"
-  },
-  {
-    "latin": "Cortinarius caesiostramineus",
-    "eng": "straw webcap"
-  },
-  {
     "latin": "Cortinarius cagei",
     "eng": "bicoloured webcap",
     "id": 383,
@@ -3874,14 +2066,6 @@
       "Cortinarius bicolor"
     ],
     "hun": "kétszínű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius caledoniensis",
-    "eng": "Caledonian webcap+C392"
-  },
-  {
-    "latin": "Cortinarius caligatus",
-    "eng": "lilacgilled webcap"
   },
   {
     "latin": "Cortinarius callisteus",
@@ -3944,30 +2128,6 @@
     "hun": "színestönkű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius castaneolens",
-    "eng": "chestnut webcap"
-  },
-  {
-    "latin": "Cortinarius catharinae",
-    "eng": "charming webcap"
-  },
-  {
-    "latin": "Cortinarius cedretorum",
-    "eng": "cedar webcap"
-  },
-  {
-    "latin": "Cortinarius cephalixus",
-    "eng": "blanched webcap"
-  },
-  {
-    "latin": "Cortinarius chrysomallus",
-    "eng": "goldenhaired webcap"
-  },
-  {
-    "latin": "Cortinarius cinereobrunneolus",
-    "eng": "veiled webcap"
-  },
-  {
     "latin": "Cortinarius cinnabarinus",
     "eng": "cinnabar webcap",
     "id": 393,
@@ -4006,18 +2166,6 @@
     ]
   },
   {
-    "latin": "Cortinarius cinnamoviolaceus",
-    "eng": "belted webcap"
-  },
-  {
-    "latin": "Cortinarius circinans",
-    "eng": "rounded webcap"
-  },
-  {
-    "latin": "Cortinarius cisticola",
-    "eng": "rockrose webcap"
-  },
-  {
     "latin": "Cortinarius citrinus",
     "eng": "citrine webcap",
     "id": 396,
@@ -4036,18 +2184,6 @@
     "hun": "gyapjastönkű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius claroplaniusculus",
-    "eng": "brightling webcap"
-  },
-  {
-    "latin": "Cortinarius coerulescentium",
-    "eng": "rubbery webcap"
-  },
-  {
-    "latin": "Cortinarius coleoptera",
-    "eng": "beetle webcap"
-  },
-  {
     "latin": "Cortinarius collinitus",
     "eng": "blue-girdled webcap",
     "id": 399,
@@ -4055,26 +2191,6 @@
       "Cortinarius muscigenus"
     ],
     "hun": "kéktönkű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius collocandoides",
-    "eng": "opalescent webcap"
-  },
-  {
-    "latin": "Cortinarius collossipes",
-    "eng": "bigfoot webcap"
-  },
-  {
-    "latin": "Cortinarius comptulus",
-    "eng": "ornamented webcap"
-  },
-  {
-    "latin": "Cortinarius confirmatus",
-    "eng": "confirmed webcap"
-  },
-  {
-    "latin": "Cortinarius corrosus",
-    "eng": "spruce bigfoot webcap"
   },
   {
     "latin": "Cortinarius cotoneus",
@@ -4122,22 +2238,6 @@
     "hun": "vörösödő pókhálósgomba"
   },
   {
-    "latin": "Cortinarius cyanopus",
-    "eng": "bluefoot webcap"
-  },
-  {
-    "latin": "Cortinarius damascenus",
-    "eng": "clustered webcap"
-  },
-  {
-    "latin": "Cortinarius danicus",
-    "eng": "rimed webcap"
-  },
-  {
-    "latin": "Cortinarius daulnoyae",
-    "eng": "strapping webcap"
-  },
-  {
     "latin": "Cortinarius decipiens",
     "eng": "sepia webcap",
     "id": 407,
@@ -4153,18 +2253,6 @@
     ]
   },
   {
-    "latin": "Cortinarius depressus",
-    "eng": "pimpled webcap"
-  },
-  {
-    "latin": "Cortinarius diabolicoides",
-    "eng": "devilish webcap"
-  },
-  {
-    "latin": "Cortinarius diasemospermus",
-    "eng": "lemonbalm webcap"
-  },
-  {
     "latin": "Cortinarius dibaphus",
     "eng": "doubledyed webcap",
     "id": 409,
@@ -4177,22 +2265,10 @@
     "hun": "lisztszagú pókhálósgomba"
   },
   {
-    "latin": "Cortinarius diosmus",
-    "eng": "clay webcap"
-  },
-  {
     "latin": "Cortinarius disjungendus",
     "eng": "inrolled webcap",
     "id": 411,
     "hun": "faszínű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius dolobratus",
-    "eng": "cedarwood webcap"
-  },
-  {
-    "latin": "Cortinarius durus",
-    "eng": "hard webcap"
   },
   {
     "latin": "Cortinarius elatior",
@@ -4217,10 +2293,6 @@
     "hun": "pompás pókhálósgomba"
   },
   {
-    "latin": "Cortinarius emollitus",
-    "eng": "biting webcap"
-  },
-  {
     "latin": "Cortinarius emunctus",
     "eng": "viscid webcap",
     "id": 418,
@@ -4230,38 +2302,10 @@
     "hun": "fakóibolyás pókhálósgomba"
   },
   {
-    "latin": "Cortinarius epipurrus",
-    "eng": "delightful webcap"
-  },
-  {
-    "latin": "Cortinarius epsomiensis",
-    "eng": "broadspored webcap"
-  },
-  {
-    "latin": "Cortinarius erubescens",
-    "eng": "reddening webcap"
-  },
-  {
-    "latin": "Cortinarius erythrinus",
-    "eng": "reddish webcap"
-  },
-  {
     "latin": "Cortinarius evernius",
     "eng": "silky webcap",
     "id": 419,
     "hun": "lilatönkű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius fagetorum",
-    "eng": "beech webcap"
-  },
-  {
-    "latin": "Cortinarius ferrusinus",
-    "eng": "ferrous webcap"
-  },
-  {
-    "latin": "Cortinarius fervidus",
-    "eng": "dyer's webcap"
   },
   {
     "latin": "Cortinarius flexipes",
@@ -4274,64 +2318,16 @@
     "hun": "muskátliszagú pókhálósgomba"
   },
   {
-    "latin": "Cortinarius fragantior",
-    "eng": "fragrant webcap"
-  },
-  {
-    "latin": "Cortinarius fulvaureus",
-    "eng": "tacked webcap"
-  },
-  {
-    "latin": "Cortinarius fulvescens",
-    "eng": "pinkveiled webcap"
-  },
-  {
-    "latin": "Cortinarius fulvochraceus",
-    "eng": "var. cyanophyllus bluegilled webcap"
-  },
-  {
-    "latin": "Cortinarius fulvosquamosus",
-    "eng": "sand webcap"
-  },
-  {
-    "latin": "Cortinarius furfuraceus",
-    "eng": "scurfy webcap"
-  },
-  {
-    "latin": "Cortinarius fusisporus",
-    "eng": "spindle webcap"
-  },
-  {
-    "latin": "Cortinarius gausapatus",
-    "eng": "mantled webcap"
-  },
-  {
     "latin": "Cortinarius gentilis",
     "eng": "conifer webcap",
     "id": 423,
     "hun": "aranysárga pókhálósgomba"
   },
   {
-    "latin": "Cortinarius geraniolens",
-    "eng": "geranium webcap"
-  },
-  {
-    "latin": "Cortinarius glandicolor",
-    "eng": "acorn webcap"
-  },
-  {
     "latin": "Cortinarius glaucopus",
     "eng": "greenfoot webcap",
     "id": 424,
     "hun": "szálaskalapú pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius helobius",
-    "eng": "wetland webcap"
-  },
-  {
-    "latin": "Cortinarius helvelloides",
-    "eng": "swamp webcap"
   },
   {
     "latin": "Cortinarius hemitrichus",
@@ -4343,18 +2339,6 @@
     ]
   },
   {
-    "latin": "Cortinarius herpeticus",
-    "eng": "creeping webcap"
-  },
-  {
-    "latin": "Cortinarius heterosporus",
-    "eng": "boletoid webcap"
-  },
-  {
-    "latin": "Cortinarius hillieri",
-    "eng": "hornbeam webcap"
-  },
-  {
     "latin": "Cortinarius hinnuleus",
     "eng": "earthy webcap",
     "id": 426,
@@ -4364,22 +2348,10 @@
     ]
   },
   {
-    "latin": "Cortinarius hinnuloides",
-    "eng": "russet webcap"
-  },
-  {
-    "latin": "Cortinarius hoeftii",
-    "eng": "iodoform webcap"
-  },
-  {
     "latin": "Cortinarius humicola",
     "eng": "golden webcap",
     "id": 427,
     "hun": "kúpos pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius humolens",
-    "eng": "humus webcap"
   },
   {
     "latin": "Cortinarius huronensis",
@@ -4388,30 +2360,10 @@
     "hun": "lápi pókhálósgomba"
   },
   {
-    "latin": "Cortinarius illibatus",
-    "eng": "unimpaired webcap"
-  },
-  {
-    "latin": "Cortinarius illuminus",
-    "eng": "dull webcap"
-  },
-  {
-    "latin": "Cortinarius imbutus",
-    "eng": "saturated webcap"
-  },
-  {
-    "latin": "Cortinarius incisior",
-    "eng": "sliced webcap"
-  },
-  {
     "latin": "Cortinarius incisus",
     "eng": "incised webcap",
     "id": 429,
     "hun": "hasadtkalapú pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius inconspicuus",
-    "eng": "modest webcap"
   },
   {
     "latin": "Cortinarius infractus",
@@ -4420,26 +2372,10 @@
     "hun": "keserű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius inolens",
-    "eng": "pine webcap"
-  },
-  {
-    "latin": "Cortinarius integerrimus",
-    "eng": "purple stocking webcap"
-  },
-  {
     "latin": "Cortinarius ionophyllus",
     "eng": "violetgilled webcap",
     "id": 431,
     "hun": "ibolyáslemezű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius junghuhnii",
-    "eng": "sterileedged webcap"
-  },
-  {
-    "latin": "Cortinarius lacustris",
-    "eng": "lakeside webcap"
   },
   {
     "latin": "Cortinarius laniger",
@@ -4459,26 +2395,6 @@
     ]
   },
   {
-    "latin": "Cortinarius leiocastaneus",
-    "eng": "honeybrown webcap"
-  },
-  {
-    "latin": "Cortinarius lepidopus",
-    "eng": "flocked webcap"
-  },
-  {
-    "latin": "Cortinarius lepistoides",
-    "eng": "malty webcap"
-  },
-  {
-    "latin": "Cortinarius leucoluteolus",
-    "eng": "jaundiced webcap"
-  },
-  {
-    "latin": "Cortinarius lilacinovelatus",
-    "eng": "lilacveiled webcap"
-  },
-  {
     "latin": "Cortinarius limonius",
     "eng": "sunset webcap",
     "id": 434,
@@ -4488,40 +2404,16 @@
     ]
   },
   {
-    "latin": "Cortinarius livido-ochraceus",
-    "eng": "wrinkled webcap"
-  },
-  {
-    "latin": "Cortinarius livor",
-    "eng": "bruised webcap"
-  },
-  {
     "latin": "Cortinarius lucorum",
     "eng": "aspen webcap",
     "id": 435,
     "hun": "berki pókhálósgomba"
   },
   {
-    "latin": "Cortinarius luhmanii",
-    "eng": "patched webcap"
-  },
-  {
-    "latin": "Cortinarius luridus",
-    "eng": "lurid webcap"
-  },
-  {
-    "latin": "Cortinarius macropodius",
-    "eng": "yeti webcap"
-  },
-  {
     "latin": "Cortinarius magicus",
     "eng": "magical webcap",
     "id": 436,
     "hun": "zöldperemű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius mairei",
-    "eng": "alluring webcap"
   },
   {
     "latin": "Cortinarius malachius",
@@ -4536,26 +2428,6 @@
     "hun": "narancsvörös pókhálósgomba"
   },
   {
-    "latin": "Cortinarius marjoranae",
-    "eng": "marjoram webcap "
-  },
-  {
-    "latin": "Cortinarius megacystidiosus",
-    "eng": "bigcelled webcap"
-  },
-  {
-    "latin": "Cortinarius microspermus",
-    "eng": "smallspored webcap"
-  },
-  {
-    "latin": "Cortinarius moenne-loccozii",
-    "eng": "booted webcap"
-  },
-  {
-    "latin": "Cortinarius mucifluoides",
-    "eng": "sticky webcap"
-  },
-  {
     "latin": "Cortinarius mucifluus",
     "eng": "slimy webcap",
     "id": 442,
@@ -4568,42 +2440,6 @@
     "hun": "fehértönkű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius multiformium",
-    "eng": "fibrillose webcap"
-  },
-  {
-    "latin": "Cortinarius mussivus",
-    "eng": "stinking webcap"
-  },
-  {
-    "latin": "Cortinarius myxo-anomalus",
-    "eng": "uneven webcap"
-  },
-  {
-    "latin": "Cortinarius nanceiensis",
-    "eng": "bilious webcap"
-  },
-  {
-    "latin": "Cortinarius nigromammosus",
-    "eng": "blackbreasted webcap"
-  },
-  {
-    "latin": "Cortinarius nolaneiformis",
-    "eng": "campanulate webcap"
-  },
-  {
-    "latin": "Cortinarius norvegicus",
-    "eng": "northern webcap"
-  },
-  {
-    "latin": "Cortinarius nothosaniosus",
-    "eng": "villainous webcap"
-  },
-  {
-    "latin": "Cortinarius obtusorum",
-    "eng": "obtuse webcap"
-  },
-  {
     "latin": "Cortinarius obtusus",
     "eng": "blunt webcap",
     "id": 445,
@@ -4613,30 +2449,10 @@
     ]
   },
   {
-    "latin": "Cortinarius ochroleucus",
-    "eng": "cream webcap"
-  },
-  {
-    "latin": "Cortinarius odorifera",
-    "eng": "aniseed webcap"
-  },
-  {
-    "latin": "Cortinarius olearioides",
-    "eng": "saffron stainer"
-  },
-  {
-    "latin": "Cortinarius olidus",
-    "eng": "musty webcap"
-  },
-  {
     "latin": "Cortinarius olivaceofuscus",
     "eng": "olivaceous webcap",
     "id": 448,
     "hun": "gyertyán-pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius ominosus",
-    "eng": "portentous webcap"
   },
   {
     "latin": "Cortinarius orellanus",
@@ -4658,30 +2474,10 @@
     "hun": "erősillatú pókhálósgomba"
   },
   {
-    "latin": "Cortinarius paragaudis",
-    "eng": "embroidered webcap"
-  },
-  {
     "latin": "Cortinarius parvannulatus",
     "eng": "ringed webcap",
     "id": 453,
     "hun": "aprógallérú pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius pearsonii",
-    "eng": "heath webcap"
-  },
-  {
-    "latin": "Cortinarius pertristis",
-    "eng": "montane webcap"
-  },
-  {
-    "latin": "Cortinarius phaeophyllus",
-    "eng": "darkgilled webcap"
-  },
-  {
-    "latin": "Cortinarius phaeopygmaeus",
-    "eng": "tiny webcap"
   },
   {
     "latin": "Cortinarius pholideus",
@@ -4699,18 +2495,6 @@
     "hun": "peremes pókhálósgomba"
   },
   {
-    "latin": "Cortinarius pluvius",
-    "eng": "edged webcap"
-  },
-  {
-    "latin": "Cortinarius poecilopus",
-    "eng": "spotted webcap"
-  },
-  {
-    "latin": "Cortinarius poppyzon",
-    "eng": "domed webcap"
-  },
-  {
     "latin": "Cortinarius porphyropus",
     "eng": "purplefoot webcap",
     "id": 458,
@@ -4723,10 +2507,6 @@
     "hun": "óriás pókhálósgomba"
   },
   {
-    "latin": "Cortinarius praestigiosus",
-    "eng": "tricky webcap"
-  },
-  {
     "latin": "Cortinarius pratensis",
     "eng": "meadow webcap",
     "id": 460,
@@ -4734,26 +2514,6 @@
       "Dermocybe pratense"
     ],
     "hun": "gyepi pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius psammocephalus",
-    "eng": "sandy webcap"
-  },
-  {
-    "latin": "Cortinarius pseudocandelaris",
-    "eng": "ghostlight webcap"
-  },
-  {
-    "latin": "Cortinarius pseudofallax",
-    "eng": "deceiving webcap"
-  },
-  {
-    "latin": "Cortinarius punctatiformis",
-    "eng": "speckled webcap"
-  },
-  {
-    "latin": "Cortinarius puniceus",
-    "eng": "crimson webcap"
   },
   {
     "latin": "Cortinarius purpurascens",
@@ -4779,38 +2539,10 @@
     ]
   },
   {
-    "latin": "Cortinarius quarciticus",
-    "eng": "quartzy webcap"
-  },
-  {
-    "latin": "Cortinarius quercoconicus",
-    "eng": "conical webcap"
-  },
-  {
-    "latin": "Cortinarius rapaceus",
-    "eng": "turnip webcap"
-  },
-  {
     "latin": "Cortinarius raphanoides",
     "eng": "radishy webcap",
     "id": 466,
     "hun": "retekszagú pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius rheubarbarinus",
-    "eng": "rhubarb webcap"
-  },
-  {
-    "latin": "Cortinarius rickenianus",
-    "eng": "nymphs webcap"
-  },
-  {
-    "latin": "Cortinarius riederi",
-    "eng": "leonine webcap"
-  },
-  {
-    "latin": "Cortinarius rigens",
-    "eng": "rigid webcap"
   },
   {
     "latin": "Cortinarius rubellus",
@@ -4827,18 +2559,6 @@
     "eng": "ruddy webcap",
     "id": 469,
     "hun": "borvöröstönkű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius rubricosus",
-    "eng": "roughened webcap"
-  },
-  {
-    "latin": "Cortinarius rufo-olivaceus",
-    "eng": "mottled webcap"
-  },
-  {
-    "latin": "Cortinarius rufostriatus",
-    "eng": "russet lined webcap"
   },
   {
     "latin": "Cortinarius saginus",
@@ -4882,10 +2602,6 @@
     "hun": "narancsszínű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius saporatus",
-    "eng": "stately webcap"
-  },
-  {
     "latin": "Cortinarius saturninus",
     "eng": "trooping webcap",
     "id": 476,
@@ -4898,18 +2614,10 @@
     ]
   },
   {
-    "latin": "Cortinarius scandens",
-    "eng": "climbing webcap"
-  },
-  {
     "latin": "Cortinarius scaurus",
     "eng": "green webcap",
     "id": 478,
     "hun": "olívlemezű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius scotoides",
-    "eng": "alban webcap"
   },
   {
     "latin": "Cortinarius semisanguineus",
@@ -4924,10 +2632,6 @@
     ]
   },
   {
-    "latin": "Cortinarius septentrionalis",
-    "eng": "boreal webcap"
-  },
-  {
     "latin": "Cortinarius simulatus",
     "eng": "copycat webcap",
     "id": 481,
@@ -4935,10 +2639,6 @@
       "Cortinarius violaceocinereus s. auct."
     ],
     "hun": "ibolyásszürke pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius sobrius",
-    "eng": "sober webcap"
   },
   {
     "latin": "Cortinarius sodagnitus",
@@ -4953,14 +2653,6 @@
     "hun": "narancssárga-lemezű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius spadicellus",
-    "eng": "date webcap"
-  },
-  {
-    "latin": "Cortinarius sphagnicola",
-    "eng": "bog webcap"
-  },
-  {
     "latin": "Cortinarius spilomeus",
     "eng": "freckled webcap",
     "id": 484,
@@ -4968,10 +2660,6 @@
     "hun_syn": [
       "rezespikkelyű pókhálósgomba"
     ]
-  },
-  {
-    "latin": "Cortinarius spisnii",
-    "eng": "bland webcap"
   },
   {
     "latin": "Cortinarius splendens",
@@ -4983,48 +2671,16 @@
     ]
   },
   {
-    "latin": "Cortinarius splendificus",
-    "eng": "splendi+B329ferous webcap"
-  },
-  {
-    "latin": "Cortinarius squamosocephalus",
-    "eng": "cracking webcap"
-  },
-  {
-    "latin": "Cortinarius suaveolens",
-    "eng": "perfumed webcap"
-  },
-  {
-    "latin": "Cortinarius subbalaustinus",
-    "eng": "burnt orange webcap"
-  },
-  {
-    "latin": "Cortinarius subcoronatus",
-    "eng": "regent webcap"
-  },
-  {
-    "latin": "Cortinarius suberi",
-    "eng": "smoky webcap"
-  },
-  {
     "latin": "Cortinarius subtortus",
     "eng": "incense webcap",
     "id": 489,
     "hun": "kesernyés pókhálósgomba"
   },
   {
-    "latin": "Cortinarius subtorvus",
-    "eng": "sheathed webcap"
-  },
-  {
     "latin": "Cortinarius suillus",
     "eng": "piggy webcap",
     "id": 490,
     "hun": "keményhúsú pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius tabacinus",
-    "eng": "tobacco webcap"
   },
   {
     "latin": "Cortinarius tabularis",
@@ -5040,26 +2696,6 @@
     "eng": "honey webcap",
     "id": 492,
     "hun": "fakólemezű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius terpsichores",
-    "eng": "dancing+B535 webcap"
-  },
-  {
-    "latin": "Cortinarius testaceoviolascens",
-    "eng": "brickred webcap"
-  },
-  {
-    "latin": "Cortinarius tofaceus",
-    "eng": "stonelike webcap"
-  },
-  {
-    "latin": "Cortinarius tortuosus",
-    "eng": "twisted webcap"
-  },
-  {
-    "latin": "Cortinarius torvoides",
-    "eng": "feral webcap"
   },
   {
     "latin": "Cortinarius torvus",
@@ -5112,18 +2748,10 @@
     "hun": "tőzegmoha-pókhálósgomba"
   },
   {
-    "latin": "Cortinarius turgidus",
-    "eng": "swollen webcap"
-  },
-  {
     "latin": "Cortinarius uliginosus",
     "eng": "marsh webcap",
     "id": 501,
     "hun": "rézvörös pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius ultrodistortus",
-    "eng": "almondspored webcap"
   },
   {
     "latin": "Cortinarius umbrinolens",
@@ -5132,32 +2760,16 @@
     "hun": "sötétbarna pókhálósgomba"
   },
   {
-    "latin": "Cortinarius urbicus",
-    "eng": "urban webcap"
-  },
-  {
     "latin": "Cortinarius valgus",
     "eng": "bowed webcap",
     "id": 504,
     "hun": "palaszínlemezű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius variegatus",
-    "eng": "variegated webcap"
-  },
-  {
-    "latin": "Cortinarius variicolor",
-    "eng": "contrary webcap"
-  },
-  {
     "latin": "Cortinarius variiformis",
     "eng": "varied webcap",
     "id": 506,
     "hun": "változatos pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius velenovskyanus",
-    "eng": "resinous webcap"
   },
   {
     "latin": "Cortinarius venetus",
@@ -5175,30 +2787,10 @@
     "hun": "díszestönkű pókhálósgomba"
   },
   {
-    "latin": "Cortinarius vernus",
-    "eng": "spring webcap"
-  },
-  {
-    "latin": "Cortinarius vesterholtii",
-    "eng": "vibrant webcap"
-  },
-  {
     "latin": "Cortinarius vibratilis",
     "eng": "quivering webcap",
     "id": 510,
     "hun": "epeízű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius violaceofuscus",
-    "eng": "dark violet webcap"
-  },
-  {
-    "latin": "Cortinarius violaceonitens",
-    "eng": "lustrous webcap"
-  },
-  {
-    "latin": "Cortinarius violaceovelatus",
-    "eng": "violet veiled webcap"
   },
   {
     "latin": "Cortinarius violaceus",
@@ -5208,10 +2800,6 @@
       "Cortinarius harcynicus"
     ],
     "hun": "sötétlila pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius violilamellatus",
-    "eng": "aromatic webcap"
   },
   {
     "latin": "Cortinarius vulpinus",
@@ -5229,26 +2817,10 @@
     "hun": "olívsárga pókhálósgomba"
   },
   {
-    "latin": "Cortinarius xantho-ochraceus",
-    "eng": "yellowochre webcap"
-  },
-  {
     "latin": "Cortinarius xanthophyllus",
     "eng": "yellow gilled webcap",
     "id": 514,
     "hun": "aranylemezű pókhálósgomba"
-  },
-  {
-    "latin": "Cortinarius zosteroides",
-    "eng": "shingles webcap"
-  },
-  {
-    "latin": "Cotylidia pannosa",
-    "eng": "woolly rosette"
-  },
-  {
-    "latin": "Cotylidia undulata",
-    "eng": "stalked rosette"
   },
   {
     "latin": "Craterellus cinereus",
@@ -5291,10 +2863,6 @@
     "hun": "sötétedőhúsú rókagomba"
   },
   {
-    "latin": "Craterellus sinuosus",
-    "eng": "sinuous chanterelle"
-  },
-  {
     "latin": "Crepidotus applanatus",
     "eng": "flat oysterling",
     "id": 523,
@@ -5307,44 +2875,16 @@
     ]
   },
   {
-    "latin": "Crepidotus autochthonus",
-    "eng": "grounded oysterling"
-  },
-  {
-    "latin": "Crepidotus calolepsis",
-    "eng": "scaly oysterling"
-  },
-  {
-    "latin": "Crepidotus caspari",
-    "eng": "pale oysterling"
-  },
-  {
     "latin": "Crepidotus cesatii",
     "eng": "roundspored oysterling",
     "id": 525,
     "hun": "ritkalemezű kacskagomba"
   },
   {
-    "latin": "Crepidotus cinnabarinus",
-    "eng": "cinnabar oysterling"
-  },
-  {
-    "latin": "Crepidotus cristatus",
-    "eng": "crested oysterling"
-  },
-  {
     "latin": "Crepidotus crocophyllus",
     "eng": "saffron oysterling",
     "id": 526,
     "hun": "sárgalemezű kacskagomba"
-  },
-  {
-    "latin": "Crepidotus epibryus",
-    "eng": "grass oysterling"
-  },
-  {
-    "latin": "Crepidotus luteolus",
-    "eng": "yellowing oysterling"
   },
   {
     "latin": "Crepidotus mollis",
@@ -5371,30 +2911,6 @@
     ]
   },
   {
-    "latin": "Cristinia eichleri",
-    "eng": "dentists bane"
-  },
-  {
-    "latin": "Cristulariella depraedans",
-    "eng": "sycamore leafspot"
-  },
-  {
-    "latin": "Crucibulum laeve",
-    "eng": "common bird's nest"
-  },
-  {
-    "latin": "Cryphonectria parasitica",
-    "eng": "chestnut yellowtail"
-  },
-  {
-    "latin": "Cryptomyces maximus",
-    "eng": "willow blister"
-  },
-  {
-    "latin": "Cryptovalsa suaedicola",
-    "eng": "seablight microdot"
-  },
-  {
     "latin": "Cudonia circinans",
     "eng": "redleg jellybaby",
     "id": 534,
@@ -5407,10 +2923,6 @@
     "hun": "ráncos pajzsgomba"
   },
   {
-    "latin": "Cudoniella acicularis",
-    "eng": "oak pin"
-  },
-  {
     "latin": "Cudoniella clavus",
     "eng": "spring pin",
     "id": 536,
@@ -5419,10 +2931,6 @@
       "Ombrophila aquatica"
     ],
     "hun": "vízi pajzsgomba"
-  },
-  {
-    "latin": "Cumminsiella mirabilissima",
-    "eng": "mahonia rust"
   },
   {
     "latin": "Cyathus olla",
@@ -5486,10 +2994,6 @@
     ]
   },
   {
-    "latin": "Cystodermella cinnabarina",
-    "eng": "cinnabar powdercap"
-  },
-  {
     "latin": "Cystolepiota bucknallii",
     "eng": "lilac dapperling",
     "id": 559,
@@ -5532,10 +3036,6 @@
     "hun": "narancssárga gümőgomba"
   },
   {
-    "latin": "Dacrymyces ovisporus",
-    "eng": "pine jelly spot"
-  },
-  {
     "latin": "Dacrymyces stillatus",
     "eng": "common jelly spot",
     "id": 568,
@@ -5543,10 +3043,6 @@
       "Dacrymyces deliquescens"
     ],
     "hun": "sárga gümőgomba"
-  },
-  {
-    "latin": "Dacryobolus sudans",
-    "eng": "weeping toothcrust"
   },
   {
     "latin": "Daedalea quercina",
@@ -5586,10 +3082,6 @@
     ]
   },
   {
-    "latin": "Dencoeliopsis johnstonii",
-    "eng": "birch cup"
-  },
-  {
     "latin": "Dendrocollybia racemosa",
     "eng": "branched shanklet",
     "id": 585,
@@ -5619,14 +3111,6 @@
     ]
   },
   {
-    "latin": "Dermoloma magicum",
-    "eng": "black magic"
-  },
-  {
-    "latin": "Dermoloma pseudocuneifolium",
-    "eng": "dark crazed cap"
-  },
-  {
     "latin": "Diatrype bullata",
     "eng": "willow barkspot",
     "id": 592,
@@ -5645,10 +3129,6 @@
     "hun": "varszerű kéregtörőgomba"
   },
   {
-    "latin": "Diatrypella favacea",
-    "eng": "birch blackhead"
-  },
-  {
     "latin": "Diatrypella quercina",
     "eng": "oak blackhead",
     "id": 595,
@@ -5656,10 +3136,6 @@
     "hun_syn": [
       "tölgyfa érdes-fakéreggomba"
     ]
-  },
-  {
-    "latin": "Dicellomyces scirpi",
-    "eng": "wood clubrush smut"
   },
   {
     "latin": "Dichomitus campestris",
@@ -5674,10 +3150,6 @@
     "hun": "ráncos tárcsagomba"
   },
   {
-    "latin": "Doassansia limosellae",
-    "eng": "mudwort smut"
-  },
-  {
     "latin": "Dumontinia tuberosa",
     "eng": "anemone cup",
     "id": 608,
@@ -5688,14 +3160,6 @@
     "hun_syn": [
       "élősdi serleggomba"
     ]
-  },
-  {
-    "latin": "Echinoderma perplexum",
-    "eng": "warty dapperling"
-  },
-  {
-    "latin": "Eichleriella deglubens",
-    "eng": "blushing crust"
   },
   {
     "latin": "Elaphomyces asperulus",
@@ -5727,36 +3191,16 @@
     "hun": "változékony álszarvasgomba"
   },
   {
-    "latin": "Emmia latemarginatus",
-    "eng": "frothy porecrust"
-  },
-  {
-    "latin": "Encoelia fimbriata",
-    "eng": "fringed cup"
-  },
-  {
     "latin": "Encoelia furfuracea",
     "eng": "spring hazelcup",
     "id": 635,
     "hun": "közönséges mogyoró-csészegomba"
   },
   {
-    "latin": "Entoloma aethiops",
-    "eng": "black pinkgill"
-  },
-  {
     "latin": "Entoloma aprile",
     "eng": "april pinkgill",
     "id": 640,
     "hun": "áprilisi döggomba"
-  },
-  {
-    "latin": "Entoloma asprellum",
-    "eng": "roughened pinkgill"
-  },
-  {
-    "latin": "Entoloma atrocoeruleum",
-    "eng": "navy pinkgill"
   },
   {
     "latin": "Entoloma bloxamii",
@@ -5772,14 +3216,6 @@
     "hun_syn": [
       "sutagomba"
     ]
-  },
-  {
-    "latin": "Entoloma caesiocinctum",
-    "eng": "blue-girdled pinkgill"
-  },
-  {
-    "latin": "Entoloma callirhodon",
-    "eng": "charmer"
   },
   {
     "latin": "Entoloma catalaunicum",
@@ -5800,10 +3236,6 @@
     ]
   },
   {
-    "latin": "Entoloma chalybaeum",
-    "eng": "indigo pinkgill"
-  },
-  {
     "latin": "Entoloma clypeatum",
     "eng": "shield pinkgill",
     "id": 647,
@@ -5819,14 +3251,6 @@
     "hun": "keresztspórás kupakgomba"
   },
   {
-    "latin": "Entoloma corvinum",
-    "eng": "crow pinkgill"
-  },
-  {
-    "latin": "Entoloma cyaneoviridescens",
-    "eng": "bluegreen pinkgill"
-  },
-  {
     "latin": "Entoloma dichroum",
     "eng": "bicoloured pinkgill",
     "id": 650,
@@ -5840,18 +3264,6 @@
     "hun_syn": [
       "ibolyaszínű döggomba"
     ]
-  },
-  {
-    "latin": "Entoloma excentricum",
-    "eng": "excentric pinkgill"
-  },
-  {
-    "latin": "Entoloma exile",
-    "eng": "glaucous pinkgil"
-  },
-  {
-    "latin": "Entoloma formosum",
-    "eng": "pretty pinkgill"
   },
   {
     "latin": "Entoloma griseocyaneum",
@@ -5878,18 +3290,10 @@
     ]
   },
   {
-    "latin": "Entoloma indutoides",
-    "eng": "drab pinkgill"
-  },
-  {
     "latin": "Entoloma jubatum",
     "eng": "sepia pinkgill",
     "id": 659,
     "hun": "kormoslemezű döggomba"
-  },
-  {
-    "latin": "Entoloma kervernii",
-    "eng": "ochre pinkgill"
   },
   {
     "latin": "Entoloma madidum",
@@ -5916,10 +3320,6 @@
     ]
   },
   {
-    "latin": "Entoloma parasiticum",
-    "eng": "parasitic pinkgill"
-  },
-  {
     "latin": "Entoloma pleopodium",
     "eng": "aromatic pinkgill",
     "id": 673,
@@ -5930,10 +3330,6 @@
     "hun_syn": [
       "illatos döggomba"
     ]
-  },
-  {
-    "latin": "Entoloma politum",
-    "eng": "deceiving pinkgill"
   },
   {
     "latin": "Entoloma porphyrophaeum",
@@ -5948,14 +3344,6 @@
     "hun": "lisztszagú döggomba"
   },
   {
-    "latin": "Entoloma queletii",
-    "eng": "flushed pinkgill"
-  },
-  {
-    "latin": "Entoloma rhodocylix",
-    "eng": "least pinkgill"
-  },
-  {
     "latin": "Entoloma rhodopolium",
     "eng": "wood pinkgill",
     "id": 678,
@@ -5964,14 +3352,6 @@
       "kis döggomba",
       ""
     ]
-  },
-  {
-    "latin": "Entoloma roseum",
-    "eng": "rosy pinkgill"
-  },
-  {
-    "latin": "Entoloma scabiosum",
-    "eng": "roughtop pinkgill "
   },
   {
     "latin": "Entoloma sericellum",
@@ -6037,58 +3417,6 @@
     ]
   },
   {
-    "latin": "Entyloma chrysosplenii",
-    "eng": "saxifrage smut"
-  },
-  {
-    "latin": "Entyloma eryngii",
-    "eng": "sea holly smut"
-  },
-  {
-    "latin": "Entyloma henningsianum",
-    "eng": "brookweed smut"
-  },
-  {
-    "latin": "Entyloma ossifragi",
-    "eng": "bog asphodel smut"
-  },
-  {
-    "latin": "Eocronartium muscicola",
-    "eng": "moss rust"
-  },
-  {
-    "latin": "Episclerotium sclerotipus",
-    "eng": "burning beacon"
-  },
-  {
-    "latin": "Erastia salmonicolor",
-    "eng": "salmon bracket"
-  },
-  {
-    "latin": "Erysiphe adunca",
-    "eng": "willow mildew"
-  },
-  {
-    "latin": "Erysiphe alphitoides",
-    "eng": "oak mildew"
-  },
-  {
-    "latin": "Erysiphe euonymicola",
-    "eng": "spindletree mildew"
-  },
-  {
-    "latin": "Erysiphe heraclei",
-    "eng": "umbellifer mildew"
-  },
-  {
-    "latin": "Erysiphe trifolii",
-    "eng": "legume mildew"
-  },
-  {
-    "latin": "Eutypa spinosa",
-    "eng": "spiral tarcrust"
-  },
-  {
     "latin": "Exidia glandulosa",
     "eng": "witches' butter",
     "id": 696,
@@ -6132,42 +3460,6 @@
     "hun": "sárgás mirigygomba"
   },
   {
-    "latin": "Exidia thuretiana",
-    "eng": "white brain"
-  },
-  {
-    "latin": "Exidiopsis effusa",
-    "eng": "hair ice crust"
-  },
-  {
-    "latin": "Exobasidium arescens",
-    "eng": "blaeberry blister"
-  },
-  {
-    "latin": "Exobasidium expansum",
-    "eng": "northern bilberry redleaf"
-  },
-  {
-    "latin": "Exobasidium juelianum",
-    "eng": "dwarfing redleaf"
-  },
-  {
-    "latin": "Exobasidium myrtilli",
-    "eng": "blaeberry redleaf"
-  },
-  {
-    "latin": "Exobasidium sydowianum",
-    "eng": "bearberry redleaf"
-  },
-  {
-    "latin": "Exobasidium uvae-ursi",
-    "eng": "bearberry redstem"
-  },
-  {
-    "latin": "Exobasidium vaccinii",
-    "eng": "cowberry redleaf"
-  },
-  {
     "latin": "Faerberia carbonaria",
     "eng": "firesite funnel",
     "id": 705,
@@ -6178,14 +3470,6 @@
     "hun_syn": [
       "szenes rókagomba"
     ]
-  },
-  {
-    "latin": "Favolaschia calocera",
-    "eng": "orange porecap"
-  },
-  {
-    "latin": "Fayodia bisphaerigera",
-    "eng": "slender navel"
   },
   {
     "latin": "Fistulina hepatica",
@@ -6219,10 +3503,6 @@
     ]
   },
   {
-    "latin": "Flaviporus brownei",
-    "eng": "yellowpored bracket"
-  },
-  {
     "latin": "Fomes fomentarius",
     "eng": "hoof fungus / tinder bracket",
     "id": 722,
@@ -6232,10 +3512,6 @@
       "bükkfatapló",
       "valódi tüzitapló"
     ]
-  },
-  {
-    "latin": "Fomitiporia hippophaicola",
-    "eng": "sea buckthorn bracket"
   },
   {
     "latin": "Fomitiporia punctata",
@@ -6301,14 +3577,6 @@
     "hun": "retekszagú sisakgomba"
   },
   {
-    "latin": "Galerina calyptrata",
-    "eng": "veiled bell"
-  },
-  {
-    "latin": "Galerina clavata",
-    "eng": "ribbed bell"
-  },
-  {
     "latin": "Galerina graminea",
     "eng": "turf bell",
     "id": 740,
@@ -6319,10 +3587,6 @@
     "hun_syn": [
       "füves turjángomba"
     ]
-  },
-  {
-    "latin": "Galerina harrisonii",
-    "eng": "snowbed bell"
   },
   {
     "latin": "Galerina hypnorum",
@@ -6356,10 +3620,6 @@
     ]
   },
   {
-    "latin": "Galerina pseudomniophila",
-    "eng": "cinnamon bell"
-  },
-  {
     "latin": "Galerina pumila",
     "eng": "dwarf bell",
     "id": 746,
@@ -6367,14 +3627,6 @@
       "Galerina mycenopsis"
     ],
     "hun": "szálastönkű sisakgomba"
-  },
-  {
-    "latin": "Galerina vittiformis",
-    "eng": "hairy leg bell"
-  },
-  {
-    "latin": "Gamundia striatula",
-    "eng": "lined meadowcap"
   },
   {
     "latin": "Ganoderma applanatum",
@@ -6389,10 +3641,6 @@
     ]
   },
   {
-    "latin": "Ganoderma australe",
-    "eng": "southern bracket"
-  },
-  {
     "latin": "Ganoderma lucidum",
     "eng": "lacquered bracket",
     "id": 757,
@@ -6402,18 +3650,10 @@
     ]
   },
   {
-    "latin": "Ganoderma pfeifferi",
-    "eng": "beeswax bracket"
-  },
-  {
     "latin": "Geastrum berkeleyi",
     "eng": "Berkeley's earthstar",
     "id": 766,
     "hun": "szemcsés csillaggomba"
-  },
-  {
-    "latin": "Geastrum britannicum",
-    "eng": "vaulted earthstar"
   },
   {
     "latin": "Geastrum campestre",
@@ -6481,10 +3721,6 @@
     "hun": "hosszúkarú csillaggomba"
   },
   {
-    "latin": "Geastrum marginatum",
-    "eng": "tiny earthstar"
-  },
-  {
     "latin": "Geastrum quadrifidum",
     "eng": "rayed earthstar",
     "id": 782,
@@ -6543,18 +3779,6 @@
     "hun": "csalfa nyelvgomba"
   },
   {
-    "latin": "Geoglossum peckianum",
-    "eng": "slimy earthtongue"
-  },
-  {
-    "latin": "Geoglossum starbaeckii",
-    "eng": "star earthtongue"
-  },
-  {
-    "latin": "Geoglossum uliginosum",
-    "eng": "viscid earthtongue"
-  },
-  {
     "latin": "Geoglossum umbratile",
     "eng": "plain earthtongue",
     "id": 810,
@@ -6585,10 +3809,6 @@
     ]
   },
   {
-    "latin": "Gloeophyllum odoratum",
-    "eng": "anise mazegill"
-  },
-  {
     "latin": "Gloeophyllum sepiarium",
     "eng": "conifer mazegill",
     "id": 826,
@@ -6605,18 +3825,6 @@
     "eng": "bicoloured bracket",
     "id": 828,
     "hun": "kétszínű likacsosgomba"
-  },
-  {
-    "latin": "Glutinoglossum glutinosum",
-    "eng": "glutinous earthtongue"
-  },
-  {
-    "latin": "Golovinomyces depressus",
-    "eng": "burdock mildew"
-  },
-  {
-    "latin": "Golovinomyces sordidus",
-    "eng": "plantain mildew"
   },
   {
     "latin": "Gomphidius glutinosus",
@@ -6666,14 +3874,6 @@
     ]
   },
   {
-    "latin": "Guepinia helvelloides",
-    "eng": "salmon salad"
-  },
-  {
-    "latin": "Gymnopilus dilepis",
-    "eng": "magenta rustgill"
-  },
-  {
     "latin": "Gymnopilus junonius",
     "eng": "spectacular rustgill",
     "id": 843,
@@ -6702,14 +3902,6 @@
     "hun_syn": [
       "jegenyefenyő lánggomba"
     ]
-  },
-  {
-    "latin": "Gymnopus acervatus",
-    "eng": "conifer toughshank"
-  },
-  {
-    "latin": "Gymnopus alpinus",
-    "eng": "alpine toughshank"
   },
   {
     "latin": "Gymnopus androsaceus",
@@ -6829,26 +4021,6 @@
     "hun": "gyapjaslábú fülőke"
   },
   {
-    "latin": "Gymnopus putillus",
-    "eng": "pine toughshank"
-  },
-  {
-    "latin": "Gymnopus quercophilus",
-    "eng": "oak toughshank"
-  },
-  {
-    "latin": "Gymnopus terginus",
-    "eng": "hairy toughshank"
-  },
-  {
-    "latin": "Gymnosporangium clavariiforme",
-    "eng": "tongues of fire"
-  },
-  {
-    "latin": "Gymnosporangium cornutum",
-    "eng": "rowan crown"
-  },
-  {
     "latin": "Gyrodon lividus",
     "eng": "alder bolete",
     "id": 862,
@@ -6856,10 +4028,6 @@
     "hun_syn": [
       "égertinóru"
     ]
-  },
-  {
-    "latin": "Gyromitra ambigua",
-    "eng": "changeable false morel"
   },
   {
     "latin": "Gyromitra esculenta",
@@ -6933,14 +4101,6 @@
     ]
   },
   {
-    "latin": "Haradaea duriaeana",
-    "eng": "chickweed seedsmut"
-  },
-  {
-    "latin": "Hastodontia hastata",
-    "eng": "pikeman"
-  },
-  {
     "latin": "Hebeloma crustuliniforme",
     "eng": "poisonpie",
     "id": 875,
@@ -6948,10 +4108,6 @@
     "hun_syn": [
       "közönséges fakógomba"
     ]
-  },
-  {
-    "latin": "Hebeloma hiemale",
-    "eng": "winter poisonpie"
   },
   {
     "latin": "Hebeloma leucosarx",
@@ -7044,10 +4200,6 @@
     "hun": "szürke papsapkagomba"
   },
   {
-    "latin": "Helvella latispora",
-    "eng": "pale saddle"
-  },
-  {
     "latin": "Helvella leucomelaena",
     "eng": "sooty cup",
     "id": 905,
@@ -7058,10 +4210,6 @@
     "hun_syn": [
       "sima serleggomba"
     ]
-  },
-  {
-    "latin": "Helvella leucopus",
-    "eng": "palefoot saddle"
   },
   {
     "latin": "Helvella macropus",
@@ -7078,10 +4226,6 @@
     ]
   },
   {
-    "latin": "Hemileucoglossum elongatum",
-    "eng": "elongate earthtongue"
-  },
-  {
     "latin": "Hemimycena lactea",
     "eng": "milky bonnet",
     "id": 914,
@@ -7095,14 +4239,6 @@
     "eng": "fanvault bonnet",
     "id": 915,
     "hun": "pusztai álkígyógomba"
-  },
-  {
-    "latin": "Hemimycena tortuosa",
-    "eng": "dewdrop bonnet"
-  },
-  {
-    "latin": "Henningsomyces candidus",
-    "eng": "white tubelet"
   },
   {
     "latin": "Hericium cirrhatum",
@@ -7150,10 +4286,6 @@
     ]
   },
   {
-    "latin": "Hodophilus atropuncta",
-    "eng": "dotted fanvault"
-  },
-  {
     "latin": "Hodophilus foetens",
     "eng": "stinking fanvault",
     "id": 928,
@@ -7164,14 +4296,6 @@
     "hun_syn": [
       "büdös nyirokgomba"
     ]
-  },
-  {
-    "latin": "Hodophilus hymenocephala",
-    "eng": "dark fanvault"
-  },
-  {
-    "latin": "Hodophilus micacea",
-    "eng": "yellowlegged fanvault"
   },
   {
     "latin": "Hohenbuehelia auriscalpium",
@@ -7187,14 +4311,6 @@
     ]
   },
   {
-    "latin": "Hohenbuehelia bonii",
-    "eng": "dune oyster"
-  },
-  {
-    "latin": "Hohenbuehelia culmicola",
-    "eng": "marram oyster"
-  },
-  {
     "latin": "Hohenbuehelia mastrucata",
     "eng": "woolly oyster",
     "id": 933,
@@ -7208,14 +4324,6 @@
     "hun_syn": [
       "fehér sörtés-csészegomba"
     ]
-  },
-  {
-    "latin": "Hyalopsora adianti-capilli-veneris",
-    "eng": "maidenhair rust"
-  },
-  {
-    "latin": "Hyalopsora aspidiotus",
-    "eng": "oak fern rust"
   },
   {
     "latin": "Hydnellum aurantiacum",
@@ -7274,14 +4382,6 @@
     ]
   },
   {
-    "latin": "Hydnellum gracilipes",
-    "eng": "graceful tooth"
-  },
-  {
-    "latin": "Hydnellum joeides",
-    "eng": "violet tooth"
-  },
-  {
     "latin": "Hydnellum peckii",
     "eng": "devil's tooth",
     "id": 955,
@@ -7309,18 +4409,6 @@
       "bársonyos gereben",
       ""
     ]
-  },
-  {
-    "latin": "Hydnotrya cerebriformis",
-    "eng": "brain fold truffle"
-  },
-  {
-    "latin": "Hydnotrya confusa",
-    "eng": "confusing fold truffle"
-  },
-  {
-    "latin": "Hydnotrya cubispora",
-    "eng": "cubed fold truffle"
   },
   {
     "latin": "Hydnotrya michaelis",
@@ -7355,10 +4443,6 @@
     ]
   },
   {
-    "latin": "Hydnum ellipsosporum",
-    "eng": "ellipsoid hedgehog"
-  },
-  {
     "latin": "Hydnum repandum",
     "eng": "wood hedgehog",
     "id": 966,
@@ -7377,10 +4461,6 @@
     ]
   },
   {
-    "latin": "Hydnum umbilicatum",
-    "eng": "umbilicate hedgehog"
-  },
-  {
     "latin": "Hygrocybe acutoconica",
     "eng": "persistent waxcap",
     "id": 969,
@@ -7392,10 +4472,6 @@
     "hun_syn": [
       "gömbölyűspórás nedűgomba"
     ]
-  },
-  {
-    "latin": "Hygrocybe aurantiosplendens",
-    "eng": "orange waxcap"
   },
   {
     "latin": "Hygrocybe calciphila",
@@ -7425,10 +4501,6 @@
     "hun": "zöldessárga nedűgomba"
   },
   {
-    "latin": "Hygrocybe citrinovirens",
-    "eng": "citrine waxcap"
-  },
-  {
     "latin": "Hygrocybe coccinea",
     "eng": "scarlet waxcap",
     "id": 974,
@@ -7436,10 +4508,6 @@
     "hun_syn": [
       "cseresznyepiros nedűgomba"
     ]
-  },
-  {
-    "latin": "Hygrocybe coccineocrenata",
-    "eng": "bog waxcap"
   },
   {
     "latin": "Hygrocybe conica",
@@ -7457,26 +4525,10 @@
     "hun": "pusztai nedűgomba"
   },
   {
-    "latin": "Hygrocybe constrictospora",
-    "eng": "hourglass waxcap"
-  },
-  {
     "latin": "Hygrocybe glutinipes",
     "eng": "glutinous waxcap",
     "id": 977,
     "hun": "enyvestönkű nedűgomba"
-  },
-  {
-    "latin": "Hygrocybe helobia",
-    "eng": "garlic waxcap"
-  },
-  {
-    "latin": "Hygrocybe insipida",
-    "eng": "spangle waxcap"
-  },
-  {
-    "latin": "Hygrocybe intermedia",
-    "eng": "fibrous waxcap"
   },
   {
     "latin": "Hygrocybe miniata",
@@ -7489,14 +4541,6 @@
     ]
   },
   {
-    "latin": "Hygrocybe mucronella",
-    "eng": "bitter waxcap"
-  },
-  {
-    "latin": "Hygrocybe phaeococcinea",
-    "eng": "shadowed waxcap"
-  },
-  {
     "latin": "Hygrocybe punicea",
     "eng": "crimson waxcap",
     "id": 983,
@@ -7506,72 +4550,16 @@
     ]
   },
   {
-    "latin": "Hygrocybe quieta",
-    "eng": "oily waxcap"
-  },
-  {
     "latin": "Hygrocybe reidii",
     "eng": "honey waxcap",
     "id": 984,
     "hun": "mézszagú nedűgomba"
   },
   {
-    "latin": "Hygrocybe salicis-herbaceae",
-    "eng": "mountain waxcap"
-  },
-  {
-    "latin": "Hygrocybe spadicea",
-    "eng": "date waxcap "
-  },
-  {
-    "latin": "Hygrocybe splendidissima",
-    "eng": "splendid waxcap"
-  },
-  {
     "latin": "Hygrocybe subpapillata",
     "eng": "papillate waxcap",
     "id": 985,
     "hun": "álcsúcsos nedűgomba"
-  },
-  {
-    "latin": "Hygrocybe substrangulata",
-    "eng": "waisted waxcap"
-  },
-  {
-    "latin": "Hygrocybe turunda",
-    "eng": "singed waxcap"
-  },
-  {
-    "latin": "Chromosera citrinopallida",
-    "eng": "arched waxcap"
-  },
-  {
-    "latin": "Chromosera lilacina",
-    "eng": "lilac waxcap"
-  },
-  {
-    "latin": "Chromosera viola",
-    "eng": "amethyst waxcap"
-  },
-  {
-    "latin": "Chromosera xanthochroa",
-    "eng": "alpine waxcap"
-  },
-  {
-    "latin": "Cuphophyllus aurantius",
-    "eng": "tufted waxcap"
-  },
-  {
-    "latin": "Cuphophyllus canescens",
-    "eng": "felted waxcap"
-  },
-  {
-    "latin": "Cuphophyllus colemannianus",
-    "eng": "toasted waxcap"
-  },
-  {
-    "latin": "Cuphophyllus flavipes",
-    "eng": "yellow foot waxcap"
   },
   {
     "latin": "Cuphophyllus fornicatus",
@@ -7584,14 +4572,6 @@
     "hun_syn": [
       "szürkés nedűgomba"
     ]
-  },
-  {
-    "latin": "Cuphophyllus lacmus",
-    "eng": "grey waxcap"
-  },
-  {
-    "latin": "Cuphophyllus lepidopus",
-    "eng": "scalyfoot waxcap"
   },
   {
     "latin": "Cuphophyllus pratensis",
@@ -7607,14 +4587,6 @@
     ]
   },
   {
-    "latin": "Cuphophyllus radiatus",
-    "eng": "slender waxcap"
-  },
-  {
-    "latin": "Cuphophyllus russocoriaceus",
-    "eng": "cedarwood waxcap"
-  },
-  {
     "latin": "Cuphophyllus virgineus",
     "eng": "snowy waxcap",
     "id": 540,
@@ -7624,10 +4596,6 @@
       "Hygrocybe virginea"
     ],
     "hun": "fehér nyirokgomba"
-  },
-  {
-    "latin": "Gliophorus europerplexus",
-    "eng": "butterscotch waxcap"
   },
   {
     "latin": "Gliophorus irrigatus",
@@ -7665,10 +4633,6 @@
     ]
   },
   {
-    "latin": "Gliophorus reginae",
-    "eng": "jubilee waxcap"
-  },
-  {
     "latin": "Gloioxanthomyces vitellinus",
     "eng": "glistening waxcap",
     "id": 830,
@@ -7676,10 +4640,6 @@
       "Hygrocybe vitellina"
     ],
     "hun": "citromsárga nedűgomba"
-  },
-  {
-    "latin": "Neohygrocybe ingrata",
-    "eng": "dingy waxcap"
   },
   {
     "latin": "Neohygrocybe nitrata",
@@ -7852,10 +4812,6 @@
     "hun": "karcsú csigagomba"
   },
   {
-    "latin": "Hymenochaete corrugata",
-    "eng": "glue crust"
-  },
-  {
     "latin": "Hymenochaete rubiginosa",
     "eng": "oak curtain crust",
     "id": 1020,
@@ -7863,10 +4819,6 @@
     "hun_syn": [
       "rozsdás sörtésréteggomba"
     ]
-  },
-  {
-    "latin": "Hymenochaete tabacina",
-    "eng": "willow glue"
   },
   {
     "latin": "Hymenopellis radicata",
@@ -7881,10 +4833,6 @@
       "gyökeres fülőke",
       "hosszútönkű gyökeresfülőke"
     ]
-  },
-  {
-    "latin": "Hymenoscyphus fagineus",
-    "eng": "mast disco"
   },
   {
     "latin": "Hymenoscyphus fructigenus",
@@ -7923,54 +4871,10 @@
     "hun": "vöröses kénvirággomba"
   },
   {
-    "latin": "Hypholoma marginatum",
-    "eng": "snakeskin brownie"
-  },
-  {
-    "latin": "Hypholoma myosotis",
-    "eng": "olive brownie"
-  },
-  {
     "latin": "Hypholoma radicosum",
     "eng": "rooting brownie",
     "id": 1073,
     "hun": "gyökeres kénvirággomba"
-  },
-  {
-    "latin": "Hypholoma udum",
-    "eng": "peat brownie"
-  },
-  {
-    "latin": "Hypocreopsis lichenoides",
-    "eng": "willow gloves"
-  },
-  {
-    "latin": "Hypocreopsis rhododendri",
-    "eng": "hazel gloves"
-  },
-  {
-    "latin": "Hypomyces aurantius",
-    "eng": "orange polypore mould"
-  },
-  {
-    "latin": "Hypomyces cervinus",
-    "eng": "saddle's child "
-  },
-  {
-    "latin": "Hypomyces chrysospermus",
-    "eng": "bolete mould"
-  },
-  {
-    "latin": "Hypomyces lateritius",
-    "eng": "ochre gillgobbler"
-  },
-  {
-    "latin": "Hypomyces rosellus",
-    "eng": "pink polypore mould"
-  },
-  {
-    "latin": "Hypomyces viridis",
-    "eng": "green gillgobbler"
   },
   {
     "latin": "Hypoxylon fragiforme",
@@ -7991,10 +4895,6 @@
     "hun": "barnásvörös ripacsgomba"
   },
   {
-    "latin": "Hypoxylon rubiginosum",
-    "eng": "rusty woodwart"
-  },
-  {
     "latin": "Hypsizygus ulmarius",
     "eng": "elm leech",
     "id": 1084,
@@ -8005,10 +4905,6 @@
     "hun_syn": [
       "szilfa-laskagomba"
     ]
-  },
-  {
-    "latin": "Ileodictyon cibarium",
-    "eng": "basket fungus"
   },
   {
     "latin": "Infundibulicybe geotropa",
@@ -8036,14 +4932,6 @@
       "Clitocybe glareosa"
     ],
     "hun": "homoki tölcsérgomba"
-  },
-  {
-    "latin": "Inocybe acuta",
-    "eng": "acute fibrecap"
-  },
-  {
-    "latin": "Inocybe arenicola",
-    "eng": "sand fibrecap"
   },
   {
     "latin": "Inocybe asterospora",
@@ -8107,14 +4995,6 @@
     ]
   },
   {
-    "latin": "Inocybe dunensis",
-    "eng": "dune fibrecap"
-  },
-  {
-    "latin": "Inocybe duriuscula",
-    "eng": "silky fibrecap"
-  },
-  {
     "latin": "Inocybe erubescens",
     "eng": "deadly fibrecap",
     "id": 1123,
@@ -8166,10 +5046,6 @@
     "hun": "kakaóbarna susulyka"
   },
   {
-    "latin": "Inocybe griseolilacina",
-    "eng": "lilac leg fibrecap"
-  },
-  {
     "latin": "Inocybe hirtella",
     "eng": "bitter almond fibrecap",
     "id": 1136,
@@ -8180,10 +5056,6 @@
     "eng": "scaly fibrecap",
     "id": 1137,
     "hun": "borzas susulyka"
-  },
-  {
-    "latin": "Inocybe incarnata",
-    "eng": "balsamic fibrecap"
   },
   {
     "latin": "Inocybe jacobi",
@@ -8280,10 +5152,6 @@
     "hun": "rövidspórás susulyka"
   },
   {
-    "latin": "Inocybe stellatospora",
-    "eng": "woolly fibrecap"
-  },
-  {
     "latin": "Inocybe subcarpta",
     "eng": "umber fibrecap",
     "id": 1166,
@@ -8291,10 +5159,6 @@
       "Inocybe boltonii"
     ],
     "hun": "trapézspórás susulyka"
-  },
-  {
-    "latin": "Inocybe vulpinella",
-    "eng": "foxy fibrecap"
   },
   {
     "latin": "Inocybe whitei",
@@ -8330,22 +5194,10 @@
     ]
   },
   {
-    "latin": "Irpicodon pendulus",
-    "eng": "pendent bracket"
-  },
-  {
     "latin": "Ischnoderma benzoinum",
     "eng": "benzoin bracket",
     "id": 1176,
     "hun": "fenyő-kérgestapló"
-  },
-  {
-    "latin": "Jackrogersella multiformis",
-    "eng": "birch woodwart"
-  },
-  {
-    "latin": "Jamesdicksonia irregularis",
-    "eng": "annual meadow grass smut"
   },
   {
     "latin": "Kretzschmaria deusta",
@@ -8356,14 +5208,6 @@
       "Ustulina deusta"
     ],
     "hun": "szenes ripacsgomba"
-  },
-  {
-    "latin": "Kuehneola uredinis",
-    "eng": "pale bramble rust"
-  },
-  {
-    "latin": "Kuehneromyces lignicola",
-    "eng": "conifer woodtuft"
   },
   {
     "latin": "Kuehneromyces mutabilis",
@@ -8403,22 +5247,10 @@
     ]
   },
   {
-    "latin": "Laccaria maritima",
-    "eng": "sand deceiver"
-  },
-  {
-    "latin": "Laccaria montana",
-    "eng": "mountain deceiver"
-  },
-  {
     "latin": "Laccaria proxima",
     "eng": "scurfy deceiver",
     "id": 1187,
     "hun": "pikkelyes pénzecskegomba"
-  },
-  {
-    "latin": "Laccaria pumila",
-    "eng": "willow deceiver"
   },
   {
     "latin": "Laccaria tortilis",
@@ -8428,30 +5260,6 @@
       "Laccaria echinospora"
     ],
     "hun": "apró pénzecskegomba"
-  },
-  {
-    "latin": "Lachnellula occidentalis",
-    "eng": "larch disco"
-  },
-  {
-    "latin": "Lachnellula subtilissima",
-    "eng": "conifer disco"
-  },
-  {
-    "latin": "Lachnellula willkommii",
-    "eng": "larch canker disco"
-  },
-  {
-    "latin": "Lachnum apalum",
-    "eng": "rush disco"
-  },
-  {
-    "latin": "Lachnum callimorphum",
-    "eng": "heath sedge disco"
-  },
-  {
-    "latin": "Lachnum sulphureum",
-    "eng": "yellow mascara disco"
   },
   {
     "latin": "Lachnum virgineum",
@@ -8511,10 +5319,6 @@
     ]
   },
   {
-    "latin": "Lactarius bertillonii",
-    "eng": "burning milkcap"
-  },
-  {
     "latin": "Lactarius blennius",
     "eng": "beech milkcap",
     "id": 1201,
@@ -8558,10 +5362,6 @@
     ]
   },
   {
-    "latin": "Lactarius cyathuliformis",
-    "eng": "goblet milkcap"
-  },
-  {
     "latin": "Lactarius deliciosus",
     "eng": "saffron milkcap",
     "id": 1209,
@@ -8581,14 +5381,6 @@
     "hun_syn": [
       "zöldsávos tejelőgomba"
     ]
-  },
-  {
-    "latin": "Lactarius evosmus",
-    "eng": "fruity milkcap"
-  },
-  {
-    "latin": "Lactarius flexuosus",
-    "eng": "stumpy milkcap"
   },
   {
     "latin": "Lactarius fluens",
@@ -8655,10 +5447,6 @@
     "hun": "lila tejelőgomba"
   },
   {
-    "latin": "Lactarius luridus",
-    "eng": "lurid milkcap"
-  },
-  {
     "latin": "Lactarius mairei",
     "eng": "whiskery milkcap",
     "id": 1223,
@@ -8708,10 +5496,6 @@
     "hun_syn": [
       "fakósárga tejelőgomba"
     ]
-  },
-  {
-    "latin": "Lactarius piperatus",
-    "eng": "peppery milkcap"
   },
   {
     "latin": "Lactarius porninsis",
@@ -8791,10 +5575,6 @@
     ]
   },
   {
-    "latin": "Lactarius salicis-reticulatae",
-    "eng": "mountain milkcap"
-  },
-  {
     "latin": "Lactarius sanguifluus",
     "eng": "bloody milkcap",
     "id": 1243,
@@ -8802,10 +5582,6 @@
     "hun_syn": [
       "vöröstejű tejelőgomba"
     ]
-  },
-  {
-    "latin": "Lactarius scoticus",
-    "eng": "hoary milkcp"
   },
   {
     "latin": "Lactarius scrobiculatus",
@@ -8823,10 +5599,6 @@
       "cikória-keserűgomba",
       "cikóriaszagú tejelőgomba"
     ]
-  },
-  {
-    "latin": "Lactarius spinosulus",
-    "eng": "lilacscale milkcap"
   },
   {
     "latin": "Lactarius subdulcis",
@@ -8865,10 +5637,6 @@
     "hun": "északi tejelőgomba"
   },
   {
-    "latin": "Lactarius turpis",
-    "eng": "ugly milkcap"
-  },
-  {
     "latin": "Lactarius uvidus",
     "eng": "shiner",
     "id": 1253,
@@ -8876,10 +5644,6 @@
     "hun_syn": [
       "lilásodó tejelőgomba"
     ]
-  },
-  {
-    "latin": "Lactarius vellereus",
-    "eng": "fleecy milkcap"
   },
   {
     "latin": "Lactarius vietus",
@@ -8900,14 +5664,6 @@
     ]
   },
   {
-    "latin": "Lactarius volemus",
-    "eng": "fishy milkcap"
-  },
-  {
-    "latin": "Laetinaevia luzulae",
-    "eng": "woodrush disco"
-  },
-  {
     "latin": "Laetiporus sulphureus",
     "eng": "chicken of the woods",
     "id": 1265,
@@ -8925,14 +5681,6 @@
       "Sclerotinia echinophila"
     ],
     "hun": "kupacslakó csészegomba"
-  },
-  {
-    "latin": "Lasiobotrys lonicerae",
-    "eng": "honeysuckle rash"
-  },
-  {
-    "latin": "Lasiosphaeria ovina",
-    "eng": "woolly woodwart"
   },
   {
     "latin": "Leccinum albostipitatum",
@@ -8955,10 +5703,6 @@
       "kozákgomba",
       "vörös érdestinóru"
     ]
-  },
-  {
-    "latin": "Leccinum crocipodium",
-    "eng": "saffron bolete"
   },
   {
     "latin": "Leccinum cyaneobasileucum",
@@ -9009,10 +5753,6 @@
     ]
   },
   {
-    "latin": "Leccinum schistophilum",
-    "eng": "bog bolete"
-  },
-  {
     "latin": "Leccinum variicolor",
     "eng": "mottled bolete",
     "id": 1281,
@@ -9026,10 +5766,6 @@
       "Leccinum testaceoscabrum"
     ],
     "hun": "kormostönkű érdestinóru"
-  },
-  {
-    "latin": "Leccinum vulpinum",
-    "eng": "foxy bolete"
   },
   {
     "latin": "Lentinellus cochleatus",
@@ -9063,10 +5799,6 @@
     "hun": "zöld csuklyásgomba"
   },
   {
-    "latin": "Lepiota aspera",
-    "eng": "freckled dapperling"
-  },
-  {
     "latin": "Lepiota boudieri",
     "eng": "girdled dapperling",
     "id": 1294,
@@ -9083,10 +5815,6 @@
     "eng": "deadly dapperling",
     "id": 1295,
     "hun": "húsbarnás őzlábgomba"
-  },
-  {
-    "latin": "Lepiota brunneolilacea",
-    "eng": "star dapperling"
   },
   {
     "latin": "Lepiota castanea",
@@ -9195,10 +5923,6 @@
     ]
   },
   {
-    "latin": "Lepista saeva",
-    "eng": "field blewits"
-  },
-  {
     "latin": "Lepista sordida",
     "eng": "sordid blewits",
     "id": 1326,
@@ -9209,10 +5933,6 @@
     ]
   },
   {
-    "latin": "Leptomitus lacteus",
-    "eng": "sewage fungus"
-  },
-  {
     "latin": "Leptoporus mollis",
     "eng": "soft bracket",
     "id": 1327,
@@ -9220,10 +5940,6 @@
       "Tyromyces mollis"
     ],
     "hun": "lágy likacsosgomba"
-  },
-  {
-    "latin": "Leptosphaeria acuta",
-    "eng": "nettle rash"
   },
   {
     "latin": "Leratiomyces ceres",
@@ -9245,10 +5961,6 @@
       "Stropharia squamosa"
     ],
     "hun": "pikkelyes harmatgomba"
-  },
-  {
-    "latin": "Leucoagaricus badhamii",
-    "eng": "blushing dapperling"
   },
   {
     "latin": "Leucoagaricus barssii",
@@ -9277,10 +5989,6 @@
     ]
   },
   {
-    "latin": "Leucoagaricus sublittoralis",
-    "eng": "apricot dapperling"
-  },
-  {
     "latin": "Leucocoprinus birnbaumii",
     "eng": "plantpot dapperling",
     "id": 1344,
@@ -9291,10 +5999,6 @@
     "hun_syn": [
       "sárga bordás-őzlábgomba"
     ]
-  },
-  {
-    "latin": "Leucocoprinus brebissonii",
-    "eng": "skullcap dapperling"
   },
   {
     "latin": "Leucocortinarius bulbiger",
@@ -9329,14 +6033,6 @@
     "eng": "bitter funnel",
     "id": 1351,
     "hun": "keserű álpereszke"
-  },
-  {
-    "latin": "Leucopaxillus giganteus",
-    "eng": "giant funnel"
-  },
-  {
-    "latin": "Lichenomphalia alpina",
-    "eng": "sunburst lichen"
   },
   {
     "latin": "Lichenomphalia umbellifera",
@@ -9376,26 +6072,6 @@
     "hun": "okkersárga nyálkásgalóca"
   },
   {
-    "latin": "Lophodermium hedericola",
-    "eng": "ivy leaf split"
-  },
-  {
-    "latin": "Lophodermium juniperinum",
-    "eng": "juniper split"
-  },
-  {
-    "latin": "Lophodermium neesii",
-    "eng": "holly leaf split"
-  },
-  {
-    "latin": "Lophodermium pinastri",
-    "eng": "pine needle split"
-  },
-  {
-    "latin": "Loreleia marchantiae",
-    "eng": "liverwort navel"
-  },
-  {
     "latin": "Lycoperdon caudatum",
     "eng": "pedicel puffball",
     "id": 1363,
@@ -9418,10 +6094,6 @@
     "hun_syn": [
       "tüskés bimbóspöfeteg"
     ]
-  },
-  {
-    "latin": "Lycoperdon ericaeum",
-    "eng": "heath puffball"
   },
   {
     "latin": "Lycoperdon excipuliforme",
@@ -9547,10 +6219,6 @@
     ]
   },
   {
-    "latin": "Lyophyllum eustygium",
-    "eng": "ethereal domecap"
-  },
-  {
     "latin": "Lyophyllum loricatum",
     "eng": "gristly domecap",
     "id": 1382,
@@ -9567,10 +6235,6 @@
     "hun_syn": [
       "uborkaszagú szemétgomba"
     ]
-  },
-  {
-    "latin": "Macrolepiota fuliginosa",
-    "eng": "sooty parasol"
   },
   {
     "latin": "Macrolepiota mastoidea",
@@ -9592,14 +6256,6 @@
     ]
   },
   {
-    "latin": "Macrotyphula fistulosa",
-    "eng": "var. fistulosa pipe club"
-  },
-  {
-    "latin": "Macrotyphula juncea",
-    "eng": "slender club"
-  },
-  {
     "latin": "Marasmiellus ramealis",
     "eng": "twig parachute",
     "id": 1395,
@@ -9616,10 +6272,6 @@
       "Marasmius languidus"
     ],
     "hun": "fakó szegfűgombácska"
-  },
-  {
-    "latin": "Marasmius buxi",
-    "eng": "box parachute"
   },
   {
     "latin": "Marasmius cohaerens",
@@ -9655,10 +6307,6 @@
     "hun": "sörtés szegfűgomba"
   },
   {
-    "latin": "Marasmius limosus",
-    "eng": "reed parachute"
-  },
-  {
     "latin": "Marasmius oreades",
     "eng": "fairy ring champignon",
     "id": 1406,
@@ -9674,38 +6322,6 @@
     "eng": "collared parachute",
     "id": 1407,
     "hun": "nyakörves szegfűgomba"
-  },
-  {
-    "latin": "Marasmius saccharinus",
-    "eng": "beech parachute"
-  },
-  {
-    "latin": "Marasmius setosus",
-    "eng": "hairy stem parachute"
-  },
-  {
-    "latin": "Marasmius wynnei",
-    "eng": "pearly parachute"
-  },
-  {
-    "latin": "Megacollybia platyphylla",
-    "eng": "whitelaced shank"
-  },
-  {
-    "latin": "Melampsora hypericorum",
-    "eng": "tutsan rust"
-  },
-  {
-    "latin": "Melampsora populnea",
-    "eng": "dog's mercury rust"
-  },
-  {
-    "latin": "Melampsora vernalis",
-    "eng": "saxifrage rust"
-  },
-  {
-    "latin": "Melampsoridium betulinum",
-    "eng": "birch rust"
   },
   {
     "latin": "Melanoleuca brevipes",
@@ -9769,10 +6385,6 @@
     ]
   },
   {
-    "latin": "Melanoleuca schumacheri",
-    "eng": "clouded  cavalier"
-  },
-  {
     "latin": "Melanoleuca verrucipes",
     "eng": "warty cavalier",
     "id": 1433,
@@ -9781,10 +6393,6 @@
       "szemcséstönkű lágypereszke",
       "szemölcsös pereszke"
     ]
-  },
-  {
-    "latin": "Melanophyllum eyrei",
-    "eng": "greenspored dapperling"
   },
   {
     "latin": "Melanophyllum haematospermum",
@@ -9797,30 +6405,6 @@
     "hun_syn": [
       "vöröslemezű korpás-őzlábgomba"
     ]
-  },
-  {
-    "latin": "Melanotaenium cingens",
-    "eng": "yellow toadflax smut"
-  },
-  {
-    "latin": "Melanotaenium endogenum",
-    "eng": "bedstraw smut"
-  },
-  {
-    "latin": "Melanotus horizontalis",
-    "eng": "wood oysterling"
-  },
-  {
-    "latin": "Melastiza contorta",
-    "eng": "contorted cup"
-  },
-  {
-    "latin": "Melastiza cornubiensis",
-    "eng": "orange cup"
-  },
-  {
-    "latin": "Melastiza scotica",
-    "eng": "caledonian cup"
   },
   {
     "latin": "Mensularia radiata",
@@ -9856,22 +6440,6 @@
     ]
   },
   {
-    "latin": "Merismodes fasciculata",
-    "eng": "crowded cuplet"
-  },
-  {
-    "latin": "Metacoleroa dickiei",
-    "eng": "twinflower rust"
-  },
-  {
-    "latin": "Metarhizium marquandii",
-    "eng": "waxcap facepainter"
-  },
-  {
-    "latin": "Microbotryum lychnidis-dioicae",
-    "eng": "campion anther smut"
-  },
-  {
     "latin": "Microglossum olivaceum",
     "eng": "olive earthtongue",
     "id": 1441,
@@ -9891,10 +6459,6 @@
     ]
   },
   {
-    "latin": "Micropodia pteridina",
-    "eng": "bracken swarmer"
-  },
-  {
     "latin": "Microstoma protractum",
     "eng": "rosy goblet",
     "id": 1443,
@@ -9905,18 +6469,6 @@
     "hun_syn": [
       "csoportos piros-csészegomba"
     ]
-  },
-  {
-    "latin": "Milesina carpatorum",
-    "eng": "male fern rust"
-  },
-  {
-    "latin": "Milesina vogesiaca",
-    "eng": "smooth spored fern rust"
-  },
-  {
-    "latin": "Milesina whitei",
-    "eng": "shield-fern rust"
   },
   {
     "latin": "Mitrula paludosa",
@@ -9932,14 +6484,6 @@
     "eng": "common grey disco",
     "id": 1448,
     "hun": "szürkés csészegombácska"
-  },
-  {
-    "latin": "Monilinia johnsonii",
-    "eng": "haw goblet"
-  },
-  {
-    "latin": "Morchella elata",
-    "eng": "black morel"
   },
   {
     "latin": "Morchella esculenta",
@@ -9982,10 +6526,6 @@
     "hun": "gyűrűs fülőke"
   },
   {
-    "latin": "Mucor mucedo",
-    "eng": "common pinmould"
-  },
-  {
     "latin": "Mucronella calva",
     "eng": "swarming spine",
     "id": 1458,
@@ -9993,10 +6533,6 @@
       "Mucronella aggregata"
     ],
     "hun": "szórványos tüskegomba"
-  },
-  {
-    "latin": "Multiclavula vernalis",
-    "eng": "moss club"
   },
   {
     "latin": "Muscinupta laevis",
@@ -10021,18 +6557,6 @@
     "eng": "orange bonnet",
     "id": 1464,
     "hun": "narancsvörös kígyógomba"
-  },
-  {
-    "latin": "Mycena aciculata",
-    "eng": "hairy bonnet"
-  },
-  {
-    "latin": "Mycena adonis",
-    "eng": "scarlet bonnet"
-  },
-  {
-    "latin": "Mycena adscendens",
-    "eng": "frosty bonnet"
   },
   {
     "latin": "Mycena aetites",
@@ -10071,14 +6595,6 @@
     "hun": "nádi kígyógomba"
   },
   {
-    "latin": "Mycena bulbosa",
-    "eng": "rush bonnet"
-  },
-  {
-    "latin": "Mycena capillaripes",
-    "eng": "pinkedge bonnet"
-  },
-  {
     "latin": "Mycena capillaris",
     "eng": "beechleaf bonnet",
     "id": 1470,
@@ -10100,14 +6616,6 @@
     "hun": "sárgaszegélyű kígyógomba"
   },
   {
-    "latin": "Mycena clavicularis",
-    "eng": "needle bonnet"
-  },
-  {
-    "latin": "Mycena concolor",
-    "eng": "bog bonnet"
-  },
-  {
     "latin": "Mycena crocata",
     "eng": "saffrondrop bonnet",
     "id": 1474,
@@ -10124,10 +6632,6 @@
     "eng": "iodine bonnet",
     "id": 1477,
     "hun": "púpos kígyógomba"
-  },
-  {
-    "latin": "Mycena flavoalba",
-    "eng": "ivory bonnet"
   },
   {
     "latin": "Mycena galericulata",
@@ -10166,10 +6670,6 @@
     "hun": "cifra kígyógomba"
   },
   {
-    "latin": "Mycena latifolia",
-    "eng": "sideshoot bonnet"
-  },
-  {
     "latin": "Mycena leptocephala",
     "eng": "nitrous bonnet",
     "id": 1484,
@@ -10185,18 +6685,6 @@
     "hun": "foltos kígyógomba"
   },
   {
-    "latin": "Mycena megaspora",
-    "eng": "rooting bonnet"
-  },
-  {
-    "latin": "Mycena melligena",
-    "eng": "mauve bonnet"
-  },
-  {
-    "latin": "Mycena olida",
-    "eng": "rancid bonnet"
-  },
-  {
     "latin": "Mycena olivaceomarginata",
     "eng": "brownedge bonnet",
     "id": 1489,
@@ -10209,36 +6697,16 @@
     "hun": "feketeszegélyű kígyógomba"
   },
   {
-    "latin": "Mycena picta",
-    "eng": "cryptic bonnet"
-  },
-  {
-    "latin": "Mycena polyadepha",
-    "eng": "white oakleaf bonnet"
-  },
-  {
     "latin": "Mycena polygramma",
     "eng": "grooved bonnet",
     "id": 1491,
     "hun": "barázdálttönkű kígyógomba"
   },
   {
-    "latin": "Mycena pseudocorticola",
-    "eng": "steely bonnet"
-  },
-  {
-    "latin": "Mycena pterigena",
-    "eng": "ferny bonnet"
-  },
-  {
     "latin": "Mycena pura",
     "eng": "lilac bonnet",
     "id": 1492,
     "hun": "retekszagú kígyógomba"
-  },
-  {
-    "latin": "Mycena purpureofusca",
-    "eng": "purple edge bonnet"
   },
   {
     "latin": "Mycena renati",
@@ -10280,22 +6748,6 @@
     ]
   },
   {
-    "latin": "Mycena septentrionalis",
-    "eng": "pelargonium bonnet"
-  },
-  {
-    "latin": "Mycena silvae-nigrae",
-    "eng": "pine bonnet"
-  },
-  {
-    "latin": "Mycena smithiana",
-    "eng": "pink oakleaf bonnet"
-  },
-  {
-    "latin": "Mycena speirea",
-    "eng": "bark bonnet"
-  },
-  {
     "latin": "Mycena stipata",
     "eng": "clustered pine bonnet",
     "id": 1498,
@@ -10309,10 +6761,6 @@
     "eng": "bulbous bonnet",
     "id": 1499,
     "hun": "papucsos kígyógomba"
-  },
-  {
-    "latin": "Mycena urania",
-    "eng": "violet bonnet"
   },
   {
     "latin": "Mycena viridimarginata",
@@ -10334,10 +6782,6 @@
     "eng": "vulgar bonnet",
     "id": 1504,
     "hun": "nyálkás kígyógomba"
-  },
-  {
-    "latin": "Mycenella salicina",
-    "eng": "willow bonnet"
   },
   {
     "latin": "Mycetinis alliaceus",
@@ -10364,18 +6808,6 @@
     ]
   },
   {
-    "latin": "Mycocalia duriaeana",
-    "eng": "dune cannon"
-  },
-  {
-    "latin": "Mycocalia sphagneti",
-    "eng": "bog cannon"
-  },
-  {
-    "latin": "Mycosymbiosis mycenophila",
-    "eng": "bubble fungus"
-  },
-  {
     "latin": "Myriostoma coliforme",
     "eng": "pepper pot",
     "id": 1513,
@@ -10394,10 +6826,6 @@
     ]
   },
   {
-    "latin": "Naucoria salicis",
-    "eng": "willow aldercap"
-  },
-  {
     "latin": "Naucoria scolecina",
     "eng": "cinnamon aldercap",
     "id": 1518,
@@ -10405,10 +6833,6 @@
       "Alnicola scolecina"
     ],
     "hun": "csupasz lápigomba"
-  },
-  {
-    "latin": "Naucoria striatula",
-    "eng": "striate aldercap"
   },
   {
     "latin": "Naucoria subconspersa",
@@ -10435,10 +6859,6 @@
     ]
   },
   {
-    "latin": "Neoerysiphe galeopsidis",
-    "eng": "mint mildew"
-  },
-  {
     "latin": "Neolentinus adhaerens",
     "eng": "sticky sawgill",
     "id": 1529,
@@ -10458,10 +6878,6 @@
     "hun": "pikkelyes fagomba"
   },
   {
-    "latin": "Nyssopsora echinata",
-    "eng": "spignel rust"
-  },
-  {
     "latin": "Octaviania asterosperma",
     "eng": "chalky false truffle",
     "id": 1535,
@@ -10478,26 +6894,6 @@
     "hun": "narancsos mohacsészegomba"
   },
   {
-    "latin": "Odonticium romellii",
-    "eng": "pine toothling"
-  },
-  {
-    "latin": "Ombrophila janthina",
-    "eng": "violet jellydisc"
-  },
-  {
-    "latin": "Omphaliaster borealis",
-    "eng": "northern navel"
-  },
-  {
-    "latin": "Omphalina galericolor",
-    "eng": "dune navel"
-  },
-  {
-    "latin": "Omphalina mutila",
-    "eng": "bog navel"
-  },
-  {
     "latin": "Omphalina pyxidata",
     "eng": "cinnamon navel",
     "id": 1542,
@@ -10511,18 +6907,6 @@
     ]
   },
   {
-    "latin": "Omphalotus illudens",
-    "eng": "Jack o lantern"
-  },
-  {
-    "latin": "Onygena corvina",
-    "eng": "feather stalkball"
-  },
-  {
-    "latin": "Onygena equina",
-    "eng": "horn stalkball"
-  },
-  {
     "latin": "Ophiocordyceps clavulata",
     "eng": "bug sputnik",
     "id": 1547,
@@ -10533,18 +6917,6 @@
     "hun_syn": [
       "pajzstetűrontógomba"
     ]
-  },
-  {
-    "latin": "Ophiocordyceps forquignonii",
-    "eng": "yellow waspclub"
-  },
-  {
-    "latin": "Ophiostoma ulmi",
-    "eng": "Dutch elm disease+C1085"
-  },
-  {
-    "latin": "Orbilia xanthostigma",
-    "eng": "common glasscup"
   },
   {
     "latin": "Ossicaulis lignatilis",
@@ -10586,10 +6958,6 @@
     ]
   },
   {
-    "latin": "Otidea cantharella",
-    "eng": "cupped ear"
-  },
-  {
     "latin": "Otidea cochleata",
     "eng": "brown ear",
     "id": 1558,
@@ -10612,10 +6980,6 @@
     ]
   },
   {
-    "latin": "Otidea phlebophora",
-    "eng": "veined ear"
-  },
-  {
     "latin": "Oxyporus populinus",
     "eng": "poplar bracket",
     "id": 1564,
@@ -10635,10 +6999,6 @@
     "hun-syn": [
       "réti trágyagomba"
     ]
-  },
-  {
-    "latin": "Panaeolus acuminatus",
-    "eng": "dewdrop mottlegill"
   },
   {
     "latin": "Panaeolus cinctulus",
@@ -10697,10 +7057,6 @@
     "hun": "fehér áldücskőgomba"
   },
   {
-    "latin": "Panellus ringens",
-    "eng": "winter oysterling"
-  },
-  {
     "latin": "Panellus stipticus",
     "eng": "bitter oysterling",
     "id": 1580,
@@ -10755,14 +7111,6 @@
     "hun": "sárgásbarna áltintagomba"
   },
   {
-    "latin": "Parasola lilatincta",
-    "eng": "lilac inkcap"
-  },
-  {
-    "latin": "Parasola misera",
-    "eng": "least inkcap"
-  },
-  {
     "latin": "Parasola plicatilis",
     "eng": "pleated inkcap",
     "id": 1589,
@@ -10780,14 +7128,6 @@
       "Oudemansiella caussei  "
     ],
     "hun": "feketésbarna gyökeresfülőke"
-  },
-  {
-    "latin": "Parvulago marina",
-    "eng": "spike rush smut"
-  },
-  {
-    "latin": "Paurocotylis pila",
-    "eng": "scarlet berry truffle"
   },
   {
     "latin": "Paxillus involutus",
@@ -10808,10 +7148,6 @@
     "hun": "éger-cölöpgomba"
   },
   {
-    "latin": "Penicillium brevicompactum",
-    "eng": "rollrim mould"
-  },
-  {
     "latin": "Peniophora incarnata",
     "eng": "rosy crust",
     "id": 1595,
@@ -10819,10 +7155,6 @@
     "hun_syn": [
       "rejtett terülőgomba"
     ]
-  },
-  {
-    "latin": "Peniophora laeta",
-    "eng": "hornbeam crust"
   },
   {
     "latin": "Peniophora lycii",
@@ -10844,14 +7176,6 @@
     "eng": "oak crust",
     "id": 1601,
     "hun": "tölgyfa-terülőgomba"
-  },
-  {
-    "latin": "Perrotia distincta",
-    "eng": "reed disco"
-  },
-  {
-    "latin": "Perrotia flammea",
-    "eng": "wood spark"
   },
   {
     "latin": "Peziza ammophila",
@@ -10918,10 +7242,6 @@
     "eng": "palamino cup",
     "id": 1624,
     "hun": "terülő csészegomba"
-  },
-  {
-    "latin": "Peziza saccardoana",
-    "eng": "pouch cup"
   },
   {
     "latin": "Peziza succosa",
@@ -11015,14 +7335,6 @@
     "hun": "sötétbarna fekvőtapló"
   },
   {
-    "latin": "Phellinus lundellii",
-    "eng": "birch bristle bracket"
-  },
-  {
-    "latin": "Phellinus pomaceus",
-    "eng": "cushion bracket"
-  },
-  {
     "latin": "Phellinus tremulae",
     "eng": "aspen bracket",
     "id": 1659,
@@ -11111,10 +7423,6 @@
     "hun": "bükkös fejecskésgomba"
   },
   {
-    "latin": "Pholiota alnicola",
-    "eng": "alder scalycap"
-  },
-  {
     "latin": "Pholiota astragalina",
     "eng": "conifer scalycap",
     "id": 1676,
@@ -11123,10 +7431,6 @@
       "narancsvörös tőkegomba",
       "sáfrányszínű lánggomba"
     ]
-  },
-  {
-    "latin": "Pholiota aurivella",
-    "eng": "golden scalycap"
   },
   {
     "latin": "Pholiota flammans",
@@ -11175,26 +7479,6 @@
     ]
   },
   {
-    "latin": "Pholiota subochracea",
-    "eng": "ochre scalycap"
-  },
-  {
-    "latin": "Phoma violacea",
-    "eng": "paint measles"
-  },
-  {
-    "latin": "Phragmidium acuminatum",
-    "eng": "stone bramble rust"
-  },
-  {
-    "latin": "Phragmidium violaceum",
-    "eng": "violet bramble rust"
-  },
-  {
-    "latin": "Phylloporus pelletieri",
-    "eng": "golden gilled bolete"
-  },
-  {
     "latin": "Phyllotopsis nidulans",
     "eng": "orange mock oyster",
     "id": 1701,
@@ -11202,30 +7486,6 @@
     "hun_syn": [
       "nemezes narancsoslaska"
     ]
-  },
-  {
-    "latin": "Physisporinus sanguinolentus",
-    "eng": "bleeding porecrust"
-  },
-  {
-    "latin": "Phytophthora infestans",
-    "eng": "potato blight"
-  },
-  {
-    "latin": "Pilobolus crystallinus",
-    "eng": "dung cannon"
-  },
-  {
-    "latin": "Pisolithus arhizus",
-    "eng": "dyeball"
-  },
-  {
-    "latin": "Pithya cupressina",
-    "eng": "juniper disco"
-  },
-  {
-    "latin": "Pithya vulgaris",
-    "eng": "fir disco"
   },
   {
     "latin": "Plectania melastoma",
@@ -11238,10 +7498,6 @@
     "hun_syn": [
       "kis fekete-kehelygomba"
     ]
-  },
-  {
-    "latin": "Pleuroceras pseudoplatani",
-    "eng": "sycamore leaf blotch"
   },
   {
     "latin": "Pleurocybella porrigens",
@@ -11284,14 +7540,6 @@
     "eng": "pale oyster",
     "id": 1716,
     "hun": "nyári laskagomba"
-  },
-  {
-    "latin": "Plicariella radula",
-    "eng": "toothed disco"
-  },
-  {
-    "latin": "Plicatura crispa",
-    "eng": "crimped gill"
   },
   {
     "latin": "Pluteus atromarginatus",
@@ -11397,14 +7645,6 @@
     "hun": "ereskalapú csengettyűgomba"
   },
   {
-    "latin": "Pluteus plautus",
-    "eng": "satin shield"
-  },
-  {
-    "latin": "Pluteus pouzarianus",
-    "eng": "conifer shield"
-  },
-  {
     "latin": "Pluteus romellii",
     "eng": "goldleaf shield",
     "id": 1736,
@@ -11447,30 +7687,6 @@
     ]
   },
   {
-    "latin": "Podoscypha multizonata",
-    "eng": "zoned rosette "
-  },
-  {
-    "latin": "Podosphaera pannosa",
-    "eng": "rose mildew"
-  },
-  {
-    "latin": "Podosphaera tridactyla",
-    "eng": "plum mildew"
-  },
-  {
-    "latin": "Podosphaera volkartii",
-    "eng": "mountain avens mildew"
-  },
-  {
-    "latin": "Polydesmia pruinosa",
-    "eng": "tarcrust speckle"
-  },
-  {
-    "latin": "Polyporus badius",
-    "eng": "bay polypore"
-  },
-  {
     "latin": "Polyporus brumalis",
     "eng": "winter polypore",
     "id": 1745,
@@ -11484,10 +7700,6 @@
       "Polyporus lepideus"
     ],
     "hun": "tavaszi likacsosgomba"
-  },
-  {
-    "latin": "Polyporus leptocephalus",
-    "eng": "blackfoot polypore"
   },
   {
     "latin": "Polyporus squamosus",
@@ -11512,18 +7724,6 @@
     ]
   },
   {
-    "latin": "Polyporus umbellatus",
-    "eng": "umbrella polypore"
-  },
-  {
-    "latin": "Polystigma fulvum",
-    "eng": "bird cherry dotty"
-  },
-  {
-    "latin": "Polystigma rubrum",
-    "eng": "blackthorn dotty"
-  },
-  {
     "latin": "Porodaedalea pini",
     "eng": "pine bracket",
     "id": 1750,
@@ -11531,10 +7731,6 @@
       "Phellinus pini"
     ],
     "hun": "fenyő-tapló"
-  },
-  {
-    "latin": "Poronia erici",
-    "eng": "dung button"
   },
   {
     "latin": "Poronia punctata",
@@ -11559,14 +7755,6 @@
     ]
   },
   {
-    "latin": "Porpoloma metapodium",
-    "eng": "mealy meadowcap"
-  },
-  {
-    "latin": "Porpoloma spinulosum",
-    "eng": "aromatic meadowcap"
-  },
-  {
     "latin": "Postia caesia",
     "eng": "conifer blueing bracket",
     "id": 1755,
@@ -11579,10 +7767,6 @@
     "hun_syn": [
       "elkékülő likacsosgomba"
     ]
-  },
-  {
-    "latin": "Postia placenta",
-    "eng": "pink pancake crust"
   },
   {
     "latin": "Postia ptychogaster",
@@ -11659,14 +7843,6 @@
     ]
   },
   {
-    "latin": "Psathyrella conopilus",
-    "eng": "conical brittlestem"
-  },
-  {
-    "latin": "Psathyrella coprophila",
-    "eng": "dung brittlestem"
-  },
-  {
     "latin": "Psathyrella corrugis",
     "eng": "red edge brittlestem",
     "id": 1775,
@@ -11693,18 +7869,10 @@
     ]
   },
   {
-    "latin": "Psathyrella laevissima",
-    "eng": "slender stump brittlestem"
-  },
-  {
     "latin": "Psathyrella maculata",
     "eng": "spotted brittlestem",
     "id": 1784,
     "hun": "sötétpikkelyes porhanyósgomba"
-  },
-  {
-    "latin": "Psathyrella microrhiza",
-    "eng": "rootlet brittlestem"
   },
   {
     "latin": "Psathyrella multipedata",
@@ -11732,18 +7900,6 @@
       "Psathyrella orbitrum"
     ],
     "hun": "útszéli porhanyósgomba"
-  },
-  {
-    "latin": "Psathyrella pygmaea",
-    "eng": "pygmy brittlestem"
-  },
-  {
-    "latin": "Psathyrella solitaria",
-    "eng": "solitary brittlestem"
-  },
-  {
-    "latin": "Psathyrella spadicea",
-    "eng": "chestnut brittlestem"
   },
   {
     "latin": "Psathyrella spadiceogrisea",
@@ -11821,14 +7977,6 @@
     "hun": "kékülő badargomba"
   },
   {
-    "latin": "Psilocybe inquilina",
-    "eng": "flecked brownie"
-  },
-  {
-    "latin": "Psilocybe montana",
-    "eng": "mountain brownie"
-  },
-  {
     "latin": "Psilocybe semilanceata",
     "eng": "magic mushroom / liberty cap",
     "id": 1812,
@@ -11836,170 +7984,6 @@
     "hun_syn": [
       "hegyescsúcsú badargomba"
     ]
-  },
-  {
-    "latin": "Pterula caricis-pendulae",
-    "eng": "pendulous sedge club"
-  },
-  {
-    "latin": "Pterula debilis",
-    "eng": "rush coral"
-  },
-  {
-    "latin": "Puccinia albulensis",
-    "eng": "alpine veronica rust"
-  },
-  {
-    "latin": "Puccinia asparagi",
-    "eng": "asparagus rust"
-  },
-  {
-    "latin": "Puccinia bulbocastani",
-    "eng": "great pignut rust"
-  },
-  {
-    "latin": "Puccinia cicutae",
-    "eng": "cowbane rust"
-  },
-  {
-    "latin": "Puccinia circaeae",
-    "eng": "enchanters nightshade rust"
-  },
-  {
-    "latin": "Puccinia cladii",
-    "eng": "great fen sedge rust"
-  },
-  {
-    "latin": "Puccinia clintonii",
-    "eng": "lousewort rust"
-  },
-  {
-    "latin": "Puccinia cnici-oleracei",
-    "eng": "melancholy thistle rust"
-  },
-  {
-    "latin": "Puccinia eriophori",
-    "eng": "deer grass rust"
-  },
-  {
-    "latin": "Puccinia eutremae",
-    "eng": "scurvy-grass rust"
-  },
-  {
-    "latin": "Puccinia glechomatis",
-    "eng": "ground ivy rust"
-  },
-  {
-    "latin": "Puccinia hydrocotyles",
-    "eng": "rusty pennies"
-  },
-  {
-    "latin": "Puccinia lagenophorae",
-    "eng": "daisy rust"
-  },
-  {
-    "latin": "Puccinia libanotidis",
-    "eng": "moon carrot rust"
-  },
-  {
-    "latin": "Puccinia longissima",
-    "eng": "crested hair-grass rust"
-  },
-  {
-    "latin": "Puccinia malvacearum",
-    "eng": "mallow rust"
-  },
-  {
-    "latin": "Puccinia mariana",
-    "eng": "milk thistle rust"
-  },
-  {
-    "latin": "Puccinia menthae",
-    "eng": "mint rust"
-  },
-  {
-    "latin": "Puccinia microsora",
-    "eng": "bladder sedge rust"
-  },
-  {
-    "latin": "Puccinia moliniae",
-    "eng": "purple moor grass rust"
-  },
-  {
-    "latin": "Puccinia nemoralis",
-    "eng": "cow-wheat clustercup rust"
-  },
-  {
-    "latin": "Puccinia oxyriae",
-    "eng": "mountain sorrel rust"
-  },
-  {
-    "latin": "Puccinia phragmitis",
-    "eng": "reed rust"
-  },
-  {
-    "latin": "Puccinia physospermi",
-    "eng": "bladder-seed rust"
-  },
-  {
-    "latin": "Puccinia polemonii",
-    "eng": "Jacob's ladder rust+C1431"
-  },
-  {
-    "latin": "Puccinia pratensis",
-    "eng": "meadow oat-grass rust"
-  },
-  {
-    "latin": "Puccinia punctiformis",
-    "eng": "thistle rust"
-  },
-  {
-    "latin": "Puccinia ribis",
-    "eng": "downy currant rust"
-  },
-  {
-    "latin": "Puccinia rugulosa",
-    "eng": "hog's fennel rust"
-  },
-  {
-    "latin": "Puccinia scirpi",
-    "eng": "common club rush rust"
-  },
-  {
-    "latin": "Puccinia scorzonerae",
-    "eng": "scorzonera rust"
-  },
-  {
-    "latin": "Puccinia septentrionalis",
-    "eng": "alpine rust"
-  },
-  {
-    "latin": "Puccinia sessilis",
-    "eng": "arum rust"
-  },
-  {
-    "latin": "Puccinia smyrnii",
-    "eng": "Alexanders rust"
-  },
-  {
-    "latin": "Puccinia thesii",
-    "eng": "bastard-toadflax rust"
-  },
-  {
-    "latin": "Puccinia thymi",
-    "eng": "thyme rust"
-  },
-  {
-    "latin": "Puccinia urticata",
-    "eng": "nettle clustercup rust"
-  },
-  {
-    "latin": "Puccinia vincae",
-    "eng": "periwinkle rust"
-  },
-  {
-    "latin": "Pucciniastrum goodyerae",
-    "eng": "creeping ladies tresses rust"
   },
   {
     "latin": "Pycnoporus cinnabarinus",
@@ -12026,22 +8010,10 @@
     ]
   },
   {
-    "latin": "Ramaria abietina",
-    "eng": "greening coral"
-  },
-  {
     "latin": "Ramaria botrytis",
     "eng": "rosso coral",
     "id": 1827,
     "hun": "rózsáságú korallgomba"
-  },
-  {
-    "latin": "Ramaria broomei",
-    "eng": "blackening coral"
-  },
-  {
-    "latin": "Ramaria decurrens",
-    "eng": "ochre coral"
   },
   {
     "latin": "Ramaria formosa",
@@ -12074,44 +8046,16 @@
     ]
   },
   {
-    "latin": "Ramaria suecica",
-    "eng": "parading coral"
-  },
-  {
-    "latin": "Ramariopsis crocea",
-    "eng": "orange coral"
-  },
-  {
     "latin": "Ramariopsis kunzei",
     "eng": "ivory coral",
     "id": 1847,
     "hun": "tömzsi korallgomba"
   },
   {
-    "latin": "Ramariopsis luteonana",
-    "eng": "dwarf spindles"
-  },
-  {
     "latin": "Ramariopsis pulchella",
     "eng": "lilac coral",
     "id": 1848,
     "hun": "lila korallgomba"
-  },
-  {
-    "latin": "Ramariopsis subtilis",
-    "eng": "slender coral"
-  },
-  {
-    "latin": "Ramularia pratensis",
-    "eng": "sorrel felt"
-  },
-  {
-    "latin": "Ramularia rubella",
-    "eng": "dock felt"
-  },
-  {
-    "latin": "Ramularia succisae",
-    "eng": "scabious felt"
   },
   {
     "latin": "Resinicium bicolor",
@@ -12121,10 +8065,6 @@
       "Odontia bicolor"
     ],
     "hun": "vékony fésűsgomba"
-  },
-  {
-    "latin": "Resupinatus applicatus",
-    "eng": "smoked oysterling"
   },
   {
     "latin": "Resupinatus trichotis",
@@ -12233,18 +8173,6 @@
     ]
   },
   {
-    "latin": "Rhopographus filicinus",
-    "eng": "bracken map"
-  },
-  {
-    "latin": "Rhytisma acerinum",
-    "eng": "sycamore tarspot"
-  },
-  {
-    "latin": "Rhytisma salicinum",
-    "eng": "willow tarspot"
-  },
-  {
     "latin": "Rickenella fibula",
     "eng": "orange mosscap",
     "id": 1875,
@@ -12269,14 +8197,6 @@
     "hun": "szilfa-tapló"
   },
   {
-    "latin": "Rimbachia arachnoidea",
-    "eng": "spidery mossear"
-  },
-  {
-    "latin": "Rimbachia bryophila",
-    "eng": "veined mossear"
-  },
-  {
     "latin": "Ripartites tricholoma",
     "eng": "bearded seamine",
     "id": 1878,
@@ -12289,38 +8209,6 @@
       "borostás szöszösgomba",
       "foltos nemezesgomba"
     ]
-  },
-  {
-    "latin": "Roridomyces roridus",
-    "eng": "dripping bonnet"
-  },
-  {
-    "latin": "Rubinoboletus rubinus",
-    "eng": "crimson bolete"
-  },
-  {
-    "latin": "Rugosomyces carneus",
-    "eng": "pink domecap"
-  },
-  {
-    "latin": "Rugosomyces chrysenteron",
-    "eng": "yellow domecap"
-  },
-  {
-    "latin": "Rugosomyces ionides",
-    "eng": "violet domecap"
-  },
-  {
-    "latin": "Rugosomyces obscurissimus",
-    "eng": "obscure domecap"
-  },
-  {
-    "latin": "Rugosomyces onychinus",
-    "eng": "lilac domecap"
-  },
-  {
-    "latin": "Russula acetolens",
-    "eng": "vinegar brittlegill"
   },
   {
     "latin": "Russula acrifolia",
@@ -12347,10 +8235,6 @@
     "hun": "színváltó galambgomba"
   },
   {
-    "latin": "Russula amethystina",
-    "eng": "amethyst brittlegill"
-  },
-  {
     "latin": "Russula amoenolens",
     "eng": "camembert brittlegill",
     "id": 1893,
@@ -12370,14 +8254,6 @@
     "eng": "red swamp brittlegill",
     "id": 1896,
     "hun": "almaillatú galambgomba"
-  },
-  {
-    "latin": "Russula atropurpurea",
-    "eng": "purple brittlegill"
-  },
-  {
-    "latin": "Russula aurantiaca",
-    "eng": "orange brittlegill"
   },
   {
     "latin": "Russula aurea",
@@ -12431,10 +8307,6 @@
     ]
   },
   {
-    "latin": "Russula cicatricata",
-    "eng": "ochre crab brittlegill"
-  },
-  {
     "latin": "Russula claroflava",
     "eng": "yellow swamp brittlegill",
     "id": 1908,
@@ -12451,10 +8323,6 @@
     "hun_syn": [
       "élénkvörös galambgomba"
     ]
-  },
-  {
-    "latin": "Russula cuprea",
-    "eng": "gnarled brittlegill"
   },
   {
     "latin": "Russula cyanoxantha",
@@ -12496,10 +8364,6 @@
     "hun": "hánytató galambgomba"
   },
   {
-    "latin": "Russula exalbicans",
-    "eng": "bleached brittlegill"
-  },
-  {
     "latin": "Russula farinipes",
     "eng": "floury brittlegill",
     "id": 1920,
@@ -12513,10 +8377,6 @@
     "hun_syn": [
       "epeízű galambgomba"
     ]
-  },
-  {
-    "latin": "Russula felleicolor",
-    "eng": "least brittlegill"
   },
   {
     "latin": "Russula foetens",
@@ -12535,14 +8395,6 @@
     "eng": "fragile brittlegill",
     "id": 1925,
     "hun": "törékeny galambgomba"
-  },
-  {
-    "latin": "Russula fusconigra",
-    "eng": "dark brittlegill"
-  },
-  {
-    "latin": "Russula fuscorubroides",
-    "eng": "spruce brittlegill"
   },
   {
     "latin": "Russula gracillima",
@@ -12605,10 +8457,6 @@
     ]
   },
   {
-    "latin": "Russula intermedia",
-    "eng": "intermediate brittlegill"
-  },
-  {
     "latin": "Russula ionochlora",
     "eng": "oilslick brittlegill",
     "id": 1936,
@@ -12648,26 +8496,10 @@
     "hun": "sárguló galambgomba"
   },
   {
-    "latin": "Russula melitodes",
-    "eng": "rosewood brittlegill"
-  },
-  {
-    "latin": "Russula melzeri",
-    "eng": "scurfy brittlegill"
-  },
-  {
-    "latin": "Russula minutula",
-    "eng": "minute brittlegill"
-  },
-  {
     "latin": "Russula mustelina",
     "eng": "russet brittlegill",
     "id": 1947,
     "hun": "sárgásbarna galambgomba"
-  },
-  {
-    "latin": "Russula nana",
-    "eng": "alpine brittlegill"
   },
   {
     "latin": "Russula nauseosa",
@@ -12688,10 +8520,6 @@
     "hun": "fényes galambgomba"
   },
   {
-    "latin": "Russula nobilis",
-    "eng": "beechwood sickener"
-  },
-  {
     "latin": "Russula ochroleuca",
     "eng": "ochre brittlegill",
     "id": 1951,
@@ -12710,10 +8538,6 @@
     ]
   },
   {
-    "latin": "Russula pallescens",
-    "eng": "mountain brittlegill"
-  },
-  {
     "latin": "Russula paludosa",
     "eng": "hintapink",
     "id": 1954,
@@ -12729,26 +8553,10 @@
     ]
   },
   {
-    "latin": "Russula pascua",
-    "eng": "pasture brittlegill"
-  },
-  {
-    "latin": "Russula pelargonia",
-    "eng": "pelargonium brittlegill"
-  },
-  {
-    "latin": "Russula praetervisa",
-    "eng": "bypassed brittlegill"
-  },
-  {
     "latin": "Russula pseudointegra",
     "eng": "scarlet brittlegill",
     "id": 1958,
     "hun": "keserű galambgomba"
-  },
-  {
-    "latin": "Russula pseudo-olivascens",
-    "eng": "olivecrab brittlegill"
   },
   {
     "latin": "Russula puellaris",
@@ -12779,14 +8587,6 @@
     "hun": "cifra galambgomba"
   },
   {
-    "latin": "Russula rutila",
-    "eng": "ruddy brittlegill"
-  },
-  {
-    "latin": "Russula sanguinaria",
-    "eng": "bloody brittlegill"
-  },
-  {
     "latin": "Russula sardonia",
     "eng": "primrose brittlegill",
     "id": 1972,
@@ -12794,10 +8594,6 @@
     "hun_syn": [
       "izzadó galambgomba"
     ]
-  },
-  {
-    "latin": "Russula scotica",
-    "eng": "scottish brittlegill"
   },
   {
     "latin": "Russula silvestris",
@@ -12816,10 +8612,6 @@
     "eng": "sepia brittlegill",
     "id": 1976,
     "hun": "barna galambgomba"
-  },
-  {
-    "latin": "Russula subfoetens",
-    "eng": "least stinking brittlegill"
   },
   {
     "latin": "Russula torulosa",
@@ -12901,10 +8693,6 @@
     "hun": "bőrsárgatönkű galambgomba"
   },
   {
-    "latin": "Russula xenochlora",
-    "eng": "misfit brittlegill"
-  },
-  {
     "latin": "Russula xerampelina",
     "eng": "crab brittlegill",
     "id": 1992,
@@ -12917,30 +8705,10 @@
     "hun": "szívós sztrómacsészegomba"
   },
   {
-    "latin": "Rutstroemia sydowiana",
-    "eng": "oakleaf cup"
-  },
-  {
-    "latin": "Sabuloglossum arenarium",
-    "eng": "sandy earthtongue"
-  },
-  {
-    "latin": "Sarcodon regalis",
-    "eng": "crowned tooth"
-  },
-  {
     "latin": "Sarcodon squamosus",
     "eng": "scaly tooth",
     "id": 2001,
     "hun": "sötétpikkelyű gereben"
-  },
-  {
-    "latin": "Sarcodontia crocea",
-    "eng": "orchard toothcrust"
-  },
-  {
-    "latin": "Sarcomyxa serotina",
-    "eng": "olive oysterling"
   },
   {
     "latin": "Sarcoscypha austriaca",
@@ -12969,22 +8737,6 @@
     "hun_syn": [
       "lila tulipángomba"
     ]
-  },
-  {
-    "latin": "Sawadaea bicornis",
-    "eng": "maple mildew"
-  },
-  {
-    "latin": "Schizonella cocconii",
-    "eng": "glaucus sedge smut"
-  },
-  {
-    "latin": "Schizonella melanogramma",
-    "eng": "rare spring sedge smut"
-  },
-  {
-    "latin": "Schizophyllum amplum",
-    "eng": "poplar bells"
   },
   {
     "latin": "Schizophyllum commune",
@@ -13036,10 +8788,6 @@
     "hun": "nyeles áltrifla"
   },
   {
-    "latin": "Scutellinia minor",
-    "eng": "least eyelash"
-  },
-  {
     "latin": "Scutellinia scutellata",
     "eng": "common eyelash",
     "id": 2024,
@@ -13047,10 +8795,6 @@
     "hun_syn": [
       "sörtéscsészegomba"
     ]
-  },
-  {
-    "latin": "Scytinostroma portentosum",
-    "eng": "mothball crust"
   },
   {
     "latin": "Sebacina incrustans",
@@ -13074,10 +8818,6 @@
     "hun": "kisspórás olajgombácska"
   },
   {
-    "latin": "Simocybe sumptuosa",
-    "eng": "velvet twiglet"
-  },
-  {
     "latin": "Singerocybe phaeophthalma",
     "eng": "chicken run funnel",
     "id": 2036,
@@ -13086,10 +8826,6 @@
       "Clitocybe phaeophthalma"
     ],
     "hun": "dohos tölcsérgomba"
-  },
-  {
-    "latin": "Sirococcus tsugae",
-    "eng": "cedar speckle"
   },
   {
     "latin": "Sistotrema confluens",
@@ -13117,10 +8853,6 @@
       "Incrustoporia semipileta"
     ],
     "hun": "szegett likacsosgomba"
-  },
-  {
-    "latin": "Smardaea amethystina",
-    "eng": "amethyst disco"
   },
   {
     "latin": "Sowerbyella imperialis",
@@ -13153,34 +8885,10 @@
     "hun": "golyógomba"
   },
   {
-    "latin": "Spinellus fusiger",
-    "eng": "bonnet mould"
-  },
-  {
-    "latin": "Spongipellis delectans",
-    "eng": "spongy mazegill"
-  },
-  {
-    "latin": "Squamanita contortipes",
-    "eng": "contorted strangler"
-  },
-  {
     "latin": "Squamanita odorata",
     "eng": "fragrant strangler",
     "id": 2057,
     "hun": "illatos pikkelyesgalóca"
-  },
-  {
-    "latin": "Squamanita paradoxa",
-    "eng": "powdercap strangler"
-  },
-  {
-    "latin": "Squamanita pearsonii",
-    "eng": "strathy strangler"
-  },
-  {
-    "latin": "Stagnicola perplexa",
-    "eng": "puzzling rootshank"
   },
   {
     "latin": "Stephanospora caroticolor",
@@ -13190,10 +8898,6 @@
     "hun_syn": [
       "narancsszínű álpöfeteg"
     ]
-  },
-  {
-    "latin": "Stereopsis vitellina",
-    "eng": "roothole rosette"
   },
   {
     "latin": "Stereum gausapatum",
@@ -13209,10 +8913,6 @@
     "eng": "hairy curtain crust",
     "id": 2064,
     "hun": "borostás réteggomba"
-  },
-  {
-    "latin": "Stereum ostrea",
-    "eng": "false turkeytail"
   },
   {
     "latin": "Stereum rugosum",
@@ -13234,10 +8934,6 @@
     "hun_syn": [
       "molyhos réteggomba"
     ]
-  },
-  {
-    "latin": "Stigmatula astragali",
-    "eng": "milk vetch dotty"
   },
   {
     "latin": "Strobilomyces strobilaceus",
@@ -13295,10 +8991,6 @@
     "hun": "sárga harmatgomba"
   },
   {
-    "latin": "Stropharia halophila",
-    "eng": "dune roundhead"
-  },
-  {
     "latin": "Stropharia hornemannii",
     "eng": "conifer roundhead",
     "id": 2077,
@@ -13330,10 +9022,6 @@
     "eng": "wine roundhead",
     "id": 2081,
     "hun": "óriás harmatgomba"
-  },
-  {
-    "latin": "Stropharia semiglobata",
-    "eng": "dung roundhead"
   },
   {
     "latin": "Suillus bovinus",
@@ -13439,30 +9127,6 @@
     ]
   },
   {
-    "latin": "Syzygospora tumefaciens",
-    "eng": "toughshank jellygall"
-  },
-  {
-    "latin": "Taphrina alni",
-    "eng": "alder tongue"
-  },
-  {
-    "latin": "Taphrina betulina",
-    "eng": "birch besom"
-  },
-  {
-    "latin": "Taphrina johansonii",
-    "eng": "aspen tongue"
-  },
-  {
-    "latin": "Taphrina pruni",
-    "eng": "pocket plum"
-  },
-  {
-    "latin": "Taphrina tosquinetii",
-    "eng": "alder wrinkle"
-  },
-  {
     "latin": "Tapinella atrotomentosa",
     "eng": "velvet rollrim",
     "id": 2102,
@@ -13506,26 +9170,6 @@
     "hun": "fogacskás kehelygomba"
   },
   {
-    "latin": "Tatraea dumbirensis",
-    "eng": "beechwood goblet"
-  },
-  {
-    "latin": "Tephrocybe anthrocophila",
-    "eng": "bonfire greyling"
-  },
-  {
-    "latin": "Tephrocybe fuscipes",
-    "eng": "darkfoot greyling"
-  },
-  {
-    "latin": "Tephrocybe osmophora",
-    "eng": "sweet greyling"
-  },
-  {
-    "latin": "Tephrocybe palustris",
-    "eng": "sphagnum greyling"
-  },
-  {
     "latin": "Tephrocybe rancida",
     "eng": "rancid greyling",
     "id": 2110,
@@ -13536,14 +9180,6 @@
     "hun_syn": [
       "gyökerező szürkefülőke"
     ]
-  },
-  {
-    "latin": "Tephrocybe tylicolor",
-    "eng": "slater greyling"
-  },
-  {
-    "latin": "Terana caerulea",
-    "eng": "cobalt crust"
   },
   {
     "latin": "Thelephora caryophyllea",
@@ -13583,14 +9219,6 @@
     ]
   },
   {
-    "latin": "Tilletia anthoxanthi",
-    "eng": "sweet vernal smut"
-  },
-  {
-    "latin": "Tilletia caries",
-    "eng": "stinking smut"
-  },
-  {
     "latin": "Tolypocladium capitatum",
     "eng": "capitate truffleclub",
     "id": 2129,
@@ -13615,18 +9243,6 @@
     "hun_syn": [
       "nyelves rontógomba"
     ]
-  },
-  {
-    "latin": "Tracya hydrocharidis",
-    "eng": "frogbit smut"
-  },
-  {
-    "latin": "Trametes betulina",
-    "eng": "birch mazegill"
-  },
-  {
-    "latin": "Trametes gallica",
-    "eng": "brownflesh bracket"
   },
   {
     "latin": "Trametes gibbosa",
@@ -13694,18 +9310,6 @@
     "hun": "szederalakú rezgőgomba"
   },
   {
-    "latin": "Tremella simplex",
-    "eng": "Potter's jelly"
-  },
-  {
-    "latin": "Tremella steidleri",
-    "eng": "brown brain"
-  },
-  {
-    "latin": "Tremellodendropsis tuberosa",
-    "eng": "ashen coral"
-  },
-  {
     "latin": "Trichaptum abietinum",
     "eng": "purplepore bracket",
     "id": 2150,
@@ -13718,18 +9322,6 @@
     ]
   },
   {
-    "latin": "Trichobelonium kneiffii",
-    "eng": "reed mat disco"
-  },
-  {
-    "latin": "Trichoderma alutaceum",
-    "eng": "dogend"
-  },
-  {
-    "latin": "Trichoderma pulvinatum",
-    "eng": "ochre cushion"
-  },
-  {
     "latin": "Trichoglossum hirsutum",
     "eng": "hairy earthtongue",
     "id": 2153,
@@ -13740,18 +9332,6 @@
     "hun_syn": [
       "sötét borostás-nyelvgomba"
     ]
-  },
-  {
-    "latin": "Trichoglossum rasum",
-    "eng": "dune earthtongue"
-  },
-  {
-    "latin": "Trichoglossum tetrasporum",
-    "eng": "four spored earthtongue"
-  },
-  {
-    "latin": "Trichoglossum walteri",
-    "eng": "short spored earthtongue"
   },
   {
     "latin": "Tricholoma acerbum",
@@ -13782,14 +9362,6 @@
       "Tricholoma luteovirens"
     ],
     "hun": "zellerszagú pereszke"
-  },
-  {
-    "latin": "Tricholoma arvernense",
-    "eng": "sovereign knight"
-  },
-  {
-    "latin": "Tricholoma atrosquamosum",
-    "eng": "dark scaled knight"
   },
   {
     "latin": "Tricholoma aurantium",
@@ -13872,10 +9444,6 @@
     ]
   },
   {
-    "latin": "Tricholoma matsutake",
-    "eng": "spicy knight"
-  },
-  {
     "latin": "Tricholoma pessundatum",
     "eng": "tacked knight",
     "id": 2184,
@@ -13903,10 +9471,6 @@
     "hun": "vörösfenyő-pereszke"
   },
   {
-    "latin": "Tricholoma robustum",
-    "eng": "robust knight"
-  },
-  {
     "latin": "Tricholoma saponaceum",
     "eng": "soapy knight",
     "id": 2188,
@@ -13932,10 +9496,6 @@
     "hun_syn": [
       "zöldessárga pereszke"
     ]
-  },
-  {
-    "latin": "Tricholoma stans",
-    "eng": "upright knight"
   },
   {
     "latin": "Tricholoma stiparophyllum",
@@ -14019,26 +9579,6 @@
     "eng": "plums and custard",
     "id": 2204,
     "hun": "bársonyos fapereszke"
-  },
-  {
-    "latin": "Triphragmium filipendulae",
-    "eng": "dropwort rust"
-  },
-  {
-    "latin": "Triphragmium ulmariae",
-    "eng": "meadowsweet rust"
-  },
-  {
-    "latin": "Trochila craterium",
-    "eng": "ivy speckle"
-  },
-  {
-    "latin": "Trochila ilicina",
-    "eng": "holly speckle"
-  },
-  {
-    "latin": "Trochila laurocerasi",
-    "eng": "laurel speckle"
   },
   {
     "latin": "Tubaria confragosa",
@@ -14129,10 +9669,6 @@
     "hun": "sötétsávos nyelespöfeteg"
   },
   {
-    "latin": "Tulostoma niveum",
-    "eng": "white stalkball"
-  },
-  {
     "latin": "Tylopilus felleus",
     "eng": "bitter bolete",
     "id": 2267,
@@ -14155,98 +9691,6 @@
     "eng": "bracken club",
     "id": 2276,
     "hun": "páfrány-fonalgomba"
-  },
-  {
-    "latin": "Uredinopsis filicina",
-    "eng": "beech fern rust"
-  },
-  {
-    "latin": "Uredo oncidii",
-    "eng": "lady's tresses rust"
-  },
-  {
-    "latin": "Urocystis alopecuri",
-    "eng": "foxtail smut"
-  },
-  {
-    "latin": "Urocystis avenae-elatioris",
-    "eng": "false oat-grass smut"
-  },
-  {
-    "latin": "Urocystis colchici",
-    "eng": "colchicum smut"
-  },
-  {
-    "latin": "Urocystis floccosa",
-    "eng": "green hellebore smut"
-  },
-  {
-    "latin": "Urocystis poae",
-    "eng": "meadow grass smut"
-  },
-  {
-    "latin": "Urocystis primulicola",
-    "eng": "bird's-eye primrose smut"
-  },
-  {
-    "latin": "Urocystis trientalis",
-    "eng": "chickweed wintergreen smut"
-  },
-  {
-    "latin": "Uromyces colchici",
-    "eng": "colchicum rust"
-  },
-  {
-    "latin": "Uromyces dactylidis",
-    "eng": "celandine clustercup rust"
-  },
-  {
-    "latin": "Uromyces ficariae",
-    "eng": "bitter chocolate rust"
-  },
-  {
-    "latin": "Uromyces gageae",
-    "eng": "yellow star-of-bethlehem rust"
-  },
-  {
-    "latin": "Uromyces gentianae",
-    "eng": "felwort rust"
-  },
-  {
-    "latin": "Uromyces muscari",
-    "eng": "bluebell rust"
-  },
-  {
-    "latin": "Uromyces scutellatus",
-    "eng": "cypress spurge rust"
-  },
-  {
-    "latin": "Uromyces tuberculatus",
-    "eng": "dwarf spurge rust"
-  },
-  {
-    "latin": "Ustanciosporium gigantosporum",
-    "eng": "white beak-sedge smut"
-  },
-  {
-    "latin": "Ustanciosporium majus",
-    "eng": "small spored white beak-sedge smut"
-  },
-  {
-    "latin": "Ustilago corcontica",
-    "eng": "purple small-reed stripe smut"
-  },
-  {
-    "latin": "Ustilago echinata",
-    "eng": "reed canary-grass smut"
-  },
-  {
-    "latin": "Ustilago hordei",
-    "eng": "barley covered smut"
-  },
-  {
-    "latin": "Vankya ornithogali",
-    "eng": "yellow star-of-bethlehem smut"
   },
   {
     "latin": "Verpa conica",
@@ -14273,14 +9717,6 @@
     "hun": "óriás bocskorosgomba"
   },
   {
-    "latin": "Volvariella gloiocephala",
-    "eng": "stubble rosegill"
-  },
-  {
-    "latin": "Volvariella reidii",
-    "eng": "angel rosegill "
-  },
-  {
     "latin": "Volvariella surrecta",
     "eng": "piggyback rosegill",
     "id": 2294,
@@ -14299,22 +9735,10 @@
     "hun": "tölgy-kéreghántógomba"
   },
   {
-    "latin": "Vuilleminia coryli",
-    "eng": "hazel waxycrust"
-  },
-  {
-    "latin": "Xenotypa aterrima",
-    "eng": "birch bark stripper"
-  },
-  {
     "latin": "Xerocomus chrysonemus",
     "eng": "goldenthread bolete",
     "id": 2307,
     "hun": "sárgatövű tinóru"
-  },
-  {
-    "latin": "Xerocomus silwoodensis",
-    "eng": "poplar bolete"
   },
   {
     "latin": "Xeromphalina campanella",
@@ -14338,26 +9762,10 @@
     ]
   },
   {
-    "latin": "Xylaria bulbosa",
-    "eng": "bulbous candlesnuff"
-  },
-  {
     "latin": "Xylaria carpophila",
     "eng": "beechmast candlesnuff",
     "id": 2315,
     "hun": "kupacsagancsgomba"
-  },
-  {
-    "latin": "Xylaria digitata",
-    "eng": "fingered candlesnuff"
-  },
-  {
-    "latin": "Xylaria guepinii",
-    "eng": "dung candlesnuff"
-  },
-  {
-    "latin": "Xylaria hippotrichoides",
-    "eng": "horsehair candlesnuff"
   },
   {
     "latin": "Xylaria hypoxylon",
@@ -14375,46 +9783,10 @@
     "hun": "nyeles agancsgomba"
   },
   {
-    "latin": "Xylaria oxyacanthae",
-    "eng": "haw candlesnuff"
-  },
-  {
     "latin": "Xylaria polymorpha",
     "eng": "dead man's fingers",
     "id": 2319,
     "hun": "bunkós agancsgomba"
-  },
-  {
-    "latin": "Xylodon sambuci",
-    "eng": "elder whitewash"
-  },
-  {
-    "latin": "Zasmidium cellare",
-    "eng": "distillery fungus"
-  },
-  {
-    "latin": "Agaricus crocopeplus",
-    "eng": "golden fleece mushroom"
-  },
-  {
-    "latin": "Agaricus subrufescens",
-    "eng": "almond mushroom"
-  },
-  {
-    "latin": "Albatrellus caeruleoporus",
-    "eng": "blue polypore"
-  },
-  {
-    "latin": "Albatrellus ovinus",
-    "eng": "forest lamb"
-  },
-  {
-    "latin": "Albatrellus peckianus",
-    "eng": "Peck's polypore"
-  },
-  {
-    "latin": "Amanita australis",
-    "eng": "southern amanita"
   },
   {
     "latin": "Amanita caesarea",
@@ -14426,122 +9798,10 @@
     ]
   },
   {
-    "latin": "Amanita calyptroderma",
-    "eng": "Pacific amanita"
-  },
-  {
-    "latin": "Amanita daucipes",
-    "eng": "carrot amanita"
-  },
-  {
-    "latin": "Amanita flavoconia",
-    "eng": "yellow spotted amanita"
-  },
-  {
-    "latin": "Amanita jacksonii",
-    "eng": "American slender Caesar"
-  },
-  {
-    "latin": "Amanita onusta",
-    "eng": "gunpowder amanita"
-  },
-  {
     "latin": "Amanita verna",
     "eng": "spring amanita",
     "id": 86,
     "hun": "fehér galóca"
-  },
-  {
-    "latin": "Amauroderma rude",
-    "eng": "red staining stalked polypore"
-  },
-  {
-    "latin": "Amparoina spinosissima",
-    "eng": "flaky bonnet"
-  },
-  {
-    "latin": "Ampulloclitocybe avellaneoalba",
-    "eng": "smoky brown funnel"
-  },
-  {
-    "latin": "Anthracophyllum melanophyllum",
-    "eng": "cinnabar fan bracket"
-  },
-  {
-    "latin": "Aurantiporus pulcherrimus",
-    "eng": "strawberry bracket"
-  },
-  {
-    "latin": "Auricularia cornea",
-    "eng": "rubber ear"
-  },
-  {
-    "latin": "Austropaxillus macnabbii",
-    "eng": "orange rollrim"
-  },
-  {
-    "latin": "Boletellus obscurococcineus",
-    "eng": "rhubarb bolete"
-  },
-  {
-    "latin": "Boletellus russellii",
-    "eng": "pitted bolete"
-  },
-  {
-    "latin": "Boletus firmus",
-    "eng": "firm bolete"
-  },
-  {
-    "latin": "Boletus flammans",
-    "eng": "flame bolete"
-  },
-  {
-    "latin": "Boletus frostii",
-    "eng": "Frost's bolete"
-  },
-  {
-    "latin": "Boletus hortonii",
-    "eng": "corrugated bolete"
-  },
-  {
-    "latin": "Boletus regius",
-    "eng": "royal bolete"
-  },
-  {
-    "latin": "Boletus reticuloceps",
-    "eng": "fishnet bolete"
-  },
-  {
-    "latin": "Boletus torosus",
-    "eng": "brawny bolete"
-  },
-  {
-    "latin": "Boletus zelleri",
-    "eng": "Zeller's bolete"
-  },
-  {
-    "latin": "Bondarzewia montana",
-    "eng": "mountain polypore"
-  },
-  {
-    "latin": "Calostoma cinnabarina",
-    "eng": "red aspic puffball"
-  },
-  {
-    "latin": "Campanella aeruginea",
-    "eng": "turquoise oysterling"
-  },
-  {
-    "latin": "Cantharellus cinnabarinus",
-    "eng": "cinnabar chanterelle"
-  },
-  {
-    "latin": "Cantharellus ignicolor",
-    "eng": "flame chanterelle"
-  },
-  {
-    "latin": "Caripia montagnei",
-    "eng": "pod parachute"
   },
   {
     "latin": "Catathelasma imperiale",
@@ -14551,10 +9811,6 @@
     "hun_syn": [
       "kétszergyűrűs tölcsérgomba"
     ]
-  },
-  {
-    "latin": "Ceriporia tarda",
-    "eng": "mauve waxpore"
   },
   {
     "latin": "Chlorophyllum agaricoides",
@@ -14567,14 +9823,6 @@
     "hun-syn": [
       "csiperkeszerű lemezespöfeteg"
     ]
-  },
-  {
-    "latin": "Chlorovibrissea phialophora",
-    "eng": "green pinball"
-  },
-  {
-    "latin": "Clavaria phoenicea",
-    "eng": "sunset spindles"
   },
   {
     "latin": "Clavaria purpurea",
@@ -14598,10 +9846,6 @@
     "hun": "északi tüskéslaska"
   },
   {
-    "latin": "Clitocybe amoenolens",
-    "eng": "paralysis funnel"
-  },
-  {
     "latin": "Conocybe deliquescens",
     "eng": "beansprout conecap",
     "id": 311,
@@ -14612,94 +9856,6 @@
     "hun_syn": [
       "pusztai álkérészgomba"
     ]
-  },
-  {
-    "latin": "Cookeina tricholoma",
-    "eng": "hairy tropical goblet"
-  },
-  {
-    "latin": "Cortinarius agathosmus",
-    "eng": "scented webcap"
-  },
-  {
-    "latin": "Cortinarius austrovenetus",
-    "eng": "green skinhead"
-  },
-  {
-    "latin": "Cortinarius iodes",
-    "eng": "viscid violet webcap"
-  },
-  {
-    "latin": "Crinipellis zonata",
-    "eng": "zoned hairy parachute"
-  },
-  {
-    "latin": "Cryptoporus volvatus",
-    "eng": "veiled polypore"
-  },
-  {
-    "latin": "Cymatoderma elegans",
-    "eng": "leathery goblet"
-  },
-  {
-    "latin": "Cyptotrama asprata",
-    "eng": "scruffy scalycap"
-  },
-  {
-    "latin": "Cystoagaricus trisulphuratus",
-    "eng": "scaly tangerine mushroom"
-  },
-  {
-    "latin": "Cyttaria darwinii",
-    "eng": "Darwin's golfball"
-  },
-  {
-    "latin": "Cyttaria gunnii",
-    "eng": "orange golfball "
-  },
-  {
-    "latin": "Dacryopinax spathularia",
-    "eng": "fan shaped jelly"
-  },
-  {
-    "latin": "Deflexula subsimplex",
-    "eng": "pendant coral"
-  },
-  {
-    "latin": "Echinodontium tinctorium",
-    "eng": "indian paint fungus"
-  },
-  {
-    "latin": "Entoloma glaucoroseum",
-    "eng": "jade pinkgill"
-  },
-  {
-    "latin": "Entoloma murrayi",
-    "eng": "unicorn pinkgill"
-  },
-  {
-    "latin": "Entoloma quadratum",
-    "eng": "salmon pinkgill"
-  },
-  {
-    "latin": "Entoloma violaceum",
-    "eng": "violet pinkgill"
-  },
-  {
-    "latin": "Entoloma virescens",
-    "eng": "skyblue pinkgill"
-  },
-  {
-    "latin": "Favolaschia pustulosa",
-    "eng": "white porecap"
-  },
-  {
-    "latin": "Favolus tenuiculus",
-    "eng": "tropical white polypore"
-  },
-  {
-    "latin": "Filoboletus manipularis",
-    "eng": "luminous porecap"
   },
   {
     "latin": "Floccularia luteovirens",
@@ -14714,62 +9870,10 @@
     ]
   },
   {
-    "latin": "Galiella rufa",
-    "eng": "hairy rubber cup"
-  },
-  {
-    "latin": "Gallacea scleroderma",
-    "eng": "velvet potato fungus"
-  },
-  {
-    "latin": "Glaziella aurantiaca",
-    "eng": "orange bladder"
-  },
-  {
-    "latin": "Gliophorus viridis",
-    "eng": "verdigris waxcap"
-  },
-  {
-    "latin": "Gomphus floccosus",
-    "eng": "woolly chanterelle"
-  },
-  {
     "latin": "Gyromitra gigas",
     "eng": "giants false morel",
     "id": 864,
     "hun": "óriás papsapkagomba"
-  },
-  {
-    "latin": "Heimioporus betula",
-    "eng": "shaggy stalked bolete"
-  },
-  {
-    "latin": "Heliocybe sulcata",
-    "eng": "sunray sawgill"
-  },
-  {
-    "latin": "Hexagonia hydnoides",
-    "eng": "hexagon bracket"
-  },
-  {
-    "latin": "Humidicutis lewelliniae",
-    "eng": "mauve splitting waxcap"
-  },
-  {
-    "latin": "Humidicutis marginata",
-    "eng": "orange gilled waxcap"
-  },
-  {
-    "latin": "Hydnellum auratile",
-    "eng": "gold tooth"
-  },
-  {
-    "latin": "Hydnopolyporus fimbriatus",
-    "eng": "poretooth rosette"
-  },
-  {
-    "latin": "Hygrocybe caespitosa",
-    "eng": "clustered waxcap"
   },
   {
     "latin": "Hygrophorus latitabundus",
@@ -14784,26 +9888,6 @@
     "hun": "narancssárga csigagomba"
   },
   {
-    "latin": "Hypomyces lactifluorum",
-    "eng": "lobster fungus"
-  },
-  {
-    "latin": "Hypsizygus marmoreus",
-    "eng": "beech leech"
-  },
-  {
-    "latin": "Inocybe caesariata",
-    "eng": "caesar's fibrecap"
-  },
-  {
-    "latin": "Lachnocladium denudatum",
-    "eng": "smooth leather coral"
-  },
-  {
-    "latin": "Lactarius indigo",
-    "eng": "indigo milkcap"
-  },
-  {
     "latin": "Lactarius lignyotus",
     "eng": "velvet milkcap",
     "id": 1221,
@@ -14811,18 +9895,6 @@
     "hun_syn": [
       "ráncostönkű tejelőgomba"
     ]
-  },
-  {
-    "latin": "Lactocollybia aurantiaca",
-    "eng": "orange milkshank"
-  },
-  {
-    "latin": "Leccinum eximium",
-    "eng": "lilacbrown bolete"
-  },
-  {
-    "latin": "Leccinum lepidum",
-    "eng": "neat bolete"
   },
   {
     "latin": "Lentinula edodes",
@@ -14839,38 +9911,6 @@
     ]
   },
   {
-    "latin": "Lentinus crinitus",
-    "eng": "fringed sawgill"
-  },
-  {
-    "latin": "Leotia viscosa",
-    "eng": "greencap jellybaby"
-  },
-  {
-    "latin": "Lepiota flammeatincta",
-    "eng": "flaming parasol"
-  },
-  {
-    "latin": "Leratiomyces erythrocephalus",
-    "eng": "redhead roundhead"
-  },
-  {
-    "latin": "Leucoagaricus rubrotinctus",
-    "eng": "ruby dapperling"
-  },
-  {
-    "latin": "Leucocoprinus fragilissimus",
-    "eng": "fragile dapperling"
-  },
-  {
-    "latin": "Lignosus rhinocerus",
-    "eng": "tiger's milk fungus"
-  },
-  {
-    "latin": "Longula texensis",
-    "eng": "Texan desert mushroom"
-  },
-  {
     "latin": "Lysurus corallocephalus",
     "eng": "coralhead stinkhorn",
     "id": 1386,
@@ -14878,82 +9918,6 @@
       "Kalchbrennera corallocephla"
     ],
     "hun": "korallfejűgomba"
-  },
-  {
-    "latin": "Lysurus mokusin",
-    "eng": "ribbed lizard's claw"
-  },
-  {
-    "latin": "Macowanites luteolus",
-    "eng": "yellow brittleball"
-  },
-  {
-    "latin": "Macrocybe titans",
-    "eng": "American titan+C1030"
-  },
-  {
-    "latin": "Marasmius crinisequi",
-    "eng": "rainforest horsehair "
-  },
-  {
-    "latin": "Marasmius haematocephalus",
-    "eng": "mauve parachute"
-  },
-  {
-    "latin": "Marasmius pulcherripes",
-    "eng": "rosy parachute"
-  },
-  {
-    "latin": "Marasmius zenkeri",
-    "eng": "striped parachute"
-  },
-  {
-    "latin": "Microglossum rufum",
-    "eng": "orange earthtongue"
-  },
-  {
-    "latin": "Microporus xanthopus",
-    "eng": "yellow stemmed micropore"
-  },
-  {
-    "latin": "Montagnea arenaria",
-    "eng": "desert inkcap"
-  },
-  {
-    "latin": "Mucronella pendula",
-    "eng": "icicle spine"
-  },
-  {
-    "latin": "Mutinus borneensis",
-    "eng": "yellow dog stinkhorn"
-  },
-  {
-    "latin": "Mycena aurantiidisca",
-    "eng": "tangerine bonnet"
-  },
-  {
-    "latin": "Mycena interrupta",
-    "eng": "pixie's parasol"
-  },
-  {
-    "latin": "Mycena leaiana",
-    "eng": "golden bonnet"
-  },
-  {
-    "latin": "Mycena strobilinoides",
-    "eng": "flame bonnet"
-  },
-  {
-    "latin": "Mycena viscidocruenta",
-    "eng": "ruby bonnet"
-  },
-  {
-    "latin": "Nidula niveotomentosa",
-    "eng": "woolly bird's nest"
-  },
-  {
-    "latin": "Omphalotus japonicus",
-    "eng": "moonlight mushroom"
   },
   {
     "latin": "Onnia tomentosa",
@@ -14966,18 +9930,10 @@
     "hun": "nemezes likacsosgomba"
   },
   {
-    "latin": "Ophiocordyceps sinensis",
-    "eng": "Chinese caterpillar fungus"
-  },
-  {
     "latin": "Perenniporia medulla-panis",
     "eng": "pancake crust",
     "id": 1604,
     "hun": "szétterülő kéregtapló"
-  },
-  {
-    "latin": "Peziza azureoides",
-    "eng": "azure cup"
   },
   {
     "latin": "Phaeocollybia christinae",
@@ -15001,30 +9957,6 @@
     ]
   },
   {
-    "latin": "Phillipsia domingensis",
-    "eng": "mauve elfcup"
-  },
-  {
-    "latin": "Phlebia coccineofulva",
-    "eng": "scarlet waxcrust"
-  },
-  {
-    "latin": "Phylloporus rhodoxanthus",
-    "eng": "gilled bolete"
-  },
-  {
-    "latin": "Physalacria inflata",
-    "eng": "bladder stalks"
-  },
-  {
-    "latin": "Pleurotus citrinopileatus",
-    "eng": "golden oyster"
-  },
-  {
-    "latin": "Pleurotus djamor",
-    "eng": "tropical oyster"
-  },
-  {
     "latin": "Pleurotus eryngii",
     "eng": "king oyster",
     "id": 1714,
@@ -15040,30 +9972,10 @@
     "hun": "tűzpiros csengettyűgomba"
   },
   {
-    "latin": "Podaxis pistillaris",
-    "eng": "desert shaggy mane"
-  },
-  {
-    "latin": "Podoscypha petalodes",
-    "eng": "wine glass rosette"
-  },
-  {
-    "latin": "Podoserpula pusio",
-    "eng": "pagoda fungus"
-  },
-  {
-    "latin": "Podostroma cornu-damae",
-    "eng": "poison fire coral"
-  },
-  {
     "latin": "Pseudocolus fusiformis",
     "eng": "stinky squid",
     "id": 1801,
     "hun": "gyertyagomba"
-  },
-  {
-    "latin": "Psilocybe cubensis",
-    "eng": "golden brownie"
   },
   {
     "latin": "Pterula subulata",
@@ -15072,50 +9984,10 @@
     "hun": "csapzott sertegomba"
   },
   {
-    "latin": "Pulveroboletus ravenelii",
-    "eng": "sulphur bolete"
-  },
-  {
-    "latin": "Ramaria araiospora",
-    "eng": "red coral"
-  },
-  {
-    "latin": "Ramaria longispora",
-    "eng": "longspored orange coral"
-  },
-  {
     "latin": "Ramaria sanguinea",
     "eng": "bloody coral",
     "id": 1843,
     "hun": "vörösfoltos korallgomba"
-  },
-  {
-    "latin": "Rigidoporus sanguinolentus",
-    "eng": "bleeding porecrust"
-  },
-  {
-    "latin": "Sarcosoma globosum",
-    "eng": "witches cauldron"
-  },
-  {
-    "latin": "Sebacina sparassoidea",
-    "eng": "white coral jelly"
-  },
-  {
-    "latin": "Staheliomyces cinctus",
-    "eng": "cummerbund stinkhorn"
-  },
-  {
-    "latin": "Suillus bellinii",
-    "eng": "champagne bolete"
-  },
-  {
-    "latin": "Suillus ochraceoroseus",
-    "eng": "rosy larch bolete"
-  },
-  {
-    "latin": "Syzygospora mycetophila",
-    "eng": "toughshank brain"
   },
   {
     "latin": "Terfezia arenaria",
@@ -15130,22 +10002,6 @@
     ]
   },
   {
-    "latin": "Termitomyces robustus",
-    "eng": "robust termite fungus"
-  },
-  {
-    "latin": "Tetrapyrgos nigripes",
-    "eng": "blackfoot parachute"
-  },
-  {
-    "latin": "Tremella fuciformis",
-    "eng": "silver ear"
-  },
-  {
-    "latin": "Tremellodendron schweinitzii",
-    "eng": "jellied false coral"
-  },
-  {
     "latin": "Tricholoma caligatum",
     "eng": "true booted knight",
     "id": 2165,
@@ -15153,10 +10009,6 @@
     "hun_syn": [
       "foltostönkű gyűrűspereszke"
     ]
-  },
-  {
-    "latin": "Tricholoma magnivelare",
-    "eng": "american matsutake"
   },
   {
     "latin": "Tricholoma pardinum",
@@ -15182,14 +10034,6 @@
     ]
   },
   {
-    "latin": "Tylopilus alboater",
-    "eng": "black velvet bolete"
-  },
-  {
-    "latin": "Tylopilus chromapes",
-    "eng": "yellowfoot bolete"
-  },
-  {
     "latin": "Urnula craterium",
     "eng": "devil's urn",
     "id": 2281,
@@ -15197,14 +10041,6 @@
     "hun_syn": [
       "nagy fekete-kehelygomba"
     ]
-  },
-  {
-    "latin": "Weraroa virescens",
-    "eng": "blue pouch fungus"
-  },
-  {
-    "latin": "Xylaria tentaculata",
-    "eng": "fairy sparkler"
   },
   {
     "latin": "Clitocella fallax",
@@ -15215,10 +10051,6 @@
       "Rhodocybe fallax"
     ],
     "hun": "fehér álcölöpgomba"
-  },
-  {
-    "latin": "Hydenllum scabrosum",
-    "eng": "greenfoot tooth"
   },
   {
     "id": 1,
