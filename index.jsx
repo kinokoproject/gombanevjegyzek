@@ -1,29 +1,42 @@
 import React, { useState } from 'react'
 import ReactDOM from 'react-dom'
+import { Index } from 'flexsearch'
 import { useFlexSearch } from './react-use-flexsearch'
-import FlexSearch from 'flexsearch'
 import names from './db.json'
 import './style/app.scss';
 
-const index = new FlexSearch({
-  encode: "advanced",
+const index = new Index({
   tokenize: "reverse",
   suggest: true,
   cache: true
 });
 
-names.forEach(sp => {
+for (const [id, sp] of Object.entries(names)) {
   var text = sp.latin
   if(sp.latin_syn) { text += " " + sp.latin_syn.join(" ") }
   text += " " + sp.hun
   if(sp.hun_syn) { text += " " + sp.hun_syn.join(" ") }
-  index.add(sp.id, text)
-})
+  if(sp.eng) { 
+    text += " " + sp.eng
+  }
+  index.add(id, text)
+}
 
 export default function SearchBar() {
 
+  const [timer, setTimer] = useState(null)
   const [query, setQuery] = useState(null)
   const results = useFlexSearch(query, index, names)
+
+  const inputChanged = event => {
+    clearTimeout(timer)
+
+    const newTimer = setTimeout(() => {
+      setQuery(event.target.value)
+    }, 400)
+
+    setTimer(newTimer)
+  }
 
   return (
     <div>
@@ -34,7 +47,7 @@ export default function SearchBar() {
               <div className="field-body">
                 <div className="field">
                   <p className="control">
-                    <input placeholder="Keresés" className="input" name="query" type="text" onChange={(event) => setQuery(event.target.value) } />
+                    <input placeholder="Keresés" className="input" name="query" type="text" onChange={inputChanged} />
                   </p>
                 </div>
               </div>
@@ -56,6 +69,7 @@ export default function SearchBar() {
                     <th>Latin szinonímák</th>
                     <th>Magyar név</th>
                     <th>Magyar szinonímák</th>
+                    <th>Angol név</th>
                   </tr>
                   </thead>
                   <tbody>
@@ -65,6 +79,7 @@ export default function SearchBar() {
                       <td data-label="latin szin.">{sp.latin_syn ? sp.latin_syn.join(", ") : ''}</td>
                       <td data-label="magyar">{sp.hun}</td>
                       <td data-label="magyar szin.">{sp.hun_syn ? sp.hun_syn.join(", ") : ''}</td>
+                      <td data-label="angol">{sp.eng ? sp.eng : ''}</td>
                     </tr>
                   ))}
                  </tbody>
