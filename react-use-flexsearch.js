@@ -1,6 +1,5 @@
-// Fork of https://github.com/angeloashmore/react-use-flexsearc
 import { useState, useEffect, useMemo } from 'react'
-import FlexSearch from 'flexsearch'
+import { Index } from 'flexsearch'
 
 export const useFlexSearch = (query, providedIndex, store, searchOptions) => {
   const [index, setIndex] = useState(null)
@@ -26,21 +25,19 @@ export const useFlexSearch = (query, providedIndex, store, searchOptions) => {
       return
     }
 
-    if (providedIndex instanceof FlexSearch) {
+    if (providedIndex instanceof Index) {
       setIndex(providedIndex)
       return
     }
 
-    const importedIndex = FlexSearch.create()
+    const importedIndex = Index.create()
     importedIndex.import(providedIndex)
 
     setIndex(importedIndex)
   }, [providedIndex])
 
   return useMemo(() => {
-    if (!index || !store) return []
-
-    if (!query) return store
+    if (!query || !index || !store) return []
 
     const rawResults = index.search(query, searchOptions)
 
