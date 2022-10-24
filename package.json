@@ -18,7 +18,7 @@
     "cssnano": "^4.1.11",
     "esm": "^3.2.25",
     "parcel-bundler": "^1.12.5",
-    "sass": "^1.32.7"
+    "sass": "^1.55.0"
   },
   "scripts": {
     "test": "ava",
