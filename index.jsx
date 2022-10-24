@@ -1,14 +1,17 @@
 import React, { useState } from 'react'
 import ReactDOM from 'react-dom'
 import { Index } from 'flexsearch'
+import { encode } from 'flexsearch/src/lang/latin/balance'
 import { useFlexSearch } from './react-use-flexsearch'
 import names from './db.json'
 import './style/app.scss';
 
 const index = new Index({
+  charset: "latin:extra",
   tokenize: "reverse",
   suggest: true,
-  cache: true
+  cache: true,
+  encode: encode
 });
 
 for (const [id, sp] of Object.entries(names)) {
