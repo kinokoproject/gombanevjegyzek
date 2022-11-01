@@ -1,10 +1,12 @@
-import React, { useState } from 'react'
-import ReactDOM from 'react-dom'
-import { Index } from 'flexsearch'
-import { encode } from 'flexsearch/src/lang/latin/balance'
-import { useFlexSearch } from './react-use-flexsearch'
-import names from './db.json'
+import React, { useState } from 'react';
+import ReactDOM from 'react-dom';
+import { Index } from 'flexsearch';
+import { encode } from 'flexsearch/src/lang/latin/balance';
+import { useFlexSearch } from './react-use-flexsearch';
+import names from './db.json';
 import './style/app.scss';
+import { CopyToClipboard } from 'react-copy-to-clipboard';
+import { IoCopyOutline } from "react-icons/io5";
 
 const index = new Index({
   charset: "latin:extra",
@@ -22,6 +24,7 @@ for (const [id, sp] of Object.entries(names)) {
   if(sp.eng) { 
     text += " " + sp.eng
   }
+  sp.id = id
   index.add(id, text)
 }
 
@@ -83,6 +86,16 @@ export default function SearchBar() {
                       <td data-label="magyar">{sp.hun}</td>
                       <td data-label="magyar szin.">{sp.hun_syn ? sp.hun_syn.join(", ") : ''}</td>
                       <td data-label="angol">{sp.eng ? sp.eng : ''}</td>
+                      <td>
+                        <CopyToClipboard text={ `${sp.latin} - ${sp.hun}${sp.eng ? ' - ' + sp.eng : ''}`} className="button small">
+                          <button className="button small is-light">
+                            <span className="icon small">
+                              <IoCopyOutline />
+                            </span>
+                            <span>Copy</span>
+                          </button>
+                        </CopyToClipboard>
+                      </td>
                     </tr>
                   ))}
                  </tbody>
