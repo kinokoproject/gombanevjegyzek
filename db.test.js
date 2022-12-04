@@ -22,6 +22,8 @@ test('required fields', t => {
 
     t.notRegex(name.latin, /,/, id + ' has comma in "latin" property');
 
+    t.regex(name.latin, /[A-Z][a-z]+ [a-z]+/, id + ' is contains two words');
+
     t.assert(name.hasOwnProperty('hun'), id + ' has no "hun" property');
 
     t.notRegex(name.hun, /,/, id + ' has comma in "hun" property');
