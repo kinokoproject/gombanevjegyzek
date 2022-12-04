@@ -13005,7 +13005,7 @@
         "hun": "homoki álbékagomba"
     },
     "1807": {
-        "latin": "Pseudoplectaniamelaena",
+        "latin": "Pseudoplectania melaena",
         "latin_syn": [
             "Pseudoplectania vogesiaca"
         ],
@@ -14260,11 +14260,12 @@
         ]
     },
     "2006": {
-        "latin": "Schizophyllumamplum",
+        "latin": "Schizophyllum amplum",
         "latin_syn": [
             "Auriculariopsis ampla",
             "Cytidia flocculenta"
         ],
+        "eng": "poplar bells",
         "hun": "pihés gyűszűgomba",
         "hun_syn": [
             "fülecskegomba"
